@@ -1,0 +1,18987 @@
+မိုး	n
+ပေါ်	n
+မှာ	ppm
+ကြယ်	n
+တွေ	part
+ဝင်း	n
+လို့	part
+လ	n
+မင်း	pron
+က	ppm
+ထိန်ထိန်သာ	n
+။	punc
+လ	n
+မင်း	pron
+နှင့်	conj
+ကြယ်	n
+တာ	part
+ရာ	part
+ငယ်	adj
+ဘယ်	adj
+ဟာ	ppm
+က	ppm
+ကြီး	part
+ပါ	part
+လိမ့်	part
+။	punc
+ဘယ်	adj
+ဟာ	ppm
+က	ppm
+နီး	v
+ပါ	part
+လိမ့်	part
+။	punc
+အမည်	n
+မ	part
+သိ	v
+စာ	n
+ဆို	v
+
+
+
+
+ည	n
+ကောင်းကင်	n
+ရဲ့	ppm
+အလှ	n
+ကို	ppm
+ခံစား	v
+ပြီး	conj
+ကဗျာ	n
+ကို	ppm
+ရွတ်ဆို	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+ပေး	part
+ထား	part
+တဲ့	part
+နမူနာ	n
+စကားလုံး	n
+တွေ	part
+ထဲ	ppm
+က	ppm
+စကားလုံး	n
+သုံး	v
+လုံး	part
+ကို	ppm
+ရွေး	v
+ပြီး	conj
+ရုပ်ပုံကားချပ်	n
+ဆွဲ	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+လှေ	n
+ပန်း	n
+ခွေး	n
+ကြောင်ကလေး	n
+ရေကန်	n
+သစ်ပင်	n
+သစ်သီး	n
+သင်္ဘော	n
+လွယ်အိတ်	n
+မြက်ခင်း	n
+ငှက်ကလေး	n
+
+
+
+
+သာဓက	n
+ရောင်ခြည်ဖြာ	n
+တဲ့	part
+မနက်ခင်း	n
+မှာ	ppm
+ကောင်းကင်	n
+ပေါ်	n
+မှာ	ppm
+ငှက်ကလေး	n
+တွေ	part
+ပျံဝဲ	v
+နေ	part
+ကြ	part
+တယ်	ppm
+။	punc
+ပန်းခင်း	n
+ထဲ	ppm
+မှာ	ppm
+ကြောင်ကလေး	n
+တစ်	tn
+ကောင်	part
+လဲ	part
+ထိုင်	v
+နေ	part
+တယ်	ppm
+
+
+
+
+ကိုယ်	pron
+ဆွဲ	v
+ထား	part
+တဲ့	part
+ရုပ်ပုံ	n
+တွေ	part
+အကြောင်း	n
+ကို	ppm
+အချင်းချင်း	adv
+ပြော	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ငါ့	pron
+ရဲ့	ppm
+ရုပ်ပုံ	n
+ထဲ	ppm
+မှာ	ppm
+မြက်ပင်	n
+တွေ	part
+ပါ	part
+တယ်	ppm
+။	punc
+ရေကန်	n
+လဲ	part
+ပါ	part
+တယ်	ppm
+။	punc
+ပန်းပွင့်	n
+လေး	tn
+ပွင့်	v
+လဲ	part
+ပါ	part
+တယ်	ppm
+
+
+
+
+ငါ	pron
+က	ppm
+တော့	part
+သစ်တော	n
+ပုံ	n
+ကို	ppm
+ဆွဲ	v
+ထား	part
+တယ်	ppm
+။	punc
+ဒီ	adj
+သစ်တော	n
+ထဲ	ppm
+မှာ	ppm
+ငှက်ကလေး	n
+လေး	tn
+ကောင်	part
+နဲ့	ppm
+အပင်	n
+တွေ	part
+လဲ	part
+ရှိ	v
+တယ်	ppm
+
+
+
+
+ရုပ်ပုံ	n
+ဆွဲ	v
+တဲ့	part
+အခါ	n
+ကိုယ့်	pron
+ရဲ့	ppm
+မှတ်စု	n
+စာအုပ်	n
+ထဲ	ppm
+မှာ	ppm
+ပဲ	part
+ဆွဲ	v
+ရ	part
+မယ်	ppm
+။	punc
+ကိုယ်	pron
+ဆွဲ	v
+ထား	part
+တဲ့	part
+ပုံ	n
+အကြောင်း	n
+ကို	ppm
+ရှင်းပြ	v
+ရ	part
+မယ်	ppm
+။	punc
+ကိုယ်	pron
+ဆွဲ	v
+ထား	part
+တဲ့	part
+ပုံ	n
+ကို	ppm
+သူငယ်ချင်း	n
+တွေ	part
+နားလည်	v
+အောင်	conj
+ဘယ်လို	adv
+ရှင်းပြ	v
+ရင်	conj
+ကောင်း	adj
+မ	part
+လဲ	part
+ဆို	v
+တာ	part
+သေသေချာချာ	adv
+စဉ်းစား	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+နော်	part
+
+
+
+
+ဆွဲ	v
+ထား	part
+တဲ့	part
+ရုပ်ပုံ	n
+တွေ	part
+ထဲ	ppm
+မှာ	ppm
+တူညီ	v
+တဲ့	part
+အချက်	n
+မ	part
+တူညီ	v
+တဲ့	part
+အချက်	n
+တွေ	part
+ကို	ppm
+ရှာ	v
+ပြီး	conj
+ပြော	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+ရေ	n
+ငါ	pron
+ဆွဲ	v
+ထား	part
+တဲ့	part
+ပုံ	n
+မှာ	ppm
+တော့	part
+ပန်းပွင့်ကလေး	n
+တွေ	part
+ပါ	part
+တယ်	ppm
+
+
+
+
+ငါ	pron
+တို့	part
+နှစ်	tn
+ယောက်	part
+စလုံး	part
+ရဲ့	ppm
+ပုံ	n
+ထဲ	ppm
+မှာ	ppm
+ပန်းပွင့်	n
+တွေ	part
+ပါ	part
+တာ	part
+တူ	v
+နေ	part
+တယ်	ppm
+။	punc
+ဒါပေမဲ့	conj
+မင်း	pron
+ရဲ့	ppm
+ပုံ	n
+ထဲ	ppm
+မှာ	ppm
+တော့	part
+ဘောလုံး	n
+မ	part
+ပါ	part
+ဘူး	part
+နော်	part
+
+
+
+
+ရုပ်ပုံ	n
+တွေ	part
+ကို	ppm
+သေသေချာချာ	adv
+စဉ်းစား	v
+ပြီး	conj
+ဆွဲ	v
+ထား	part
+ရဲ့	ppm
+လား	part
+။	punc
+
+
+
+
+ကိုယ့်	pron
+ရဲ့	ppm
+ပုံ	n
+ကို	ppm
+ဘယ်လို	adv
+စိတ်ကူး	v
+မျိုး	n
+နဲ့	ppm
+ဆွဲ	v
+ထား	part
+တာ	part
+လဲ	part
+။	punc
+
+
+
+
+ကိုယ့်	pron
+သူငယ်ချင်း	n
+ဆွဲ	v
+ထား	part
+တာ	part
+နဲ့	ppm
+တူညီ	v
+တဲ့	part
+အချက်	n
+၊	punc
+မ	part
+တူညီ	v
+တဲ့	part
+အချက်	n
+တွေ	part
+ကို	ppm
+ရှာ	v
+ပြီး	conj
+ပြော	v
+ပြ	v
+ရ	part
+မယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+အဘိုးအို	n
+တစ်	tn
+ယောက်	part
+သည်	ppm
+မိမိ	pron
+၏	sb
+ခြံစည်းရိုး	n
+နား	n
+တွင်	ppm
+မြေ	n
+ကို	ppm
+တူးဆွ	n
+ကာ	conj
+သရက်ပင်	n
+ပေါက်	v
+လေး	part
+များ	part
+ကို	ppm
+စိုက်ပျိုး	v
+နေ	part
+၏	sb
+။	punc
+
+
+
+
+အိမ်ရှေ့မင်းသား	n
+သည်	ppm
+တောကစား	n
+ထွက်	v
+လာ	part
+စဉ်	conj
+ထို	adj
+ခြံစည်းရိုး	n
+အနား	n
+သို့	ppm
+ရောက်	v
+လာ	part
+၏	sb
+။	punc
+
+
+
+
+အဘိုးအို	n
+လည်း	part
+မင်းသား	n
+ကို	ppm
+ဝမ်းမြောက်ဝမ်းသာ	adv
+ခရီးဦးကြို	n
+ပြု	v
+ပြီး	conj
+လျှင်	conj
+လတ်ဆတ်	adj
+မွှေးကြိုင်	v
+ချိုမြိန်	adj
+သော	part
+သရက်သီး	n
+တို့	part
+ဖြင့်	ppm
+ဧည့်ခံ	v
+၏	sb
+။	punc
+မင်းသား	n
+လည်း	part
+မြိန်ရှက်	n
+စွာ	part
+သုံး	v
+ဆောင်	v
+ပြီး	conj
+သော်	conj
+
+
+
+
+မင်းသား	n
+။	punc
+။	punc
+သရက်သီး	n
+များ	part
+သုံး	v
+ဆောင်	v
+ရ	part
+သည်	ppm
+မှာ	ppm
+အလွန်	adv
+အရသာ	n
+ရှိ	v
+လှ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ကျွန်ုပ်	pron
+တစ်	tn
+ခု	part
+မေး	v
+ပါ	part
+ရ	part
+စေ	part
+။	punc
+
+
+
+
+ကျွန်ုပ်	pron
+လာ	part
+စဉ်	conj
+က	ppm
+အဘိုး	n
+မည်	ppm
+သည့်	part
+အပင်	n
+များ	part
+ကို	ppm
+စိုက်	v
+နေ	part
+ပါ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+အဘိုးအို	n
+။	punc
+။	punc
+သရက်ပင်	n
+ပေါက်	v
+ငယ်	adj
+များ	part
+ကို	ppm
+စိုက်ပျိုး	v
+နေ	part
+ပါ	part
+သည်	ppm
+အရှင့်သား	n
+။	punc
+
+
+
+
+မင်းသား	n
+။	punc
+။	punc
+အဘိုး	n
+အသက်	n
+မည်မျှ	pron
+ရှိ	v
+ပြီ	ppm
+နည်း	n
+။	punc
+
+
+
+
+အဘိုးအို	n
+။	punc
+။	punc
+ကျွန်ုပ်	pron
+အသက်	n
+ရှစ်ဆယ်	tn
+ရှိ	v
+ပါ	part
+ပြီ	ppm
+။	punc
+
+
+
+
+မင်းသား	n
+။	punc
+။	punc
+အဘိုး	n
+အသက်	n
+သည်	ppm
+မည်မျှ	pron
+ဆက်	v
+၍	sb
+ရှည်	adj
+နေ	part
+ဦး	part
+မည်	ppm
+ဟု	part
+ထင်	v
+ပါ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+ယခု	n
+အဘိုး	n
+စိုက်ပျိုး	v
+သော	part
+သရက်သီး	n
+ကို	ppm
+အဘိုး	n
+စား	v
+ရန်	conj
+မျှော်လင့်	v
+နေ	part
+ပါ	part
+သေး	part
+သလော	part
+။	punc
+
+
+
+
+မိမိ	pron
+အတွက်	ppm
+အကျိုး	n
+မ	part
+ရှိ	v
+နိုင်	part
+သည့်	part
+အလုပ်	n
+ကို	ppm
+လုပ်	v
+ခြင်း	part
+သည်	ppm
+သင့်မြတ်	v
+ပါ	part
+၏	sb
+လော	v
+။	punc
+
+
+
+
+အဘိုးအို	n
+။	punc
+။	punc
+ယခု	n
+သရက်သီး	n
+ကို	ppm
+အသင်	n
+မင်းသား	n
+စား	v
+သုံး	v
+နိုင်	part
+ခြင်း	part
+သည်	ppm
+ကျွန်ုပ်	pron
+၏	sb
+ဘိုးဘေး	n
+များ	part
+က	ppm
+စိုက်ပျိုး	v
+ခဲ့	part
+သော	part
+ကြောင့်	ppm
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်ုပ်	pron
+ယခု	n
+စိုက်ပျိုး	v
+နေ	part
+သော	part
+သရက်ပင်	n
+ပေါက်	v
+များ	part
+ကြီးပြင်း	v
+လာ	part
+သောအခါ	conj
+တွင်	ppm
+ကျွန်ုပ်	pron
+၏	sb
+သား	n
+မြေး	n
+နှင့်	conj
+နောင်လာနောက်သား	n
+များ	part
+စား	v
+သုံး	v
+နိုင်	part
+ကြ	part
+ပါ	part
+လိမ့်	part
+မည်	ppm
+။	punc
+
+
+
+
+ထိုသို့	n
+အဘိုးအို	n
+က	ppm
+လျှောက်	v
+လေ	part
+သော်	conj
+အိမ်ရှေ့မင်းသား	n
+သည်	ppm
+များ	part
+စွာ	part
+သဘောကျ	v
+သဖြင့်	ppm
+
+
+
+
+မင်းသား	n
+။	punc
+။	punc
+အဘိုးအို	n
+၏	sb
+စကား	n
+သည်	ppm
+မှတ်သား	v
+ထိုက်	v
+ပေစွ	n
+။	punc
+ကျွန်ုပ်	pron
+မ	part
+စဉ်းစား	v
+မ	part
+ဆင်ခြင်	v
+ဘဲ	part
+ပြော	v
+မိ	part
+ခြင်း	part
+ကို	ppm
+သည်းခံ	v
+ပါ	part
+။	punc
+ယနေ့	n
+မှ	ppm
+စ	v
+၍	sb
+ကျွန်ုပ်	pron
+သည်	ppm
+တစ်	tn
+ဖို့	part
+တည်း	part
+ကို	ppm
+မ	part
+ကြည့်	v
+တော့	part
+ပါ	part
+။	punc
+ကျွန်ုပ်	pron
+နှင့်တကွ	n
+နောင်လာနောက်သား	n
+တို့	part
+အကျိုး	n
+ရှိ	v
+မည့်	part
+အလုပ်	n
+မျိုး	n
+ကို	ppm
+သာ	part
+လုပ်	v
+ပါ	part
+တော့	part
+မည်	ppm
+။	punc
+အဘိုး	n
+အား	ppm
+လည်း	part
+ပူဇော်	v
+ပါ	part
+ရ	part
+စေ	part
+။	punc
+
+
+
+
+ထိုသို့	n
+ဆို	v
+၍	sb
+အိမ်ရှေ့မင်းသား	n
+သည်	ppm
+ပတ္တမြား	n
+လက်စွပ်	n
+ကို	ppm
+ချွတ်	v
+ပေး	part
+ခဲ့	part
+ပြီး	conj
+စီးတော်မြင်း	n
+ကို	ppm
+နှင်	v
+ကာ	conj
+ရွှင်လန်း	v
+စွာ	part
+ထွက်	v
+သွား	v
+လေ	part
+၏	sb
+။	punc
+
+
+
+
+အဘိုးအို	n
+က	ppm
+ငါ့	pron
+စေတနာ	n
+အလျောက်	conj
+စိုက်ပျိုး	v
+သော	part
+အပင်	n
+ကလေး	n
+များ	part
+သည်	ppm
+ယခု	n
+လက်ငင်း	n
+ပင်	part
+ပတ္တမြားသီး	n
+သီး	v
+ပေ	part
+ပြီ	ppm
+ဟု	part
+ဝမ်းမြောက်ဝမ်းသာ	adv
+ကျူးရင့်	n
+လေ	part
+၏	sb
+။	punc
+
+
+
+
+၁	num
+။	punc
+တောကစား	n
+=	sb
+မင်းညီမင်းသား	n
+တို့	part
+တော	n
+၌	sb
+အမဲ	n
+လိုက်	part
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ခရီးဦးကြို	n
+=	sb
+ရောက်	v
+လာ	part
+သော	part
+ဧည့်သည်	n
+ကို	ppm
+ဆီးကြို	n
+ခေါ်	v
+ယူ	v
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+မြိန်ရှက်	n
+စွာ	part
+=	sb
+နှစ်ခြိုက်	adv
+အား	ppm
+ရ	part
+စွာ	part
+(	punc
+စားသောက်	v
+သည်	ppm
+)	punc
+။	punc
+
+
+
+
+၄	num
+။	punc
+သုံးဆောင်	v
+=	sb
+စားသောက်	v
+သည်	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+အရှင့်သား	n
+=	sb
+ဘုရင့်သားတော်	n
+များ	part
+ကို	ppm
+ခေါ်	v
+သည့်	part
+စကား	n
+။	punc
+
+
+
+
+၆	num
+။	punc
+မျှော်လင့်	v
+=	sb
+ရည်မှန်း	v
+စောင့်	v
+စား	v
+သည်	ppm
+။	punc
+
+
+
+
+၇	num
+။	punc
+သလော	part
+၊	punc
+လော	v
+=	sb
+အမေးစကား	n
+။	punc
+
+
+
+
+၈	num
+။	punc
+သင့်မြတ်	v
+=	sb
+သင့်လျော်	n
+သည်	ppm
+။	punc
+
+
+
+
+၉	num
+။	punc
+ဘိုးဘေး	n
+=	sb
+ဘိုးဘွား	n
+ဆွေမျိုး	n
+အစဉ်အဆက်	adv
+။	punc
+
+
+
+
+၁၀	num
+။	punc
+နောင်လာနောက်သား	n
+=	sb
+သား	n
+မြေး	n
+အစဉ်အဆက်	adv
+။	punc
+
+
+
+
+၁၁	num
+။	punc
+မှတ်သား	v
+ထိုက်	v
+ပေစွ	n
+=	sb
+စိတ်	n
+တွင်	ppm
+စွဲ	v
+မှတ်	v
+ထား	part
+သင့်	part
+ပေ	part
+၏	sb
+။	punc
+
+
+
+
+၁၂	num
+။	punc
+တစ်ဖို့တည်း	n
+=	sb
+တစ်	tn
+စုံ	v
+တစ်	tn
+ဦး	part
+အတွက်	ppm
+သာ	part
+။	punc
+
+
+
+
+၁၃	num
+။	punc
+စီးတော်မြင်း	n
+=	sb
+ဘုရင်	n
+မင်းညီမင်းသား	n
+တို့	part
+စီး	v
+သော	part
+မြင်း	n
+။	punc
+
+
+
+
+၁၄	num
+။	punc
+စေတနာ	n
+=	sb
+သူတစ်ပါး	n
+အကျိုး	n
+ကို	ppm
+လို	v
+လား	part
+သော	part
+စိတ်	n
+။	punc
+
+
+
+
+၁၅	num
+။	punc
+ကျူးရင့်	n
+=	sb
+ဝမ်းမြောက်ဝမ်းသာ	adv
+စွာ	part
+ပြော	v
+ဆို	v
+သည်	ppm
+။	punc
+
+
+
+
+သတ်ပုံ	n
+အမှန်	n
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+ကွက်လပ်	n
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+အဘိုးအို	n
+က	ppm
+လက်ငင်း	n
+ပင်	part
+ပတ္တမြားသီး	n
+သီး	v
+လေ	part
+ပြီ	ppm
+ဟု	part
+ကျူးရင့်	n
+လေ	part
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+မနက်ဖြန်	n
+မနက်	n
+တွင်	ppm
+ဖေဖေ	n
+ပြန်	v
+လာ	part
+မည်	ppm
+ဟု	part
+ကျွန်တော်	pron
+မျှော်လင့်	v
+နေ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ညီမလေး	n
+သည်	ppm
+ဖေဖေ	n
+ဝယ်	v
+လာ	part
+သော	part
+မုန့်	n
+များ	part
+ကို	ppm
+မြိန်ရှက်	n
+စွာ	part
+စား	v
+နေ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+စည်းရိုး	n
+၊	punc
+လက်ငင်း	n
+၊	punc
+ချိုမြိန်	adj
+၊	punc
+ဝမ်းမြောက်ဝမ်းသာ	adv
+၊	punc
+သဘောကျ	v
+
+
+
+
+သာဓက	n
+
+
+
+
+စည်းရိုး	n
+။	punc
+။	punc
+ကျွန်တော်	pron
+တို့	part
+ခြံဝင်း	n
+ကို	ppm
+စည်းရိုး	n
+များ	part
+ကာရံ	v
+ထား	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+မင်းသား	n
+နှင့်	conj
+အဘိုးအို	n
+မည်သည့်	n
+နေရာ	n
+တွင်	ppm
+တွေ့	v
+ခဲ့	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+အဘိုးအို	n
+က	ppm
+မည်သည့်	n
+အစားအစာ	n
+ဖြင့်	ppm
+ဧည့်ခံ	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+မိမိ	pron
+အတွက်	ppm
+အကျိုး	n
+မ	part
+ရှိ	v
+သော	part
+အလုပ်	n
+ကို	ppm
+လုပ်	v
+ခြင်း	part
+သည်	ppm
+သင့်မြတ်	v
+ပါ	part
+၏	sb
+လော	v
+ဟု	part
+မင်းသား	n
+က	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+မေး	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+မင်းသား	n
+က	ppm
+အဘိုးအို	n
+ကို	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+ပတ္တမြား	n
+လက်စွပ်	n
+ပေး	part
+ခဲ့	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+လက်ငင်း	n
+ပင်	part
+ပတ္တမြားသီး	n
+သီး	v
+လေ	part
+ပြီ	ppm
+"	punc
+ဟု	part
+အဘိုးအို	n
+က	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+ပြော	v
+ခဲ့	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၆	num
+။	punc
+မင်းသား	n
+သည်	ppm
+အဘိုးအို	n
+ထံ	ppm
+မှ	ppm
+ထွက်	v
+သွား	v
+ပြီးနောက်	conj
+မည်	ppm
+သို့	ppm
+ဆက်	v
+လုပ်	v
+မည်	ppm
+ထင်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+သင်ခန်းစာ	n
+၄	num
+စကားလုံး	n
+သစ်ပင်	n
+
+
+
+
+စားဖိုမှူး	n
+သစ်ပင်	n
+မှာ	ppm
+ပါ	part
+တဲ့	part
+စကားလုံးလေး	n
+တွေ	part
+ကို	ppm
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဘာ	pron
+တွေ	part
+ထပ်	adv
+ဖြည့်	v
+ချင်	part
+သေး	part
+သလဲ	part
+။	punc
+အခွံ	n
+နွှာ	n
+သည်	ppm
+အရသာ	n
+မြည်း	v
+သည်	ppm
+ကင်	v
+သည်	ppm
+ကြော်	v
+သည်	ppm
+ပြုတ်	v
+သည်	ppm
+စားဖိုမှူး	n
+သစ်ပင်	n
+ချက်	part
+သည်	ppm
+
+
+
+
+၄	num
+။	punc
+စကားလုံး	n
+သစ်ပင်	n
+
+
+
+
+ခေါင်းစဉ်	n
+နဲ့	ppm
+ကိုက်ညီ	v
+တဲ့	part
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+စဉ်းစား	v
+ပြီး	conj
+စကားလုံး	n
+သစ်ပင်	n
+ကို	ppm
+အဖွဲ့	n
+လိုက်	part
+တည်ဆောက်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+မျက်လုံး	n
+အကြည့်	n
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+လှုပ်ရှား	v
+မှု	part
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+စိတ်	n
+ခံစား	v
+မှု	part
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+အားကစား	n
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+သန့်ရှင်း	v
+ရေး	part
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+
+
+
+
+မျက်လုံး	n
+အကြည့်	n
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+မျက်လုံး	n
+အကြည့်	n
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+ဆို	v
+တာ	part
+စိုက်ကြည့်	v
+တယ်	ppm
+၊	punc
+ပြူး	v
+ကြည့်	v
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြည့်	n
+မျိုး	n
+ကို	ppm
+ပြော	v
+တာ	part
+ဖြစ်	v
+တယ်	ppm
+။	punc
+နမူနာ	n
+ပေး	part
+ထား	part
+တဲ့	part
+စကားလုံး	n
+တွေ	part
+နဲ့	ppm
+စကားလုံး	n
+သစ်ပင်	n
+တည်ဆောက်	v
+ကြည့်	v
+ပါ	part
+အုံး	n
+
+
+
+
+အဖွဲ့	n
+အတွင်း	n
+မှာ	ppm
+ခေါင်းစဉ်	n
+ကို	ppm
+ရွေးချယ်	v
+ပြီး	conj
+ပါ	part
+ဝင်	v
+မဲ့	part
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+တစ်	tn
+ဦး	part
+ချင်း	part
+စဉ်းစား	v
+ကြည့်	v
+ပါ	part
+။	punc
+စဉ်းစား	v
+ပြီး	conj
+တော့	part
+စာရွက်	n
+မှာ	ppm
+ရေး	part
+ထား	part
+ပါ	part
+။	punc
+
+
+
+
+စဉ်းစား	v
+ထား	part
+တဲ့	part
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+အဖွဲ့	n
+တွင်း	n
+မှာ	ppm
+ဆွေးနွေး	v
+ပြီး	conj
+စကားလုံး	n
+သစ်ပင်	n
+ပြုလုပ်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+တို့	part
+အဖွဲ့	n
+က	ppm
+တော့	part
+စိတ်	n
+ခံစား	v
+မှု	part
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+ကို	ppm
+ရွေး	v
+တယ်	ppm
+တို့	part
+အဖွဲ့	n
+က	ppm
+လှုပ်ရှား	v
+မှု	part
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စကားလုံး	n
+ကို	ppm
+ရွေး	v
+ထား	part
+တယ်	ppm
+
+
+
+
+၄	num
+။	punc
+စကားလုံး	n
+သစ်ပင်	n
+
+
+
+
+အဖွဲ့	n
+လိုက်	part
+ပြုစု	v
+ထား	part
+တဲ့	part
+စကားလုံး	n
+သစ်ပင်	n
+ကို	ppm
+အတန်း	n
+ထဲ	ppm
+မှာ	ppm
+ပြော	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ကဗျာ	n
+ရွတ်	v
+သည်	ppm
+သင်္ချာ	n
+တွက်	v
+သည်	ppm
+စာ	n
+မေး	v
+သည်	ppm
+ပုံ	n
+ဆွဲ	v
+သည်	ppm
+စာ	n
+ရေး	part
+သည်	ppm
+မှတ်စု	n
+မှတ်	v
+သည်	ppm
+စာ	n
+ဖတ်	v
+သည်	ppm
+မြေပုံ	n
+ဆွဲ	v
+သည်	ppm
+စာ	n
+ကူး	v
+သည်	ppm
+စာ	n
+ပြ	v
+သည်	ppm
+သင်ကြား	v
+သင်ယူ	v
+မှု	part
+သစ်ပင်	n
+
+
+
+
+စကားလုံး	n
+သစ်ပင်လေး	n
+တွေ	part
+ကို	ppm
+ပျော်ပျော်ရွှင်ရွှင်	adv
+နဲ့	ppm
+တည်ဆောက်	v
+နိုင်	part
+ခဲ့	part
+ကြ	part
+ရဲ့	ppm
+လား	part
+
+
+
+
+မိမိ	pron
+တို့	part
+နေ့စဉ်	adv
+စား	v
+သုံး	v
+နေ	part
+သော	part
+ဆား	n
+သည်	ppm
+အလွန်	adv
+အသုံးဝင်	v
+သည်း	n
+။	punc
+ဆား	n
+သည်	ppm
+မည်	ppm
+ကဲ့သို့	part
+အသုံးဝင်	v
+သနည်း	ppm
+။	punc
+ဆား	n
+မည်	ppm
+ကဲ့သို့	part
+ရ	part
+ရှိ	v
+သည်	ppm
+ကို	ppm
+သိ	v
+ပါ	part
+သလား	part
+။	punc
+
+
+
+
+ဆား	n
+မ	part
+ပါ	part
+သော	part
+ဟင်း	n
+သည်	ppm
+အရသာ	n
+ပေါ့ပြက်ပြက်	adv
+ဖြစ်	v
+တတ်	part
+သည်	ppm
+။	punc
+အငန်ဓာတ်	n
+ပါ	part
+ဝင်	v
+သော	part
+ဆား	n
+သည်	ppm
+အစားအစာ	n
+များ	part
+ကို	ppm
+အရသာ	n
+ရှိ	v
+စေ	part
+ရုံ	part
+မ	part
+က	ppm
+ကျန်းမာ	v
+ရေး	part
+အတွက်	ppm
+ပါ	part
+အထောက်အကူ	n
+ပြု	v
+သည်	ppm
+။	punc
+ချွေး	n
+ထွက်	v
+လျှင်	conj
+ခန္ဓာကိုယ်	n
+အညစ်အကြေး	n
+တို့	part
+နှင့်တကွ	n
+ဆား	n
+ဓာတ်	n
+ပါ	part
+သွား	v
+၍	conj
+ကာယလုပ်သား	n
+များ	part
+နှင့်	conj
+အားကစားသမား	n
+များ	part
+သည်	ppm
+သာမန်	adj
+လူ	n
+တို့	part
+ထက်	conj
+ဆား	n
+ဓာတ်	n
+ပိုမို	adj
+လိုအပ်	v
+သည်	ppm
+။	punc
+သို့သော်	conj
+တန်ဆေးလွန်ဘေး	n
+ဆို	v
+သကဲ့သို့	conj
+ဆား	n
+အစား	n
+များ	part
+လွန်း	part
+လျှင်	conj
+ကျန်းမာ	v
+ရေး	part
+ထိခိုက်	v
+နိုင်	part
+သည်	ppm
+။	punc
+
+
+
+
+ဆား	n
+သည်	ppm
+ခန္ဓာကိုယ်	n
+အတွက်	ppm
+အသုံးဝင်	v
+ရုံ	part
+သာ	part
+မ	part
+က	ppm
+အသား	n
+ငါး	n
+များ	part
+မပုပ်မသိုး	n
+ဘဲ	part
+ကြာရှည်	v
+ခံ	v
+အောင်	conj
+ဆား	n
+နယ်	n
+၍	sb
+ငါးပိ	n
+၊	punc
+ငါး	tn
+ခြောက်	tn
+၊	punc
+အသား	n
+ခြောက်	tn
+စသည်	part
+တို့	part
+ပြုလုပ်	v
+ရာ	part
+တွင်	ppm
+လည်း	part
+အသုံးဝင်	v
+သည်	ppm
+။	punc
+ထို့ပြင်	conj
+လည်ချောင်းနာ	n
+သွား	n
+နာ	v
+ပါ	part
+က	ppm
+ဆားရည်	n
+ဖြင့်	ppm
+ပလုတ်ကျင်း	v
+ပေး	part
+လျှင်	conj
+သက်သာ	v
+နိုင်	part
+သည်	ppm
+။	punc
+ဆား	n
+ဖြင့်	ppm
+သွား	v
+တိုက်	n
+ခြင်း	part
+၊	punc
+ပါးစပ်	n
+ဆေး	n
+ခြင်း	part
+တို့	part
+ကို	ppm
+ပြုလုပ်	v
+လေ့	part
+ရှိ	v
+ကြ	part
+သည်	ppm
+။	punc
+ဆား	n
+ကို	ppm
+အမျိုးမျိုး	n
+အသုံးပြု	v
+နိုင်	part
+သည်	ppm
+။	punc
+
+
+
+
+ဆား	n
+ကို	ppm
+လူ	n
+တို့	part
+သာ	part
+အလို	n
+ရှိ	v
+သည်	ppm
+မ	part
+ဟုတ်	v
+။	punc
+တိရစ္ဆာန်	n
+နှင့်	conj
+သစ်ပင်	n
+တို့	part
+သည်	ppm
+လည်း	part
+ဆား	n
+ဓာတ်	n
+လို	v
+ကြောင်း	part
+သိပ္ပံ	n
+နည်း	n
+အရ	ppm
+သိ	v
+ရှိ	v
+ရ	part
+သည်	ppm
+။	punc
+တော	n
+တွင်း	n
+တိရစ္ဆာန်	n
+တို့	part
+သည်	ppm
+ဆား	n
+ပေါက်	v
+သော	part
+မြေ	n
+ကို	ppm
+ရှာဖွေ	v
+ပြီး	conj
+လျှာ	n
+ဖြင့်	ppm
+လျက်	conj
+၍	sb
+စား	v
+ကြ	part
+သည်	ppm
+။	punc
+
+
+
+
+ဆား	n
+ကို	ppm
+မြန်မာ	n
+နိုင်ငံ	n
+တွင်	ppm
+မည်	ppm
+သည့်	part
+အရပ်	n
+ဒေသ	n
+မှ	ppm
+ရ	part
+ရှိ	v
+ပါ	part
+သနည်း	ppm
+။	punc
+ရှေး	adj
+အခါ	n
+က	ppm
+ပဲခူး	n
+နယ်	n
+မှ	ppm
+ဆား	n
+အမြောက်အမြား	n
+ထွက်	v
+ခဲ့	part
+ဖူး	part
+သည်	ppm
+။	punc
+ယခု	n
+အခါ	n
+တွင်	ppm
+ရခိုင်	n
+ပြည်နယ်	n
+၊	punc
+ဧရာ	n
+တ	part
+တီ	n
+တိုင်း	part
+ဒေသ	n
+ကြီး	part
+၊	punc
+မွန်	n
+ပြည်နယ်	n
+နှင့်	conj
+တနင်္သာရီ	n
+တိုင်း	part
+ဒေသ	n
+ကြီး	part
+တို့	part
+တွင်	ppm
+ဆား	n
+လုပ်ငန်း	n
+ကို	ppm
+အကြီးအကျယ်	adv
+လုပ်ကိုင်	v
+လျက်	conj
+ရှိ	v
+ကြ	part
+သည်	ppm
+။	punc
+အဘယ်	pron
+ကြောင့်	ppm
+ထို	adj
+ဒေသ	n
+များ	part
+တွင်	ppm
+ဆား	n
+လုပ်ငန်း	n
+ကို	ppm
+လုပ်ကိုင်	v
+ကြ	part
+သနည်း	ppm
+။	punc
+ထို	adj
+ဒေသ	n
+များ	part
+သည်	ppm
+ကမ်းရိုးတန်း	n
+ဒေသ	n
+များ	part
+ဖြစ်	v
+သည့်	part
+အတွက်	ppm
+ပင်လယ်	n
+ရေ	n
+ကို	ppm
+အလွယ်တကူ	adv
+ရ	part
+ရှိ	v
+သော	part
+ကြောင့်	ppm
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ဆား	n
+ထုတ်	v
+လုပ်	v
+ရာ	part
+တွင်	ppm
+ပင်လယ်	n
+ရေ	n
+ကို	ppm
+ကျိုချက်	v
+၍	sb
+ချက်	part
+ဆား	n
+အဖြစ်	n
+လည်း	part
+ကောင်း	adj
+၊	punc
+ရေ	n
+ခန်း	n
+အောင်	conj
+နေ	part
+လှန်း	v
+၍	sb
+နေ	part
+လှန်း	v
+ဆား	n
+အဖြစ်	n
+လည်း	part
+ကောင်း	adj
+ပြုလုပ်	v
+ကြ	part
+သည်	ppm
+။	punc
+အရပ်	n
+ဒေသ	n
+အချို့	adj
+တွင်	ppm
+ဆား	n
+ပေါက်	v
+သော	part
+မြေ	n
+ကို	ppm
+ရေ	n
+ဖျော်	v
+၍	sb
+လည်း	part
+ဆား	n
+ထုတ်	v
+လုပ်	v
+ကြ	part
+သည်	ppm
+။	punc
+အချို့	adj
+နိုင်ငံ	n
+များ	part
+တွင်	ppm
+ဆား	n
+တောင်	n
+ကြီး	part
+များ	part
+၊	punc
+ဆားတွင်းကြီး	n
+များ	part
+ရှိ	v
+နေ	part
+သဖြင့်	ppm
+သတ္တု	n
+တူးဖော်	v
+သကဲ့သို့	conj
+ဆားတူးယူ	n
+၍	sb
+ဆား	n
+ထုတ်	v
+လုပ်	v
+ကြ	part
+သည်	ppm
+။	punc
+
+
+
+
+အိုင်အိုဒင်း	n
+ဓာတ်	n
+ချို့တဲ့	v
+သော	part
+လူ	n
+တို့	part
+တွင်	ppm
+လည်ပင်း	n
+ကြီး	part
+ရောဂါ	n
+ဖြစ်	v
+တတ်	part
+သဖြင့်	ppm
+အိုင်အိုဒင်း	n
+ဖြည့်စွက်	v
+ထား	part
+သော	part
+ဆား	n
+ကို	ppm
+လည်း	part
+သီးသန့်	n
+ထုတ်	v
+လုပ်	v
+ကြ	part
+သည်	ppm
+။	punc
+
+
+
+
+အကယ်၍	conj
+ဆား	n
+လုံးဝ	adv
+မ	part
+ရှိ	v
+ပါ	part
+က	ppm
+ဆား	n
+ဓာတ်	n
+ရ	part
+အောင်	conj
+မည်	ppm
+သို့	ppm
+ပြုလုပ်	v
+နိုင်	part
+သနည်း	ppm
+။	punc
+ဆား	n
+လုံးဝ	adv
+မ	part
+ရှိ	v
+တော့	part
+သော	part
+အရေးပေါ်	n
+အခြေအနေ	n
+တွင်	ppm
+ဝါး	v
+စသည့်	part
+အပင်	n
+မျိုး	n
+ကို	ppm
+မီးရှို့	v
+ပြီး	conj
+ရ	part
+လာ	part
+သော	part
+ပြာ	n
+ကို	ppm
+ဆား	n
+အစား	n
+အသုံးပြု	v
+နိုင်	part
+သည်	ppm
+။	punc
+
+
+
+
+အဘယ်	pron
+ကြောင့်	ppm
+နည်း	n
+။	punc
+သစ်ပင်	n
+မှ	ppm
+ရ	part
+သော	part
+ပြာ	n
+များ	part
+တွင်	ppm
+အငန်ဓာတ်	n
+အနည်းငယ်	n
+ပါ	part
+သော	part
+ကြောင့်	ppm
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ထို	adj
+နည်း	n
+ဖြင့်	ppm
+မိမိ	pron
+တို့	part
+နေ့စဉ်	adv
+စား	v
+သုံး	v
+နေ	part
+သော	part
+ဆား	n
+သည်	ppm
+အလွန်	adv
+အသုံးဝင်	v
+ကြောင်း	part
+နှင့်	conj
+ထို	adj
+ဆား	n
+ကို	ppm
+ရ	part
+ရှိ	v
+ရန်	conj
+ရှေးယခင်	n
+က	ppm
+ပင်	part
+အမျိုးမျိုး	n
+တီထွင်	v
+ကြံဆ	v
+ခဲ့	part
+ကြောင်း	part
+ကို	ppm
+သိ	v
+ရှိ	v
+ရ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+အရသာ	n
+ပေါ့ပြက်ပြက်	adv
+=	sb
+အရသာ	n
+မ	part
+ရှိ	v
+ဖြစ်	v
+လျက်	conj
+။	punc
+
+
+
+
+၂	num
+။	punc
+သာမန်	adj
+=	sb
+အထူး	adj
+မ	part
+ဟုတ်	v
+သော	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+တန်ဆေးလွန်ဘေး	n
+=	sb
+သင့်	part
+ရုံ	part
+တန်	n
+ရုံ	part
+စားသောက်	v
+လျှင်	conj
+ဆေး	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+အလွန်အကျွံ	adv
+စားသောက်	v
+လျှင်	conj
+ဘေး	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဆား	n
+ပေါက်	v
+သော	part
+မြေ	n
+=	sb
+ဆား	n
+ဓာတ်	n
+ပါ	part
+သော	part
+မြေ	n
+။	punc
+
+
+
+
+သတ်ပုံ	n
+အမှန်	n
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+ကွက်လပ်	n
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+လည်ချောင်း	n
+နာ	v
+၊	punc
+သွား	n
+နာ	v
+ပါ	part
+က	ppm
+ဆားရည်	n
+ဖြင့်	ppm
+ပလုတ်ကျင်း	v
+ပေး	part
+လျှင်	conj
+သက်သာ	v
+နိုင်	part
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ရှေး	adj
+အခါ	n
+က	ppm
+ပဲခူး	n
+နယ်	n
+မှ	ppm
+ဆား	n
+အမြောက်အမြား	n
+ထွက်	v
+ခဲ့	part
+ဖူး	part
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+အသား	n
+ငါး	n
+များ	part
+မပုပ်မသိုး	n
+ဘဲ	part
+ကြာရှည်	v
+ခံ	v
+အောင်	conj
+ဆား	n
+နယ်	n
+၍	sb
+ငါးပိ	n
+၊	punc
+အသား	n
+ခြောက်	tn
+စသည်	part
+တို့	part
+ပြုလုပ်	v
+ကြ	part
+သည်	ppm
+။	punc
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+ကြာရှည်	v
+၊	punc
+အထောက်အကူ	n
+၊	punc
+ခန္ဓာကိုယ်	n
+၊	punc
+အားကစား	n
+
+
+
+
+သာဓက	n
+ကြာရှည်	v
+။	punc
+။	punc
+ငါး	n
+ကို	ppm
+ကြာရှည်	v
+ခံ	v
+အောင်	conj
+ဆား	n
+ဖြင့်	ppm
+နယ်	n
+၍	sb
+ထား	part
+ရ	part
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ကာယလုပ်သား	n
+များ	part
+နှင့်	conj
+အားကစားသမား	n
+များ	part
+သည်	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+သာမန်	adj
+လူ	n
+တို့	part
+ထက်	conj
+ဆား	n
+ဓာတ်	n
+ပိုမို	adj
+လိုအပ်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+နေ့စဉ်	adv
+ဆား	n
+အသုံးပြု	v
+ပုံ	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဆား	n
+လုံးဝ	adv
+မ	part
+ရှိ	v
+သော	part
+အရေးပေါ်	n
+အခြေအနေ	n
+တွင်	ppm
+ဆား	n
+အလို	n
+ရှိ	v
+ပါ	part
+က	ppm
+မည်	ppm
+ကဲ့သို့	part
+သည်	ppm
+မည်	ppm
+နည်း	n
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဆား	n
+အသုံးဝင်	v
+ပုံ	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၅	num
+။	punc
+ဆား	n
+အကြောင်း	n
+ကို	ppm
+လေ့လာ	v
+ပြီး	conj
+ဆား	n
+နှင့်	conj
+ပတ်သက်	v
+သည့်	part
+အကြောင်းအရာ	n
+များ	part
+ကို	ppm
+ဇယား	n
+တွင်	ppm
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+စဉ်	conj
+အဓိက	n
+အချက်	n
+အကြောင်းအရာ	n
+များ	part
+
+
+
+
+၁	num
+။	punc
+ထွက်	v
+ရှိ	v
+ရာ	part
+နေရာ	n
+
+
+
+
+၂	num
+။	punc
+ထုတ်	v
+လုပ်	v
+ပုံ	n
+
+
+
+
+သတ်ပုံသံပေါက်	n
+ကဗျာ	n
+ကို	ppm
+ဆို	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+၁	num
+။	punc
+နုနုထွတ်ထွတ်	n
+၊	punc
+ကွေးကွေးညွတ်	n
+ဖက်	part
+ဆွတ်	n
+ကို	ppm
+လည်း	part
+တသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ပွင့်	v
+ညှာ	v
+ပွင့်	v
+ဝတ်	v
+၊	punc
+ပင်လုံးညွတ်	n
+လှမ်းဆွတ်	n
+ကို	ppm
+လည်း	part
+တသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ပြော	v
+ဆို	v
+တိတ်တိတ်	adv
+၊	punc
+နှုတ်သံ	n
+ပိတ်	v
+ဆိတ်ဆိတ်	adv
+ကို	ppm
+လည်း	part
+တသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+မျက်စိ	n
+စုံမှိတ်	n
+၊	punc
+လည်	v
+ကို	ppm
+ညိတ်	v
+တို့ဆိတ်	n
+ကို	ppm
+လည်း	part
+တသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+ရတနာ	n
+စိန်	n
+၊	punc
+ဝင်းလျှံထိန်	n
+ရောင်ရှိန်	n
+ကို	ppm
+လည်း	part
+နသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ပိတောက်ပန်းမန်	n
+၊	punc
+ခါ	part
+သင်္ကြန်	n
+ဂိမှာန်	n
+ကို	ppm
+လည်း	part
+နသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+လူ	n
+သုခမိန်	n
+၊	punc
+ပြက္ခဒိန်	n
+နှိုင်း	v
+ချိန်	n
+ကို	ppm
+လည်း	part
+နသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+သင်္ချာ	n
+သောင်း	n
+သိန်း	n
+၊	punc
+ရေတွက်ကိန်း	n
+ချိန်း	v
+ချက်	part
+ကို	ppm
+လည်း	part
+နသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+မကျဲမစိပ်	n
+၊	punc
+သစ်ပင်ရိပ်	n
+တိမ်လိပ်	n
+ကို	ppm
+လည်း	part
+ပသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+လက်	n
+ဖြင့်	ppm
+နယ်	n
+သိပ်	adv
+၊	punc
+မြစ်ကမ်း	n
+ထိပ်	n
+ငါးလိပ်	n
+ကို	ppm
+လည်း	part
+ပသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ထမင်း	n
+မ	part
+နပ်	part
+၊	punc
+မီး	n
+မှာ	ppm
+နှပ်	v
+ချဉ်စပ်	n
+ကို	ppm
+လည်း	part
+ပသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဆန်ကွဲဆန်နုပ်	n
+၊	punc
+ဖွဲ	n
+တစ်ဆုပ်	n
+၊	punc
+လက်ခုပ်	n
+ကို	ppm
+လည်း	part
+ပသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+လောကီစည်းစိမ်	n
+၊	punc
+နန်း	n
+ရွှေ	n
+အိမ်	n
+ရိပ်ငြိမ်	n
+ကို	ppm
+လည်း	part
+မသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ငယ်ငယ်သိမ်သိမ်	n
+၊	punc
+နန်း	n
+ချည်	part
+အိမ်	n
+ပန်းထိမ်	n
+ကို	ppm
+လည်း	part
+မသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+မဖျင်းမသိမ်	n
+၊	punc
+ရေ	n
+မှာ	ppm
+စိမ်	v
+တင်းတိမ်	v
+ကို	ppm
+လည်း	part
+မသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+စာပေ	n
+မှာ	ppm
+ကျမ်း	n
+အိမ်	n
+မှာ	ppm
+ကြမ်း	adj
+ခွဲခြမ်း	v
+ကို	ppm
+လည်း	part
+မသတ်	n
+မည်	ppm
+။	punc
+
+
+
+
+ရွှေစံပယ်	n
+ရင်ခတ်	n
+နှင့်	conj
+ဇလပ်ကယ်	n
+ဇီဇဝါ	n
+သင်းရနံ့ဖြာ	n
+။	punc
+လေဖြူးငယ်	n
+လာ	part
+လေညာ	n
+က	ppm
+စုရုံး	v
+။	punc
+ပွင့်	v
+ဝတ်	v
+ညှာတံ	n
+ချူ	n
+လို့	part
+လူ	n
+လို	v
+ပင်	part
+သယ်ဆောင်	v
+သွား	v
+တယ်	ppm
+ပျား	n
+နှင့်	conj
+ပိတုန်း	n
+။	punc
+အမည်	n
+မ	part
+သိ	v
+စာ	n
+ဆို	v
+
+
+
+
+ပန်းကလေး	n
+တွေ	part
+က	ppm
+ဘယ်လို	adv
+ရနံ့	n
+တွေ	part
+သင်းပျံ့	v
+နေ	part
+မယ်	ppm
+ထင်	v
+သလဲ	part
+
+
+
+
+မနေ့	n
+က	ppm
+ကျော်ဇင်	n
+ပြော	v
+ပြ	v
+တဲ့	part
+ပုံပြင်လေး	n
+က	ppm
+သိပ်	adv
+စိတ်ဝင်စား	v
+ဖို့	part
+ကောင်း	adj
+တာ	part
+ပဲ	part
+ကွာ	part
+
+
+
+
+ဘာ	pron
+ပုံပြင်လေး	n
+လဲ	part
+
+
+
+
+ကြိုးကြာ	n
+တွေ	part
+အကြောင်း	n
+ပဲ	part
+ငါ	pron
+ဖတ်	v
+ချင်	part
+လိုက်	part
+တာ	part
+
+
+
+
+ဟုတ်	v
+လား	part
+ငါ	pron
+လဲ	part
+ဖတ်	v
+ချင်	part
+တယ်	ppm
+။	punc
+တို့	part
+စာကြည့်တိုက်	n
+မှာ	ppm
+သွား	v
+ရှာ	v
+ကြည့်	v
+ကြ	part
+မ	part
+လား	part
+
+
+
+
+ကလေး	n
+တို့	part
+ဘယ်လို	adv
+စာအုပ်	n
+မျိုး	n
+ကို	ppm
+ဖတ်	v
+ချင်	part
+တာ	part
+လဲ	part
+
+
+
+
+ကြိုးကြာ	n
+တွေ	part
+အကြောင်း	n
+ရေး	part
+ထား	part
+တဲ့	part
+စာအုပ်	n
+ပါ	part
+ဆရာမ	n
+။	punc
+ဘယ်	adj
+နား	n
+မှာ	ppm
+ရှာ	v
+ရ	part
+မှာ	ppm
+ပါ	part
+လဲ	part
+။	punc
+
+
+
+
+အိမ်	n
+ကို	ppm
+စာအုပ်	n
+ငှား	v
+သွား	v
+လို့	part
+ရ	part
+ပါ	part
+သလား	part
+ဆရာမ	n
+
+
+
+
+ရ	part
+တာ	part
+ပေါ့	part
+
+
+
+
+စာကြည့်တိုက်	n
+မှာ	ppm
+စာအုပ်	n
+တွေ	part
+ကို	ppm
+ဘာသာရပ်	n
+အလိုက်	ppm
+ခွဲ	n
+ထား	part
+ပြီး	conj
+အမျိုးအစား	n
+တူ	v
+ရာ	part
+စု	v
+ထား	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဒီ	adj
+နေရာ	n
+လေး	part
+က	ppm
+သုတ	n
+နဲ့	ppm
+ဆိုင်	n
+တဲ့	part
+စာအုပ်	n
+တွေ	part
+ထား	part
+တဲ့	part
+နေရာ	n
+ဖြစ်	v
+တယ်	ppm
+။	punc
+ငှက်	n
+တွေ	part
+အကြောင်း	n
+ရေး	part
+ထား	part
+တဲ့	part
+စာအုပ်	n
+တွေ	part
+အပြင်	n
+တခြား	adj
+တိရစ္ဆာန်	n
+တွေ	part
+အကြောင်း	n
+ရေး	part
+ထား	part
+တဲ့	part
+စာအုပ်	n
+တွေ	part
+လဲ	part
+ရှိ	v
+တယ်	ppm
+။	punc
+
+
+
+
+အနှောင့်	n
+မှာ	ppm
+စာအုပ်	n
+နာမည်	n
+စာအုပ်	n
+ရေး	part
+သူ	pron
+အမည်	n
+နဲ့	ppm
+နံပါတ်	n
+စဉ်	conj
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ငှက်	n
+တွေ	part
+အကြောင်း	n
+သီးသန့်	n
+ရေး	part
+ထား	part
+တဲ့	part
+စာအုပ်	n
+မှာ	ppm
+လဲ	part
+ရှာ	v
+လို့	part
+ရ	part
+သလို	conj
+တခြား	adj
+စာအုပ်	n
+တွေ	part
+မှာ	ppm
+လဲ	part
+ငှက်	n
+တွေ	part
+အကြောင်း	n
+ကို	ppm
+ရှာ	v
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+ဘယ်လို	adv
+ရှာ	v
+ကြ	part
+မ	part
+လဲ	part
+။	punc
+ဘယ်	adj
+စာအုပ်	n
+ကို	ppm
+ရွေး	v
+မ	part
+လဲ	part
+။	punc
+
+
+
+
+၂	num
+။	punc
+စာအုပ်	n
+တွေ	part
+ကို	ppm
+ဖတ်	v
+တဲ့	part
+အခါ	n
+မာတိကာ	n
+ကို	ppm
+အရင်	adv
+ကြည့်	v
+ကြ	part
+ရ	part
+မယ်	ppm
+။	punc
+မာတိကာ	n
+မှာ	ppm
+ပါ	part
+ဝင်	v
+တဲ့	part
+အကြောင်းအရာ	n
+တွေ	part
+ရဲ့	ppm
+ခေါင်းစဉ်	n
+နဲ့	ppm
+စာမျက်နှာ	n
+ကို	ppm
+ဖော်ပြ	v
+ထား	part
+တယ်	ppm
+။	punc
+
+
+
+
+ကလေးသူငယ်	n
+များ	part
+အတွက်	ppm
+သုတ	n
+ရတနာသိုက်	n
+တိရစ္ဆာန်	n
+များ	part
+
+
+
+
+ရေငှက်	n
+များ	part
+ဘဲငန်း	n
+များ	part
+။	punc
+ဝမ်းဘဲ	n
+များ	part
+
+
+
+
+သားရဲငှက်	n
+များ	part
+လင်းယုန်	n
+နှင့်	conj
+သိမ်းငှက်	n
+များ	part
+။	punc
+သိမ်းငှက်	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+ကြက်	n
+နှင့်	conj
+တူ	v
+သော	part
+ငှက်	n
+များ	part
+-	punc
+ဒေါင်း	n
+မျိုး	n
+များ	part
+
+
+
+
+ကြိုးကြာ	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+ရေစပ်	n
+နေ	part
+ငှက်	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+ကမ်းခြေ	n
+စင်ရော်	n
+များ	part
+၊	punc
+အော့ငှက်	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+ခို	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+ကြက်တူရွေး	n
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+မာတိကာ	n
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+ခေါင်းစဉ်	n
+အလိုက်	ppm
+ဘယ်လို	adv
+အကြောင်းအရာ	n
+တွေ	part
+ဖြစ်	v
+မယ်	ppm
+ဆို	v
+တာ	part
+စဉ်းစား	v
+ရ	part
+မယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+သိ	v
+ချင်	part
+တဲ့	part
+ငှက်	n
+အကြောင်း	n
+ရှာ	v
+ချင်	part
+ရင်	conj
+ဘယ်	adj
+ခေါင်းစဉ်	n
+ကို	ppm
+ရှာ	v
+ရ	part
+မ	part
+လဲ	part
+။	punc
+
+
+
+
+ဘယ်	adj
+စာမျက်နှာ	n
+ကို	ppm
+ဖွင့်	v
+ရ	part
+မ	part
+လဲ	part
+။	punc
+အဲဒီ	pron
+စာအုပ်	n
+ထဲ	ppm
+က	ppm
+ဘယ်	adj
+အကြောင်းအရာ	n
+ကို	ppm
+ရွေး	v
+ဖတ်	v
+မ	part
+လဲ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+မာတိကာ	n
+မှာ	ppm
+ပါ	part
+တဲ့	part
+ခေါင်းစဉ်	n
+နဲ့	ppm
+အတွင်း	n
+စာမျက်နှာ	n
+မှာ	ppm
+ပါ	part
+တဲ့	part
+အကြောင်းအရာ	n
+တူ	v
+တယ်	ppm
+။	punc
+ကြိုးကြာ	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+မျိုးနွယ်	n
+သာ	part
+။	punc
+ကြိုးကြာ	n
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+
+
+
+
+ဒီ	adj
+စာမျက်နှာ	n
+က	ppm
+ဘာ	pron
+အကြောင်း	n
+ရေး	part
+ထား	part
+တာ	part
+လဲ	part
+။	punc
+ကြိုးကြာ	n
+အကြောင်း	n
+က	ppm
+ဒီ	adj
+စာမျက်နှာ	n
+ရဲ့	ppm
+ဘယ်	adj
+နေရာ	n
+မှာ	ppm
+ရှိ	v
+တာ	part
+လဲ	part
+။	punc
+
+
+
+
+ကြိုးကြာ	n
+များ	part
+၊	punc
+ရေ	n
+ငုံး	n
+များ	part
+၊	punc
+ရေ	n
+ကြက်	n
+များ	part
+၊	punc
+"	punc
+ဗတ်စတတ်	n
+"	punc
+များ	part
+နှင့်	conj
+၎င်း	pron
+တို့	part
+၏	sb
+မျိုးနွယ်	n
+များ	part
+သည်	ppm
+"	punc
+ဂရူအီဖောမီး	n
+"	punc
+မျိုး	n
+စဉ်	conj
+တွင်	ppm
+ပါ	part
+ဝင်	v
+သည်	ppm
+။	punc
+နှုတ်သီး	n
+မာ	adj
+၊	punc
+အတောင်	n
+ဝိုင်း	part
+နှင့်	conj
+အမြီး	n
+တို	adj
+ရှိ	v
+သည်	ppm
+။	punc
+အများစု	pron
+သည်	ppm
+ရေ	n
+တွင်	ppm
+ကျက်စား	v
+ပြီး	conj
+ရွှံ့နွံ	n
+နှင့်	conj
+နုန်းမြေ	n
+များ	part
+တွင်	ppm
+နေ	part
+သည်	ppm
+။	punc
+ခြေချောင်း	n
+၌	sb
+အရေပြား	n
+ဆက်	v
+မ	part
+ရှိ	v
+ပေ	part
+။	punc
+ဦး	part
+ရေ	n
+နည်း	n
+လာ	part
+ပြီ	ppm
+ဖြစ်	v
+၏	sb
+။	punc
+ကာကွယ်	v
+မှု	part
+မ	part
+ပေး	part
+ပါ	part
+က	ppm
+အချို့	adj
+မျိုးနွယ်	n
+များ	part
+ကွယ်ပျောက်	v
+သွား	v
+နိုင်	part
+သည်	ppm
+။	punc
+
+
+
+
+ကြိုးကြာ	n
+များ	part
+သည်	ppm
+ခြေထောက်	n
+နှင့်	conj
+လည်တံ	n
+ရှည်	adj
+သည်	ppm
+။	punc
+နှုတ်သီး	n
+ရှည်	adj
+၍	sb
+ချွန်	v
+သည်	ppm
+။	punc
+အပင်	n
+၊	punc
+အင်းဆက်	n
+ပိုး	n
+၊	punc
+ဖား	n
+နှင့်	conj
+အခြား	adj
+သတ္တဝါ	n
+ငယ်	adj
+များ	part
+ကို	ppm
+စား	v
+သည်	ppm
+။	punc
+ဖျတ်လတ်	adj
+စွာ	part
+က	ppm
+ပြ	v
+နိုင်	part
+ပြီး	conj
+တံပိုးခရာသံ	n
+ကဲ့သို့	part
+အသံ	n
+ပြု	v
+တတ်	part
+၏	sb
+။	punc
+တောင်အမေရိက	n
+၊	punc
+ပစိဖိတ်	n
+ကျွန်း	n
+များ	part
+၊	punc
+နယူးဇီလန်	n
+နှင့်	conj
+မလေး	n
+ကျွန်းစု	n
+မှ	ppm
+လွဲ	v
+၍	sb
+ကမ္ဘာ	n
+အနှံ့	n
+၌	sb
+တွေ့	v
+ရ	part
+သည်	ppm
+။	punc
+ဆိုကဗေးရီးယား	n
+ကြိုးကြာ	n
+ဖြူ	adj
+မျိုး	n
+သည်	ppm
+ဆိုကဗေးရီးယား	n
+၌	sb
+ရှိ	v
+သည်	ppm
+။	punc
+ကက်စပီယန်	n
+ပင်လယ်	n
+ကမ်းခြေ	n
+၌	sb
+ဆောင်းခို	v
+သည်	ppm
+။	punc
+
+
+
+
+ကြိုးကြာ	n
+ငယ်	adj
+မျိုး	n
+သည်	ppm
+ယူရေးရှား	n
+အလယ်	n
+ပိုင်း	part
+နှင့်	conj
+တောင်	n
+ပိုင်း	part
+ရှိ	v
+ကုန်း	n
+ပြင်	v
+မြင့်	v
+နှင့်	conj
+လွင်ပြင်	n
+များ	part
+၌	sb
+ပေါက်ပွား	v
+သည်	ppm
+။	punc
+
+
+
+
+လှပ	adj
+သော	part
+သရဖူ	n
+ပုံ	n
+အမောက်	n
+ပါ	part
+ကြိုးကြာ	n
+ကို	ppm
+အာဖရိက	n
+တွင်	ppm
+တွေ့	v
+ရ	part
+သည်	ppm
+။	punc
+
+
+
+
+အသံ	n
+ကျယ်	adj
+အမေရိကန်	n
+ကြိုးကြာ	n
+ကြီး	part
+သည်	ppm
+၁.၃	num
+မီတာ	n
+ခန့်	part
+မြင့်	v
+သည်	ppm
+။	punc
+ဖမ်းဆီး	v
+သတ်ဖြတ်	v
+ခြင်း	part
+မ	part
+ပြု	v
+ရန်	conj
+တားမြစ်	v
+ထား	part
+သည်	ppm
+။	punc
+ကနေဒါ	n
+အနောက်	n
+ပိုင်း	part
+တွင်	ppm
+ပေါက်ပွား	v
+သည်	ppm
+။	punc
+တက္ကဆက်	n
+ပြည်နယ်	n
+တွင်	ppm
+ဆောင်းခို	v
+သည်	ppm
+။	punc
+
+
+
+
+ကိုယ်	pron
+ဖတ်	v
+ခဲ့	part
+တဲ့	part
+စာအုပ်	n
+က	ppm
+အကြောင်းအရာ	n
+ကို	ppm
+သေသေချာချာ	adv
+မှတ်	v
+ပြီး	conj
+ပြန်	v
+ပြော	v
+ရ	part
+မယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+ငါ	pron
+ဖတ်	v
+ခဲ့	part
+တဲ့	part
+စာအုပ်	n
+နာမည်	n
+က	ppm
+____	punc
+ဖြစ်	v
+တယ်	ppm
+။	punc
+စာ	n
+ရေး	part
+သူ	pron
+က	ppm
+တော့	part
+____	punc
+ပါ	part
+။	punc
+စာအုပ်	n
+ထဲ	ppm
+မှာ	ppm
+ပါ	part
+တဲ့	part
+အကြောင်းအရာ	n
+က	ppm
+____	punc
+ဖြစ်	v
+တယ်	ppm
+။	punc
+အဲဒီ	pron
+အကြောင်းအရာ	n
+က	ppm
+စာမျက်နှာ	n
+____	punc
+မှာ	ppm
+စာမျက်နှာ	n
+____	punc
+မှာ	ppm
+ပါ	part
+တယ်	ppm
+
+
+
+
+ငါ	pron
+ဖတ်	v
+ခဲ့	part
+တဲ့	part
+စာအုပ်	n
+နာမည်	n
+က	ppm
+____	n
+ဖြစ်	v
+တယ်	ppm
+။	punc
+စာ	n
+ရေး	part
+သူ	pron
+က	ppm
+တော့	part
+____	punc
+ပါ	part
+။	punc
+စာအုပ်	n
+ထဲ	ppm
+မှာ	ppm
+ပါ	part
+တဲ့	part
+အကြောင်းအရာ	n
+က	ppm
+____	punc
+ဖြစ်	v
+တယ်	ppm
+။	punc
+အဲဒီ	pron
+အကြောင်းအရာ	n
+က	ppm
+စာမျက်နှာ	n
+____	punc
+မှာ	ppm
+ပါ	part
+တယ်	ppm
+
+
+
+
+လယ်တော	n
+တစ်	tn
+ခု	part
+မှာ	ppm
+လယ်သမား	n
+ကြီး	part
+တစ်	tn
+ယောက်	part
+ရှိ	v
+သတဲ့	ppm
+။	punc
+သူ	pron
+က	ppm
+ညနေ	n
+တိုင်း	part
+သောက်	v
+သုံး	v
+ရေ	n
+အတွက်	ppm
+ရေ	n
+ထမ်း	v
+လေ့	part
+ရှိ	v
+တယ်	ppm
+။	punc
+ရေ	n
+ထမ်း	v
+တဲ့	part
+အခါ	n
+အိုးကလေး	n
+နှစ်	tn
+လုံး	part
+ကို	ppm
+သုံး	v
+ပြီး	conj
+ထမ်း	v
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+အိုးကလေး	n
+နှစ်	tn
+လုံး	part
+မှာ	ppm
+တစ်	tn
+လုံး	part
+က	ppm
+တော့	part
+အိုး	int
+ကောင်း	adj
+ကလေး	n
+ဖြစ်	v
+ပေ	part
+မဲ့	part
+နောက်	n
+တစ်	tn
+လုံး	part
+က	ppm
+တော့	part
+အောက်ခြေ	n
+မှာ	ppm
+အက်	v
+နေ	part
+သတဲ့	ppm
+။	punc
+
+
+
+
+လယ်သမား	n
+ကြီး	part
+ရေ	n
+ထမ်း	v
+တိုင်း	part
+အက်	v
+နေ	part
+တဲ့	part
+အိုးကလေး	n
+ဘက်	n
+ခြမ်း	n
+မှာ	ppm
+ရေ	n
+တွေ	part
+စိမ့်	n
+ကျ	v
+နေ	part
+တတ်	part
+ပါ	part
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+လယ်သမား	n
+ကြီး	part
+က	ppm
+တစ်	tn
+တိုင်း	part
+အခေါက်	n
+ရေ	n
+ပို	adj
+ပြီး	conj
+ခပ်	part
+နေ	part
+ရ	part
+တော့	part
+တာ	part
+ပေါ့	part
+။	punc
+
+
+
+
+တစ်	tn
+ရက်	n
+မှာ	ppm
+အိုး	int
+ကောင်း	adj
+ကလေး	n
+က	ppm
+အောက်ခြေ	n
+အက်	v
+နေ	part
+တဲ့	part
+အိုးကလေး	n
+ကို	ppm
+ဒီလို	pron
+ပြော	v
+သတဲ့	ppm
+။	punc
+
+
+
+
+"	punc
+မင်း	pron
+ကြောင့်	ppm
+ငါ	pron
+တို့	part
+ပိုင်ရှင်	n
+လယ်သမား	n
+ကြီး	part
+ခမျာ	n
+ပို	adj
+ပြီး	conj
+တော့	part
+ပင်ပန်း	v
+ရ	part
+တယ်	ppm
+။	punc
+မင်း	pron
+က	ppm
+ငါ့	pron
+လို	v
+ရေ	n
+ကောင်း	adj
+ကောင်း	adj
+မ	part
+သယ်	v
+နိုင်	part
+လို့	part
+အခေါက်ခေါက်အခါခါ	n
+သယ်	v
+နေ	part
+ရ	part
+တယ်	ppm
+။	punc
+မင်း	pron
+ဟာ	ppm
+အသုံးမကျ	v
+တဲ့	part
+အကောင်	n
+ပဲ	part
+။	punc
+မင်း	pron
+ငါ	pron
+တို့	part
+လယ်တော	n
+ထဲ	ppm
+က	ppm
+ထွက်	v
+သွား	v
+"	punc
+လို့	part
+ပြော	v
+လိုက်	part
+ပါ	part
+လေ	part
+ရော	part
+။	punc
+
+
+
+
+အက်	v
+နေ	part
+တဲ့	part
+အလွန်	adv
+စိတ်	n
+မ	part
+ကောင်း	adj
+ဖြစ်	v
+သွား	v
+ရှာ	v
+တယ်	ppm
+။	punc
+သူ	pron
+ဟာ	ppm
+အသုံးမကျ	v
+တဲ့	part
+အိုးကလေး	n
+ဖြစ်	v
+တာ	part
+ကြောင့်	ppm
+လယ်တော	n
+က	ppm
+ထွက်	v
+သွား	v
+မယ်	ppm
+လို့	part
+လဲ	part
+ဆုံးဖြတ်	v
+လိုက်	part
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+လယ်သမား	n
+ကြီး	part
+ကို	ppm
+အိုး	int
+အက်	v
+ကလေး	n
+က	ppm
+သူ	pron
+လယ်တော	n
+က	ppm
+ထွက်	v
+သွား	v
+တော့	part
+မယ်	ppm
+။	punc
+သူ့	pron
+ကို	ppm
+စွန့်ပစ်	v
+လိုက်	part
+ပါ	part
+တော့	part
+လို့	part
+သွား	v
+ပြော	v
+တယ်	ppm
+။	punc
+သူ့	pron
+ကြောင့်	ppm
+လယ်သမား	n
+ကြီး	part
+ပို	adj
+ပင်ပန်း	v
+ရ	part
+တာ	part
+ကို	ppm
+လဲ	part
+တောင်းပန်	v
+သတဲ့	ppm
+။	punc
+
+
+
+
+"	punc
+အိုးကလေး	n
+ရယ်	part
+မင်း	pron
+ဟာ	ppm
+အသုံး	n
+မ	part
+ဝင်	v
+တဲ့	part
+အိုး	int
+မ	part
+ဟုတ်	v
+ပါ	part
+ဘူး	part
+။	punc
+မင်း	pron
+ဘယ်လောက်	adv
+အသုံးဝင်	v
+တယ်	ppm
+ဆို	v
+တာ	part
+ငါ	pron
+လက်တွေ့	n
+ပြ	v
+မယ်	ppm
+"	punc
+လို့	part
+ဆို	v
+ပြီး	conj
+အိုးကလေး	n
+နှစ်	tn
+လုံး	part
+ကို	ppm
+သူ	pron
+ရေ	n
+ခပ်	part
+တဲ့	part
+လယ်တော	n
+လမ်း	n
+ကလေး	n
+အတိုင်း	ppm
+ခေါ်	v
+သွား	v
+ပါ	part
+တော့	part
+တယ်	ppm
+။	punc
+အက်	v
+တဲ့	part
+အိုးကလေး	n
+ကို	ppm
+ထမ်း	v
+တဲ့	part
+ဘက်	n
+မှာ	ppm
+ပန်းကလေး	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တာ	part
+ကို	ppm
+လယ်သမား	n
+ကြီး	part
+က	ppm
+ပြသ	v
+တဲ့	part
+။	punc
+
+
+
+
+"	punc
+ကဲ	int
+အိုးကလေး	n
+တို့	part
+ရေ	n
+အက်	v
+တဲ့	part
+အိုးကလေး	n
+ဘက်	n
+ခြမ်း	n
+က	ppm
+စိမ့်ထွက်	v
+နေ	part
+တဲ့	part
+ရေ	n
+တွေ	part
+ကြောင့်	ppm
+ရေ	n
+သယ်	v
+ရင်း	conj
+ရေ	n
+လောင်း	v
+ပြီး	conj
+သား	n
+လို	v
+ဖြစ်	v
+သွား	v
+တာ	part
+မို့	part
+ဟော	v
+ဒီ	adj
+ပန်းခင်း	n
+လေး	part
+လှ	part
+ပေါ့	part
+"	punc
+ဆို	v
+ပြီး	conj
+ရှင်းပြ	v
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+ကို	ppm
+အသုံးမကျ	v
+ဘူး	part
+ဆို	v
+ပြီး	conj
+စိတ်ဆိုး	v
+ဒေါသထွက်	v
+နေ	part
+တဲ့	part
+အိုး	int
+ကောင်း	adj
+ကလေး	n
+က	ppm
+လဲ	part
+သူ့	pron
+သူငယ်ချင်း	n
+က	ppm
+လယ်တော	n
+ဝန်းကျင်	n
+ကို	ppm
+ဘယ်လို	adv
+အကျိုးပြု	v
+ပေး	part
+နေ	part
+တယ်	ppm
+ဆို	v
+တာ	part
+နားလည်	v
+သွား	v
+ခဲ့	part
+ပါ	part
+ပြီ	ppm
+။	punc
+အဲဒီ	pron
+နေ့	n
+က	ppm
+စ	v
+ပြီး	conj
+သူငယ်ချင်း	n
+နှစ်	tn
+ယောက်	part
+ဟာ	ppm
+တစ်	tn
+ယောက်	part
+က	ppm
+ရေ	n
+သယ်	v
+တစ်	tn
+ယောက်	part
+က	ppm
+ရေ	n
+လောင်း	v
+ရင်း	conj
+လယ်တော	n
+ဝန်းကျင်	n
+ရဲ့	ppm
+သာယာ	v
+စိမ်းလန်း	adj
+ရေး	part
+ကို	ppm
+အတူတကွ	adv
+ပူးပေါင်း	v
+လုပ်ဆောင်	v
+ကြ	part
+ပါ	part
+တော့	part
+တယ်	ppm
+။	punc
+စာ	n
+ရေး	part
+သူ	pron
+-	punc
+သံလွင်မြင့်	n
+ကာတွန်း	n
+သရုပ်ဖော်	v
+-	punc
+သီဟ	n
+(	punc
+စခန်း	n
+သစ်	adj
+)	punc
+သဒ်စတိုရီ	n
+ပရောဂျက်	n
+
+
+
+
+၁	num
+။	punc
+လယ်သမား	n
+ကြီး	part
+က	ppm
+ဘာ	pron
+ကြောင့်	ppm
+အခေါက်ခေါက်အခါခါ	n
+ရေ	n
+ခပ်	part
+နေ	part
+ရ	part
+တာ	part
+လဲ	part
+။	punc
+
+
+
+
+၂	num
+။	punc
+အိုး	int
+ကောင်း	adj
+ကလေး	n
+က	ppm
+အိုး	int
+အက်	v
+ကလေး	n
+ကို	ppm
+ဘာ	pron
+ကြောင့်	ppm
+အပြစ်တင်	v
+တာ	part
+လဲ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+မင်း	pron
+သာ	part
+အိုး	int
+ကောင်း	adj
+ကလေး	n
+ဆို	v
+ရင်	conj
+အိုး	int
+အက်	v
+ကလေး	n
+ကို	ppm
+ဘယ်လို	adv
+ပြော	v
+မ	part
+လဲ	part
+။	punc
+
+
+
+
+၄	num
+။	punc
+အိုး	int
+အက်	v
+ကလေး	n
+က	ppm
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+သူ့	pron
+ကို	ppm
+စွန့်ပစ်	v
+ပါ	part
+လို့	part
+ပြော	v
+သလဲ	part
+။	punc
+
+
+
+
+၅	num
+။	punc
+အိုး	int
+အက်	v
+ကလေး	n
+စိတ်	n
+အားတက်	v
+အောင်	conj
+လယ်သမား	n
+ကြီး	part
+က	ppm
+ဘယ်လို	adv
+ပြော	v
+သလဲ	part
+။	punc
+
+
+
+
+၆	num
+။	punc
+ပုံပြင်	n
+အဆုံး	n
+မှာ	ppm
+အိုး	int
+ကောင်း	adj
+ကလေး	n
+ရဲ့	ppm
+စိတ်	n
+သဘောထား	n
+ဘယ်လို	adv
+ပြောင်းလဲ	v
+သွား	v
+သလဲ	part
+။	punc
+
+
+
+
+၇	num
+။	punc
+ပုံပြင်	n
+ပါ	part
+ဇာတ်ဆောင်	n
+သုံး	v
+ဦး	part
+၏	sb
+ကောင်း	adj
+တဲ့	part
+အချက်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၈	num
+။	punc
+ကိုယ်	pron
+ရဲ့	ppm
+ကောင်း	adj
+တဲ့	part
+အချက်	n
+နဲ့	ppm
+သူငယ်ချင်း	n
+ရဲ့	ppm
+ကောင်း	adj
+တဲ့	part
+အချက်	n
+ကို	ppm
+ရှာဖွေ	v
+ပြီး	conj
+ပြော	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+ဓာတ်ပုံ	n
+လေး	part
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+တွေး	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+အကြောင်းအရာ	n
+အမျိုးမျိုး	n
+ကို	ppm
+တွေး	v
+ကြည့်	v
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဓာတ်ပုံ	n
+မှာ	ppm
+ပါ	part
+တဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+တွေး	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+ဓာတ်ပုံ	n
+တွင်	ppm
+တွေ့	v
+မြင်	v
+ရ	part
+သော	part
+အကြောင်းအရာ	n
+
+
+
+
+သာဓက	n
+ကြောင်	n
+လမ်း	n
+ပေါ်	n
+မှာ	ppm
+
+
+
+
+မိမိ	pron
+အတွေး	n
+သာဓက	n
+
+
+
+
+ကြောင်ကလေး	n
+တစ်	tn
+ကောင်	part
+အိမ်	n
+က	ppm
+ထွက်	v
+ပြီး	conj
+လမ်း	n
+ပေါ်	n
+မှာ	ppm
+အိပ်	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ကြောင်ကလေး	n
+ည	n
+က	ppm
+ကြွက်	n
+ခုပ်	n
+ရ	part
+တော့	part
+အိပ်	v
+ရေး	part
+ပျက်	v
+လို့	part
+အိပ်	v
+နေ	part
+တာ	part
+ဖြစ်	v
+မယ်	ppm
+။	punc
+
+
+
+
+၁၀	num
+။	punc
+ဓာတ်ပုံ	n
+ကြည့်	v
+ပြီး	conj
+တွေး	v
+ကြ	part
+ရေး	part
+ကြ	part
+မယ်	ppm
+
+
+
+
+မှတ်စု	n
+မှာ	ppm
+ရေး	part
+ထား	part
+တဲ့	part
+အကြောင်းအရာ	n
+တွေ	part
+ကို	ppm
+စာပိုဒ်	n
+အဖြစ်	n
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+အကြောင်းအရာ	n
+ရဲ့	ppm
+ခေါင်းစဉ်	n
+ကို	ppm
+ဘယ်လို	adv
+ပေး	part
+မ	part
+လဲ	part
+စဉ်းစား	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ဘာ	pron
+ကြောင့်	ppm
+နှစ်သက်	v
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်း	n
+ကို	ppm
+ရေး	part
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+နမူနာ	n
+ဆရာ	n
+က	ppm
+တော့	part
+ကိုယ်	pron
+တွေး	v
+ထား	part
+တဲ့	part
+အတွေး	n
+ကို	ppm
+နမူနာ	n
+အနေ	n
+နဲ့	ppm
+ဒီလို	pron
+ရေး	part
+ထား	part
+တယ်	ppm
+
+
+
+
+ကျွန်တော်	pron
+က	ppm
+ကြောင်ကလေး	n
+ပုံ	n
+ကို	ppm
+နှစ်သက်	v
+တယ်	ppm
+။	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+ကြောင်ကလေး	n
+အိပ်	v
+နေ	part
+တဲ့	part
+ပုံ	n
+က	ppm
+သိပ်	adv
+ချစ်	v
+စရာ	part
+ကောင်း	adj
+တာ	part
+ပဲ	part
+။	punc
+သူ	pron
+ည	n
+က	ppm
+ကြွက်	n
+တွေ	part
+အများကြီး	adj
+ခုပ်	n
+ရ	part
+လို့	part
+အိပ်	v
+ရေး	part
+ပျက်	v
+ပြီး	conj
+အိပ်	v
+နေ	part
+တာ	part
+ဖြစ်	v
+မယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+သူ	pron
+လမ်း	n
+ပေါ်	n
+မှာ	ppm
+ပဲ	part
+အိပ်ပျော်	v
+နေ	part
+တာ	part
+ဖြစ်	v
+မယ်	ppm
+။	punc
+
+
+
+
+ကြိုက်	v
+တဲ့	part
+ဓာတ်ပုံ	n
+တစ်	tn
+ပုံ	n
+ကို	ppm
+ရွေး	v
+ပြီး	conj
+ဘာ	pron
+အကြောင်း	n
+ဖြစ်	v
+မ	part
+လဲ	part
+တွေး	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကိုယ်	pron
+တွေး	v
+ထား	part
+တဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+ဇယားကွက်	n
+ထဲ	ppm
+မှာ	ppm
+မှတ်စု	n
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+အကြောင်းအရာ	n
+တွေ	part
+ကို	ppm
+အချင်းချင်း	adv
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကိုယ်	pron
+ပြော	v
+ချင်	part
+တဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+ပြော	v
+နိုင်	part
+ခဲ့	part
+သလား	part
+။	punc
+
+
+
+
+တခြား	adj
+သူ	pron
+ပြော	v
+တဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+သေသေချာချာ	adv
+နားထောင်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ရွေးချယ်	v
+ထား	part
+တဲ့	part
+ဓာတ်ပုံ	n
+တူ	v
+ပေ	part
+မဲ့	part
+အတွေး	n
+တွေ	part
+မ	part
+တူညီ	v
+ပုံ	n
+ကို	ppm
+အချင်းချင်း	adv
+ဆွေးနွေး	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဇာတ်မင်းသားကြီး	n
+ဦးဘိုးစိန်	n
+သည်	ppm
+မြန်မာ	n
+ဇာတ်	n
+သဘင်	n
+ကို	ppm
+ခေတ်မီ	v
+တိုးတက်	v
+စေ	part
+ခဲ့	part
+သော	part
+ဇာတ်	n
+သဘင်	n
+ပညာရှင်	n
+ကြီး	part
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ဦးဘိုးစိန်	n
+ကို	ppm
+အိမ်မဲ	n
+မြို့	n
+၊	punc
+ခလောက်သိုက်	n
+ရွာ	n
+၌	sb
+၁၈၈၂	num
+ခုနှစ်	n
+ဧပြီ	n
+လ	n
+၂၇	num
+ရက်နေ့	n
+တွင်	ppm
+မွေးဖွား	v
+သည်	ppm
+။	punc
+မိဘ	n
+များ	part
+မှာ	ppm
+ရပ်	v
+ထဲ	ppm
+ရွာ	n
+ထဲ	ppm
+က	ppm
+အက	n
+ကောင်း	adj
+သူ	pron
+ဖခင်	n
+ပလို့	part
+ကိုစံထွန်း	n
+နှင့်	conj
+မိခင်	n
+ဇာတ်မင်းသမီး	n
+မရွှေရုပ်	n
+တို့	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+ငယ်	adj
+အမည်	n
+မှာ	ppm
+မောင်သိုက်	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+မောင်သိုက်	n
+၏	sb
+မိဘ	n
+နှစ်	tn
+ပါး	part
+မှာ	ppm
+ဇာတ်မင်းသား	n
+မင်းသမီး	n
+များ	part
+ဖြစ်	v
+ကြ	part
+သည်	ppm
+။	punc
+ညီအစ်ကို	n
+မောင်နှမ	n
+တို့	part
+မှာ	ppm
+လည်း	part
+သဘင်	n
+ပညာရှင်	n
+နှင့်	conj
+ဆိုင်း	v
+ပညာရှင်	n
+များ	part
+ဖြစ်	v
+ကြ	part
+သည်	ppm
+။	punc
+မောင်သိုက်	n
+သည်	ppm
+ဇာတ်	n
+သဘင်	n
+လောက	n
+သို့	ppm
+ရောက်	v
+လျှင်	conj
+မောင်ဘိုးစိန်	n
+ဟူသော	part
+အမည်	n
+ကို	ppm
+ယူ	v
+သည်	ppm
+။	punc
+မောင်ဘိုးစိန်	n
+သည်	ppm
+ဇာတ်	n
+သဘင်	n
+ပညာ	n
+ကို	ppm
+အခြေခံ	n
+မှ	ppm
+စ	v
+၍	sb
+သင်ယူ	v
+လေ့လာ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+မန္တလေး	n
+တွင်	ppm
+ဇာတ်	n
+သဘင်	n
+ပညာ	n
+ကို	ppm
+လေ့လာ	v
+ဆည်းပူး	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ဦးဘိုးစိန်	n
+သည်	ppm
+တစ်စတစ်စ	adv
+ကျော်ကြား	adj
+လာ	part
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+ဇာတ်	n
+သဘင်	n
+ပညာ	n
+ပြည့်ဝ	v
+သော	part
+ယောက်ျား	n
+မင်းသမီး	n
+အောင်ဗလ	n
+နှင့်	conj
+လည်း	part
+တွဲ	n
+၍	sb
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+ဦးဘိုးစိန်	n
+သည်	ppm
+စိတ်ကူး	v
+ကောင်း	adj
+သည်	ppm
+။	punc
+မြန်မာ	n
+ဇာတ်	n
+သဘင်	n
+ခေတ်မီ	v
+တိုးတက်	v
+အောင်	conj
+ကြံစည်	v
+ဆောင်ရွက်	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+ရှေး	adj
+အခါ	n
+က	ppm
+သဘင်	n
+ပညာ	n
+သည်	ppm
+တို့	part
+သည်	ppm
+ထိုးဇာတ်	n
+၊	punc
+လုပ်ဇာတ်	n
+တို့	part
+ကို	ppm
+သာ	part
+က	ppm
+ပြ	v
+ခဲ့	part
+သော်လည်း	conj
+ဦးဘိုးစိန်	n
+က	ppm
+ဇာတ်နိပါတ်	n
+ဗုဒ္ဓဝင်	n
+တို့	part
+မှ	ppm
+ကောင်းနိုးရာရာ	n
+ဇာတ်	n
+၊	punc
+ဝတ္ထု	n
+တို့	part
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+ဦးဘိုးစိန်	n
+သည်	ppm
+မင်းသား	n
+အက	n
+ကို	ppm
+ပို	adj
+၍	sb
+ဆန်းသစ်	v
+အောင်	conj
+အခုန်အပျံ	n
+ခြေ	n
+ထိုး	v
+ခြေ	n
+က	ppm
+တို့	part
+ဖြင့်	ppm
+ကြိုးစား	v
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+ရှေး	adj
+က	ppm
+အရပ်သူ	n
+တို့	part
+စု	v
+၍	sb
+က	ppm
+သော	part
+ဟန်	n
+အက	n
+ကို	ppm
+ဦးဘိုးစိန်	n
+က	ppm
+ယိမ်းအက	n
+အဖြစ်	n
+ခံ့ညား	n
+လှပ	adj
+အောင်	conj
+တီထွင်ဆန်းသစ်	n
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+အဆိုအငို	n
+တို့	part
+ကို	ppm
+လည်း	part
+တီထွင်ဆန်းသစ်	n
+စေ	part
+ခဲ့	part
+သည်	ppm
+။	punc
+ဘိုးစိန်	n
+အဆို	n
+၊	punc
+ဘိုးစိန်	n
+အက	n
+ဟူ၍	part
+တစ်မူထူး	n
+အောင်	conj
+တီထွင်	v
+နိုင်	part
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+ရှေး	adj
+အခါ	n
+က	ppm
+ဇာတ်	n
+က	ppm
+ရာ	part
+တွင်	ppm
+ရေနံမီးတိုင်	n
+ကို	ppm
+ထွန်း	v
+၍	sb
+က	ppm
+ပြ	v
+ကြ	part
+သည်	ppm
+။	punc
+ဦးဘိုးစိန်	n
+က	ppm
+အောက်လင်းဓာတ်မီး	n
+၊	punc
+လျှပ်စစ်မီး	n
+စသည်	part
+ဖြင့်	ppm
+ထွန်းညှိ	v
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+ထို့အပြင်	conj
+ဇာတ်ခုံ	n
+အဆင်အပြင်	n
+၊	punc
+ဇာတ်ဝတ်ဇာတ်စား	n
+၊	punc
+ဆိုင်း	v
+အဆင်အပြင်	n
+တို့	part
+ကို	ppm
+ရိုးရာ	n
+နှင့်	conj
+လည်း	part
+ညီညွတ်	v
+အောင်	conj
+၊	punc
+ခေတ်	n
+လည်း	part
+မီ	part
+အောင်	conj
+တီထွင်	v
+ခဲ့	part
+သည်	ppm
+။	punc
+ဦးဘိုးစိန်	n
+လက်ထက်	n
+တွင်	ppm
+မြေ	n
+ဝိုင်း	part
+ဇာတ်	n
+သဘင်	n
+မှ	ppm
+စင်မြင့်	n
+ဇာတ်	n
+သဘင်	n
+အဆင့်	n
+သို့	ppm
+ရောက်	v
+ရှိ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+မင်းအစိုးရ	n
+တို့	part
+ချီးမြှင့်	n
+ခဲ့	part
+သော	part
+ဝဏ္ဏကျော်ထင်	n
+ဘွဲ့	n
+ကို	ppm
+ရ	part
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+ထို	adj
+အချိန်	n
+က	ppm
+ဦးဘိုးစိန်	n
+သည်	ppm
+ဧရာဝတီ	n
+မြစ်ကြောင်း	n
+တစ်	tn
+လျှောက်	v
+ကိုယ်ပိုင်	adj
+သင်္ဘော	n
+ကိုယ်ပိုင်	adj
+ရွက်ထည်ရုံ	n
+များ	part
+ကို	ppm
+သုံး	v
+၍	sb
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+ဇာတ်မင်းသားကြီး	n
+ဦးဘိုးစိန်	n
+၏	sb
+ကျေးဇူး	n
+ကြောင့်	ppm
+မြန်မာ	n
+ဇာတ်	n
+သဘင်	n
+သည်	ppm
+မြေဝိုင်း	n
+ဇာတ်	n
+သဘင်	n
+အဆင့်	n
+မှ	ppm
+ခေတ်မီ	v
+သော	part
+ဇာတ်	n
+သဘင်	n
+အဆင့်	n
+သို့	ppm
+တိုးတက်	v
+ရောက်	v
+ရှိ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+မြန်မာ	n
+ဇာတ်	n
+သဘင်	n
+ပညာ	n
+ကို	ppm
+အကျိုးပြု	v
+ခဲ့	part
+သော	part
+ဇာတ်မင်းသားကြီး	n
+ဦးဘိုးစိန်	n
+သည်	ppm
+၁၉၅၂	num
+ခုနှစ်	n
+ဒီဇင်ဘာလ	n
+၂	num
+၂	num
+ရက်နေ့	n
+တွင်	ppm
+ကွယ်လွန်	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+ပလို့	part
+(	punc
+အက	n
+)	punc
+=	sb
+အများအားဖြင့်	adv
+တံတောင်ဆစ်	n
+၊	punc
+ဒူးဆစ်	n
+စသည်	part
+ကို	ppm
+ဖျတ်လတ်	adj
+စွာ	part
+ချိုး	v
+၍	sb
+ပတ်	part
+မ	part
+ဆစ်	v
+၊	punc
+ပတ်	part
+မ	part
+ချက်	part
+ဖြင့်	ppm
+က	ppm
+သော	part
+အ	v
+က	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ထိုးဇာတ်	n
+=	sb
+ကြံဖန်	v
+တီထွင်	v
+ရေး	part
+ထား	part
+သော	part
+ဇာတ်	n
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဇာတ်နိပါတ်	n
+=	sb
+ဘုရားမြတ်စွာ	n
+၏	sb
+ရှေး	adj
+ဘဝ	n
+အဖြစ်အပျက်	n
+ဇာတ်တော်	n
+များ	part
+ကို	ppm
+ဂါထာ	n
+အရေအတွက်	n
+အလိုက်	ppm
+စုစည်း	v
+ထား	part
+သော	part
+ဇာတ်	n
+ဝတ္ထု	n
+အစု	n
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဗုဒ္ဓဝင်	n
+=	sb
+မြတ်စွာဘုရား	n
+၏	sb
+ဘဝ	n
+ဖြစ်	v
+တော်	part
+စဉ်	conj
+။	punc
+
+
+
+
+၅	num
+။	punc
+ဟန်အက	n
+=	sb
+အမူအရာ	n
+ဖြင့်	ppm
+က	ppm
+ပြ	v
+သော	part
+အက	n
+။	punc
+
+
+
+
+၆	num
+။	punc
+ယိမ်းအက	n
+=	sb
+စုပေါင်း	v
+၍	sb
+ညီညီညာညာ	adv
+က	ppm
+ပြ	v
+ရ	part
+သော	part
+အက	n
+တစ်	tn
+မျိုး	n
+။	punc
+
+
+
+
+၇	num
+။	punc
+ရေနံမီးတိုင်	n
+=	sb
+မီးစာ	n
+တပ်	n
+၍	sb
+ရေနံဆီ	n
+၊	punc
+လောင်စာ	n
+ဆီ	ppm
+ဖြင့်	ppm
+ထွန်း	v
+သော	part
+အခြေ	n
+ပါ	part
+သည့်	part
+မီးထွန်း	v
+စရာ	part
+ပစ္စည်း	n
+။	punc
+
+
+
+
+၈	num
+။	punc
+အောက်လင်းဓာတ်မီး	n
+=	sb
+လောင်စာ	n
+ဆီ	ppm
+အိုး	int
+အောက်	n
+ဘက်	n
+တွင်	ppm
+ဖန်	n
+ပြောင်း	v
+တပ်ဆင်	v
+ထား	part
+ပြီး	conj
+ရေနံဆီ	n
+၊	punc
+မီးစာ	n
+၊	punc
+လေ	part
+အား	ppm
+တို့	part
+ဖြင့်	ppm
+ထွန်းညှိ	v
+၍	sb
+အမြင့်	n
+တွင်	ppm
+ချိတ်ဆွဲ	v
+ရ	part
+သော	part
+မီးအိမ်	n
+။	punc
+
+
+
+
+၉	num
+။	punc
+မြေဝိုင်းဇာတ်	n
+=	sb
+မြေပြင်	n
+တွင်	ppm
+ပန်းပင်ပန်း	n
+ကိုင်း	part
+စိုက်	v
+၍	sb
+ဝိုင်း	part
+ပတ်	part
+က	ppm
+ပြ	v
+သော	part
+ရှေးခေတ်	n
+ဇာတ်	n
+ပွဲ	n
+။	punc
+
+
+
+
+၁	num
+။	punc
+သတ်ပုံ	n
+အမှန်	n
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+ကွက်လပ်	n
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ဦးဘိုးစိန်	n
+သည်	ppm
+အလွန်	adv
+(ကြော်ကျား	n
+၊	punc
+ကျော်ကြား	adj
+)	punc
+သော	part
+ဇာတ်မင်းသားကြီး	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ဦးဘိုးစိန်	n
+သည်	ppm
+မြန်မာ	n
+ဇာတ်	n
+သဘင်	n
+ကို	ppm
+(	punc
+ခေတ်မှီ	adj
+၊	punc
+ခေတ်မီ	v
+)	punc
+တိုးတက်	v
+အောင်	conj
+ဆောင်ရွက်	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဦးဘိုးစိန်	n
+က	ppm
+(ဇာတ်နိပတ်	n
+၊	punc
+ဇာတ်နိပါတ်	n
+)	punc
+တို့	part
+ကို	ppm
+လည်း	part
+ရွေးချယ်	v
+က	ppm
+ပြ	v
+ခဲ့	part
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+စိတ်ကူး	v
+၊	punc
+ယိမ်းအက	n
+၊	punc
+ဇာတ်	n
+သဘင်	n
+၊	punc
+ဆန်းသစ်	v
+၊	punc
+ဆည်းပူး	v
+၊	punc
+တီထွင်	v
+
+
+
+
+သာဓက	n
+
+
+
+
+စိတ်ကူး	v
+။	punc
+။	punc
+ဦးဘိုးစိန်	n
+သည်	ppm
+စိတ်ကူး	v
+ကောင်း	adj
+သူ	pron
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+အောက်ပါ	adj
+အချက်	n
+များ	part
+ပေါ်	n
+မူတည်	v
+ပြီး	conj
+ဇယား	n
+တွင်	ppm
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+ဦးဘိုးစိန်	n
+မတိုင်မီ	adv
+ဇာတ်	n
+သဘင်	n
+အခြေအနေ	n
+
+
+
+
+(	punc
+က	ppm
+)	punc
+ထိုးဇာတ်	n
+လုပ်ဇာတ်	n
+(	punc
+ခ	n
+)	punc
+ဟန်အက	n
+(ဃ)	n
+ရိုးရိုး	adj
+အဝတ်အစား	n
+(င)	n
+မြေဝိုင်း	n
+ဇာတ်	n
+သဘင်	n
+
+
+
+
+ဦးဘိုးစိန်	n
+ခေတ်	n
+ဇာတ်	n
+သဘင်	n
+အခြေအနေ	n
+
+
+
+
+၂	num
+။	punc
+ဦးဘိုးစိန်	n
+အကြောင်း	n
+အကျဉ်းချုပ်	n
+ကို	ppm
+ဇယား	n
+တွင်	ppm
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+မွေးဖွား	v
+သည့်	part
+ခုနှစ်	n
+မိဘ	n
+အမည်	n
+မွေးဖွား	v
+ရာ	part
+ဒေသ	n
+ဇာတ်	n
+သဘင်	n
+ပညာ	n
+ဆည်းပူး	v
+ခဲ့	part
+သည့်	part
+နေရာ	n
+ရ	part
+ရှိ	v
+ခဲ့	part
+သော	part
+ဘွဲ့	n
+ကွယ်လွန်	v
+သည့်	part
+ခုနှစ်	n
+
+
+
+
+၃	num
+။	punc
+ဇာတ်	n
+သဘင်	n
+နှင့်	conj
+ပတ်သက်	v
+၍	sb
+ဦးဘိုးစိန်	n
+တီထွင်ဆန်းသစ်	n
+လုပ်ဆောင်	v
+ခဲ့	part
+သော	part
+အရာ	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဦးဘိုးစိန်	n
+သည်	ppm
+မည်	ppm
+သို့	ppm
+သော	part
+ပုဂ္ဂိုလ်	n
+မျိုး	n
+ဖြစ်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+ဦးဘိုးစိန်	n
+အတ္ထုပ္ပတ္တိ	n
+ကို	ppm
+ဖတ်	v
+ပြီး	conj
+မိမိ	pron
+၏	sb
+အမြင်	n
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+ဖေဖော်ဝါရီ	n
+ဆယ့်သုံး	n
+မှာ	ppm
+ဗိုလ်ချုပ်	n
+မွေးနေ့	n
+ပါ	part
+၊	punc
+တစ်	tn
+ထောင့်	n
+ကိုး	tn
+ရာ	part
+တစ်ဆယ့်ငါး	n
+ရှေ့နေ	n
+ဦးဖာ	n
+သား	n
+။	punc
+ဇာတိ	n
+နတ်မောက်	n
+မကွေး	n
+ခရိုင်	n
+သိ	v
+ကြ	part
+များ	part
+ခု	part
+တိုင်	v
+၊	punc
+ကြံ့ကြံ့ခိုင်	adj
+တဲ့	part
+ဇာနည်	n
+ဘွား	n
+မိခင်	n
+ဒေါ်စု	n
+သား	n
+။	punc
+တစ်	tn
+ထောင့်	n
+ကိုး	tn
+ရာ	part
+လေး	part
+ဆယ့်	n
+ခွန်	n
+ပြောင်း	v
+ကြွ	v
+တမလွန်	n
+၊	punc
+မျက်ရည်	n
+သွန်	v
+လို့	part
+ဘဝင်ညှိုး	n
+ဇူလိုင်	n
+တစ်ဆယ့်ကိုး	n
+။	punc
+ပြည်ထောင်စု	n
+ရဲ့	ppm
+ကျေးဇူးရှင်	n
+ဗိုလ်ချုပ်	n
+တို့	part
+ဖခင်	n
+၊	punc
+ကောင်း	adj
+စေ	part
+ချင်	part
+တဲ့	part
+မှာ	ppm
+စကား	n
+ငါ	pron
+တို့	part
+မ	part
+မေ့	v
+အား	ppm
+။	punc
+ပြည်	n
+ထောင်	n
+လွတ်	v
+ရေး	part
+ကြိုးပမ်း	v
+အောင်	conj
+ပြည်	n
+ချစ်	v
+တို့	part
+ခေါင်းဆောင်	n
+၊	punc
+အနာဂတ်	n
+လူ့ဘောင်	n
+လမ်းစဉ်	n
+များ	part
+ဗိုလ်ချုပ်	n
+ချမှတ်	v
+သွား	v
+။	punc
+ရဲအောင်မိုး	n
+
+
+
+
+ပြည်ထောင်	n
+၏	sb
+ရှေ့ဆောင်	v
+လမ်းပြ	n
+ကြီး	part
+ဗိုလ်ချုပ်အောင်ဆန်	n
+လွတ်လပ်	v
+ရေး	part
+ဖခင်	n
+ဗိုလ်ချုပ်အောင်ဆန်း	n
+ကို	ppm
+လေးစား	v
+ကြည်ညို	v
+စိတ်	n
+နဲ့	ppm
+ကဗျာ	n
+ကို	ppm
+ရွတ်ဆို	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+ရာသီ	n
+အလိုက်	ppm
+ဘယ်လို	adv
+အဝတ်အစား	n
+မျိုး	n
+တွေ	part
+ဝတ်	v
+ကြ	part
+သလဲ	part
+ဆို	v
+တာ	part
+စဉ်းစား	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ရာသီ	n
+အလိုက်	ppm
+ဝတ်ဆင်	v
+ကြ	part
+တဲ့	part
+အဝတ်အစား	n
+တွေ	part
+ကို	ppm
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+အဝတ်အစား	n
+နွေရာသီ	n
+မိုးရာသီ	n
+ဆောင်းရာသီ	n
+
+
+
+
+ချည်ထည်	n
+အင်္ကျီ	n
+မိုးကာ	n
+အင်္ကျီ	n
+အနွေးထည်	n
+အင်္ကျီ	n
+
+
+
+
+ရာသီ	n
+မ	part
+ရွေး	v
+ဝတ်ဆင်	v
+နိုင်	part
+တဲ့	part
+အဝတ်အစား	n
+တွေ	part
+လဲ	part
+ရှိ	v
+တယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+အားကစား	n
+ဝတ်စုံ	n
+ဆောင်း	n
+
+
+
+
+ဝေါဟာရ	n
+ဆို	v
+တာ	part
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+ပြော	v
+တာ	part
+ဖြစ်	v
+တယ်	ppm
+
+
+
+
+ပေး	part
+ထား	part
+တဲ့	part
+ခေါင်းစဉ်	n
+တွေ	part
+ထဲ	ppm
+က	ppm
+ကြိုက်	v
+ရာ	part
+ရွေး	v
+ပြီး	conj
+အဖွဲ့	n
+ထဲ	ppm
+မှာ	ppm
+ဆွေးနွေး	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+သစ်ပင်ပန်းမန်	n
+အသီးအနှံ	n
+ဟင်းသီးဟင်းရွက်	n
+ရာသီဥတု	n
+အခြေအနေ	n
+နေ	part
+ထိုင်	v
+မှု	part
+ပုံစံ	n
+(	punc
+ကျောင်းတွင်း	n
+ကျောင်းပြင်	n
+)	punc
+
+
+
+
+ငါ	pron
+တို့	part
+ဘယ်	adj
+စကားလုံး	n
+ရွေး	v
+ရင်	conj
+ကောင်း	adj
+မ	part
+လဲ	part
+
+
+
+
+နမူနာ	n
+ပေး	part
+ထား	part
+တဲ့	part
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+လဲ	part
+သုံး	v
+လို့	part
+ရ	part
+တယ်	ppm
+
+
+
+
+သစ်ပင်ပန်းမန်	n
+ဆို	v
+တဲ့	part
+စကားလုံး	n
+ကို	ppm
+ရွေး	v
+ရင်	conj
+ကောင်း	adj
+မ	part
+လား	part
+
+
+
+
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+ခေါင်းစဉ်	n
+အောက်	n
+မှာ	ppm
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+ပြည့်ပြည့်စုံစုံ	n
+ဖြည့်	v
+နိုင်	part
+ရဲ့	ppm
+လား	part
+။	punc
+
+
+
+
+တို့	part
+အဖွဲ့	n
+ရွေး	v
+ထား	part
+တဲ့	part
+ခေါင်းစဉ်	n
+က	ppm
+တော့	part
+...	sb
+
+
+
+
+သူငယ်ချင်း	n
+ရွေး	v
+ထား	part
+တဲ့	part
+ခေါင်းစဉ်	n
+အောက်	n
+မှာ	ppm
+ရှိ	v
+တဲ့	part
+စကားလုံး	n
+တွေ	part
+က	ppm
+ရာသီဥတု	n
+သုံး	v
+မျိုး	n
+နဲ့	ppm
+သက်ဆိုင်	v
+နေ	part
+တယ်	ppm
+နော်	part
+
+
+
+
+သင်ခန်းစာ	n
+၁၄	num
+ပုဂံ	n
+
+
+
+
+ကျွန်မ	pron
+တို့	part
+မိသားစု	n
+သည်	ppm
+နွေရာသီ	n
+ကျောင်း	n
+ပိတ်ရက်	n
+က	ppm
+ပုဂံ	n
+မြို့	n
+သို့	ppm
+ဘုရား	n
+ဖူး	part
+လေ့လာ	v
+ရေး	part
+ခရီးသွား	n
+ခဲ့	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+မြို့	n
+သည်	ppm
+မန္တလေး	n
+တိုင်းဒေသကြီး	n
+ညောင်ဦး	n
+မြို့နယ်	n
+အတွင်း	n
+ဧရာဝတီ	n
+မြစ်	n
+အရှေ့	n
+ဘက်	n
+ကမ်း	n
+ပေါ်	n
+၌	sb
+တည်	v
+ရှိ	v
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+မြို့ဟောင်း	n
+၏	sb
+အဝင်ဝ	n
+တွင်	ppm
+သရပါ	n
+တံခါး	n
+၊	punc
+ကျုံးဟောင်း	n
+နှင့်	conj
+မြို့ရိုးဟောင်း	n
+ရှိ	v
+ပါ	part
+သည်	ppm
+။	punc
+ထို	adj
+မြို့ရိုး	n
+ကို	ppm
+မြန်မာသက္ကရာဇ်	n
+၂၁၁	num
+ခုနှစ်	n
+တွင်	ppm
+ပျဉ်ပြားမင်း	n
+က	ppm
+တည်	v
+ခဲ့	part
+သည်	ppm
+ဟု	part
+ဖေဖေ	n
+က	ppm
+ပြော	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပုဂံ	n
+မြို့	n
+သည်	ppm
+မြန်မာ	n
+တို့	part
+၏	sb
+အလွန်	adv
+ခမ်းနားကြီးကျယ်	n
+သော	part
+သမိုင်း	n
+ဝင်	v
+ရှေးဟောင်း	adj
+မြို့တော်	n
+ကြီး	part
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+လွန်	v
+ခဲ့	part
+သော	part
+နှစ်	tn
+ပေါင်း	n
+တစ်	tn
+ထောင်	n
+ခန့်	part
+က	ppm
+တည်	v
+ခဲ့	part
+သော	part
+မြို့တော်	n
+ပုဂံ	n
+တွင်	ppm
+မြန်မာ	n
+စာပေ	n
+၊	punc
+မြန်မာ့	n
+ယဉ်ကျေး	adj
+မှု	part
+၊	punc
+အနုပညာ	n
+လက်ရာ	n
+များ	part
+ထွန်းကား	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+ထို့ကြောင့်	conj
+မြန်မာ	n
+တို့	part
+သည်	ppm
+ပုဂံ	n
+ကို	ppm
+မြတ်နိုး	v
+ကြ	part
+ခြင်း	part
+ဖြစ်	v
+ကြောင်း	part
+ဖေဖေ	n
+က	ppm
+ကျွန်မ	pron
+တို့	part
+ကို	ppm
+ရှင်းပြ	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ရှေးခေတ်	n
+ပုဂံ	n
+ပြည်	n
+ကြီး	part
+သည်	ppm
+မြန်မာ	n
+တို့	part
+၏	sb
+ပထမ	adj
+မြန်မာ	n
+နိုင်ငံတော်	n
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+ခေတ်	n
+မြန်မာ	n
+နိုင်ငံ	n
+ကို	ppm
+ထို	adj
+ခေတ်	n
+မြန်မာ	n
+တိုင်းရင်းသား	n
+တို့	part
+က	ppm
+စည်းလုံးညီညွတ်	v
+စွာ	part
+စုပေါင်း	v
+တည်ထောင်	v
+ခဲ့	part
+သည်	ppm
+ဟု	part
+ကျွန်မ	pron
+တို့	part
+မှတ်သား	v
+ရ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပုဂံ	n
+သည်	ppm
+အနော်ရထာ	n
+မင်း	pron
+လက်ထက်	n
+မှ	ppm
+စ	v
+၍	sb
+ထင်ရှား	adj
+လာ	part
+ခဲ့	part
+သည်	ppm
+။	punc
+အနော်ရထာမင်းမြတ်	n
+သည်	ppm
+ရှင်အရဟံ	n
+၏	sb
+ဩဝါဒ	n
+ဖြင့်	ppm
+ဗုဒ္ဓ	n
+သာသနာ	n
+ထွန်းကား	v
+အောင်	conj
+စွမ်းဆောင်	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ဗုဒ္ဓ	n
+ဘာသာ	n
+ကို	ppm
+ပုဂံသား	n
+တို့	part
+သက်ဝင်	v
+ယုံကြည်	v
+သဖြင့်	ppm
+ဘုရားပုထိုးစေတီ	n
+မြောက်မြား	adj
+စွာ	part
+တည်	v
+ထား	part
+ကိုးကွယ်	v
+ခဲ့	part
+ကြ	part
+သည်	ppm
+။	punc
+
+
+
+
+အနော်ရထာ	n
+၊	punc
+ကျန်စစ်သား	n
+၊	punc
+အလောင်းစည်သူ	n
+စ	v
+သည့်	part
+မင်းကောင်းမင်းမြတ်	n
+တို့	part
+သည်	ppm
+ပုဂံ	n
+ပြည်	n
+ကြီး	part
+တွင်	ppm
+ထီးနန်း	n
+စိုက်	v
+ကာ	conj
+နိုင်ငံ	n
+တိုးတက်	v
+အောင်	conj
+ဆောင်ရွက်	v
+ခဲ့	part
+ကြ	part
+သည်	ppm
+ကို	ppm
+လည်း	part
+ကျွန်မ	pron
+တို့	part
+မှတ်သား	v
+ရ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ကျွန်မ	pron
+တို့	part
+မိသားစု	n
+သည်	ppm
+ရှေးခေတ်	n
+ပုဂံ	n
+ပြည်	n
+ကြီး	part
+စည်ပင်သာယာ	v
+ပုံ	n
+နှင့်	conj
+စပ်လျဉ်း	v
+၍	sb
+ပုဂံ	n
+မြို့ဟောင်း	n
+ဒေသ	n
+တစ်ဝိုက်	n
+တွင်	ppm
+ရှေးဟောင်း	adj
+ဘုရားပုထိုးစေတီ	n
+များ	part
+လက်ညှိုးထိုး	n
+မ	part
+လွဲ	v
+မြောက်မြား	adj
+စွာ	part
+တည်	v
+ရှိ	v
+နေ	part
+သည်	ppm
+ကို	ppm
+လည်း	part
+မြင်	v
+တွေ့	v
+ခဲ့	part
+ရ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပုဂံ	n
+မြို့	n
+ရှိ	v
+ဘုရားပုထိုး	n
+များ	part
+မှာ	ppm
+ငလျင်ဒဏ်	n
+များ	part
+ကြောင့်	ppm
+ပြိုပျက်	v
+ခဲ့	part
+သည်	ppm
+။	punc
+မင်း	pron
+နှင့်	conj
+ပြည်သူ	n
+လက်တွဲ	v
+ကူ	v
+၍	sb
+ခေတ်	n
+အဆက်ဆက်	n
+ပြန်လည်	adv
+မွမ်းမံ	v
+ခဲ့	part
+ကြ	part
+သည်	ppm
+ဟု	part
+သိ	v
+ရ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ရွှေစည်းခုံ	n
+ဓမ္မရံကြီး	n
+အာနန္ဒာ	n
+သဗ္ဗညု	n
+
+
+
+
+ကျွန်မ	pron
+တို့	part
+သည်	ppm
+ပုဂံ	n
+ရှိ	v
+ထင်ရှား	adj
+သော	part
+ဘုရား	n
+များ	part
+ဖြစ်	v
+သည့်	part
+ဗူး	n
+ဘုရား	n
+၊	punc
+ရွှေစည်းခုံ	n
+၊	punc
+အာနန္ဒာ	n
+၊	punc
+သဗ္ဗညု	n
+၊	punc
+လောကနန္ဒာ	n
+၊	punc
+မနူဟာ	n
+၊	punc
+ကန်တော့ပလ္လင်	n
+၊	punc
+ဓမ္မရံကြီး	n
+၊	punc
+အလိုတော်ပြည့်	n
+၊	punc
+ဓမ္မရာဇ	n
+က	ppm
+စ	v
+သော	part
+ဘုရားပုထိုး	n
+များ	part
+ကို	ppm
+ကြည်ညို	v
+စွာ	part
+ဖူးမြော်	n
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပုဂံ	n
+ဒေသ	n
+တွင်	ppm
+သဗ္ဗညု	n
+သည်	ppm
+ဉာဏ်တော်	n
+အမြင့်ဆုံး	n
+၊	punc
+ဓမ္မရံကြီး	n
+သည်	ppm
+ထုထည်	n
+အကြီးဆုံး	adj
+၊	punc
+အာနန္ဒာ	n
+သည်	ppm
+အနုပညာ	n
+လက်ရာ	n
+အမြောက်ဆုံး	n
+၊	punc
+ရွှေစည်းခုံ	n
+ဘုရား	n
+ကြီး	part
+မှာ	ppm
+တန်ခိုး	n
+အကြီးအဆုံး	n
+ဖြစ်	v
+ကြောင်း	part
+"	punc
+ထု	n
+ဓမ္မရံ	n
+၊	punc
+ဉာဏ်	n
+သဗ္ဗညု	n
+၊	punc
+အနု	n
+အာနန္ဒာ	n
+၊	punc
+တန်ခိုး	n
+မှာ	ppm
+ရွှေစည်းခုံ	n
+"	punc
+ဟူ၍	part
+အစဉ်အလာ	n
+စကား	n
+အဆို	n
+ရှိ	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+ထို	adj
+ဘုရားပုထိုး	n
+များ	part
+တွင်	ppm
+ပုဂံ	n
+ခေတ်	n
+ဗိသုကာ	n
+လက်ရာ	n
+များ	part
+၊	punc
+နံရံဆေးရေး	n
+ပန်းချီ	n
+များ	part
+ကို	ppm
+လည်း	part
+အံ့ဩ	v
+ဖွယ်	part
+တွေ့	v
+မြင်	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+၁၄။	n
+ပုဂံ	n
+
+
+
+
+နံရံဆေးရေး	n
+ပန်းချီ	n
+ဗိသုကာ	n
+လက်ရာ	n
+
+
+
+
+ကျွန်မ	pron
+တို့	part
+သည်	ppm
+ပုဂံ	n
+ရှေးဟောင်း	adj
+သုတေသန	n
+ပြတိုက်	n
+ရှိ	v
+ရာဇကုမာရ်	n
+ကျောက်စာ	n
+ကို	ppm
+ကြည့်ရှု	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ယွန်း	n
+သိပ္ပံ	n
+ကောလိပ်	n
+သို့	ppm
+လည်း	part
+ဝင်	v
+၍	sb
+လေ့လာ	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+ဒေသ	n
+လက်ဆောင်	n
+အဖြစ်	n
+ယွန်းထည်	n
+ပစ္စည်း	n
+၊	punc
+သနပ်ခါး	n
+၊	punc
+ပုံးရည်ကြီး	n
+နှင့်	conj
+အခြား	adj
+အမှတ်တရ	n
+ပစ္စည်း	n
+များ	part
+ကို	ppm
+လည်း	part
+ဝယ်	v
+ယူ	v
+နိုင်	part
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+တွင်	ppm
+ဘုရားဖူး	v
+များ	part
+အပြင်	n
+ကမ္ဘာလှည့်	n
+ခရီးသည်	n
+များ	part
+လည်း	part
+မြန်မာ့	n
+ယဉ်ကျေး	adj
+မှု	part
+ကို	ppm
+လေ့လာ	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ကမ္ဘာလှည့်	n
+ခရီးသည်	n
+တို့	part
+သည်	ppm
+ယဉ်ကျေး	adj
+မှု	part
+အနုပညာ	n
+လက်ရာ	n
+နှင့်	conj
+ဆည်းဆာ	n
+အလှ	n
+ကို	ppm
+လည်း	part
+ခံစား	v
+ကြည့်ရှု	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+၂ဝ၁၉	n
+ခု	part
+နှစ်	tn
+ဇူလိုင်	n
+လ	n
+၆	num
+ရက်	n
+တွင်	ppm
+ကမ္ဘာ့	n
+ကုလသမဂ္ဂ	n
+ပညာ	n
+ရေး	part
+၊	punc
+သိပ္ပံ	n
+နှင့်	conj
+ယဉ်ကျေးမှု	n
+အဖွဲ့	n
+ကြီး	part
+(	punc
+ယူနက်စကို	n
+)	punc
+က	ppm
+ပုဂံ	n
+ဒေသ	n
+ကို	ppm
+ကမ္ဘာ့	n
+အမွေအနှစ်	n
+စာရင်းဝင်	adj
+အဖြစ်	n
+သတ်မှတ်	v
+ခဲ့	part
+ပြီး	conj
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+နှင့်	conj
+ပတ်သက်	v
+၍	sb
+ကျွန်မ	pron
+တို့	part
+ဆက်လက်	adv
+လေ့လာ	v
+ရ	part
+ဦး	part
+မည်	ppm
+ဟု	part
+ဖေဖေ	n
+က	ppm
+မှာ	ppm
+ကြား	v
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်မ	pron
+သည်	ppm
+ပုဂံ	n
+မြို့	n
+ဟောင်း	adj
+ကို	ppm
+လေ့လာ	v
+ရင်း	conj
+ရှေ့	n
+ခေတ်	n
+ပုဂံ	n
+ပြည်	n
+သား	n
+တို့	part
+၏	sb
+ယဉ်ကျေး	adj
+မှု	part
+အနုပညာ	n
+လက်ရာ	n
+များ	part
+အတွက်	ppm
+ဂုဏ်ယူ	v
+မိ	part
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်မ	pron
+တို့	part
+သည်	ppm
+ပုဂံ	n
+တွင်	ppm
+လေ့လာ	v
+ပြီးနောက်	conj
+ပျော်ရွှင်	v
+စွာ	part
+ပြန်	v
+ခဲ့	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ပုဂံ	n
+ဒေသ	n
+လက်ဆောင်	n
+ရာဇကုမာရ်	n
+ကျောက်စာ	n
+ပုဂံ	n
+ရှေးဟောင်း	adj
+သုတေသန	n
+ပြတိုက်	n
+
+
+
+
+၁	num
+။	punc
+မြို့ရိုး	n
+=	sb
+နန်းတော်	n
+တည်	v
+ရှိ	v
+ရာ	part
+မြို့	n
+ပတ်လည်	n
+တွင်	ppm
+ကာရံ	v
+ထား	part
+သည့်	part
+တံတိုင်း	n
+။	punc
+
+
+
+
+၂	num
+။	punc
+သမိုင်းဝင်	adj
+=	sb
+သမိုင်း	n
+တွင်	ppm
+မှတ်တမ်းတင်	v
+ခံ	v
+ရ	part
+သော	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဩဝါဒ	n
+=	sb
+ဆုံးမ	v
+စကား	n
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဗိသုကာ	n
+လက်ရာ	n
+=	sb
+ဆောက်လုပ်	v
+မှု	part
+ဆိုင်ရာ	n
+ပညာ	n
+။	punc
+
+
+
+
+၅	num
+။	punc
+နံရံဆေးရေး	n
+ပန်းချီ	n
+=	sb
+ဂူဘုရား	n
+အတွင်း	n
+ရှိ	v
+နံရံ	n
+များ	part
+တွင်	ppm
+ဆေးရောင်စုံ	n
+ဖြင့်	ppm
+ရေးခြယ်	v
+သော	part
+ပန်းချီ	n
+
+
+
+
+၆	num
+။	punc
+သုတေသန	n
+=	sb
+တစ်	tn
+စုံ	v
+တစ်	tn
+ခု	part
+ကို	ppm
+ခြေခြေမြစ်မြစ်	n
+သိ	v
+ရန်	conj
+ကြိုးစား	v
+ရှာဖွေ	v
+ခြင်း	part
+။	punc
+
+
+
+
+၇	num
+။	punc
+ဆည်းဆာ	n
+=	sb
+နေ	part
+ဝင်	v
+ချိန်	n
+။	punc
+
+
+
+
+အောက်ပါ	adj
+ပါဌ်ဆင့်	n
+စကားလုံး	n
+များ	part
+၏	sb
+စာလုံးပေါင်း	n
+သတ်ပုံ	n
+ကို	ppm
+လေ့ကျင့်	v
+ပါ	part
+။	punc
+
+
+
+
+အာနန္ဒာ	n
+၊	punc
+သဗ္ဗညု	n
+၊	punc
+ကန်တော့ပလ္လင်	n
+၊	punc
+ဓမ္မရာဇ	n
+က	ppm
+၊	punc
+ယွန်းထည်	n
+ပစ္စည်း	n
+
+
+
+
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+သမိုင်းဝင်	adj
+၊	punc
+မြို့တော်	n
+၊	punc
+ယဉ်ကျေး	adj
+မှု	part
+၊	punc
+အနုပညာ	n
+၊	punc
+ဩဝါဒ	n
+
+
+
+
+သာမက	conj
+သမိုင်းဝင်	adj
+။	punc
+။	punc
+ပုဂံ	n
+မြို့	n
+သည်	ppm
+ရှေးဟောင်း	adj
+သမိုင်းဝင်	adj
+မြို့ဟောင်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ပုဂံ	n
+မြို့	n
+၏	sb
+တည်	v
+နေရာ	n
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၂	num
+။	punc
+ပုဂံ	n
+ပြည်	n
+ကြီး	part
+တွင်	ppm
+ထီးနန်း	n
+စိုက်	v
+ကာ	conj
+နိုင်ငံ	n
+တိုးတက်	v
+အောင်	conj
+ဆောင်ရွက်	v
+ခဲ့	part
+သည့်	part
+မင်းကောင်းမင်းမြတ်	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+ရှေးဟောင်း	adj
+ပုဂံ	n
+မြို့	n
+မှ	ppm
+ထင်ရှား	adj
+သော	part
+ဘုရား	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+"	punc
+ထု	n
+ဓမ္မရံ	n
+၊	punc
+ဉာဏ်	n
+သဗ္ဗညု	n
+၊	punc
+အနု	n
+အာနန္ဒာ	n
+၊	punc
+တန်ခိုး	n
+မှာ	ppm
+ရွှေစည်းခုံ	n
+"	punc
+ဟူ	v
+သည့်	part
+စကား	n
+၏	sb
+အဓိပ္ပာယ်	n
+ကို	ppm
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+၅	num
+။	punc
+ပုဂံ	n
+ဒေသ	n
+လက်ဆောင်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၆	num
+။	punc
+ပုဂံ	n
+ဒေသ	n
+ကို	ppm
+မည်	ppm
+သည့်	part
+ခုနှစ်	n
+၊	punc
+လ	n
+၊	punc
+ရက်	n
+တွင်	ppm
+ကမ္ဘာ့	n
+အမွေအနှစ်	n
+စာရင်းဝင်	adj
+အဖြစ်	n
+မည်	ppm
+သည့်	part
+အဖွဲ့အစည်း	n
+က	ppm
+သတ်မှတ်	v
+ခဲ့	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၇	num
+။	punc
+ပုဂံ	n
+မြို့	n
+သည်	ppm
+မြန်မာ	n
+နိုင်ငံ	n
+အတွက်	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+ဂုဏ်ယူ	v
+စရာ	part
+ကောင်း	adj
+သနည်း	ppm
+။	punc
+
+
+
+
+နမူနာ	n
+စာကြောင်း	n
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+ဝါကျ	n
+တွေ	part
+ချဲ့ထွင်	v
+ပြော	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ကျော်ကျော်	adj
+သွား	v
+တယ်	ppm
+။	punc
+
+
+
+
+(	punc
+က	ppm
+)	punc
+ကျော်ကျော်	adj
+ကျောင်း	n
+ကို	ppm
+သွား	v
+တယ်	ppm
+။	punc
+(	punc
+ဘယ်	adj
+နေရာ	n
+)	punc
+
+
+
+
+(	punc
+ခ	n
+)	punc
+ကျော်ကျော်	adj
+ကျောင်း	n
+ကို	ppm
+ကား	n
+နဲ့	ppm
+သွား	v
+တယ်	ppm
+။	punc
+(	punc
+ဘယ်	adj
+နေရာ	n
+၊	punc
+ဘာ	pron
+နဲ့	ppm
+)	punc
+
+
+
+
+(	punc
+ဂ	n
+)	punc
+ကျော်ကျော်	adj
+ကျောင်း	n
+ကို	ppm
+မနက်	n
+၈	num
+နာရီ	n
+မှာ	ppm
+ကား	n
+နဲ့	ppm
+သွား	v
+တယ်	ppm
+။	punc
+(	punc
+ဘယ်	adj
+နေရာ	n
+၊	punc
+ဘယ်	adj
+အချိန်	n
+၊	punc
+ဘာ	pron
+နဲ့	ppm
+)	punc
+
+
+
+
+(	punc
+ဃ	n
+)	punc
+ကျော်ကျော်	adj
+ကျောင်း	n
+ကို	ppm
+ညီမလေး	n
+နဲ့	ppm
+မနက်	n
+၈	num
+နာရီ	n
+မှာ	ppm
+သွား	v
+တယ်	ppm
+။	punc
+(	punc
+ဘယ်	adj
+နေရာ	n
+၊	punc
+ဘယ်	adj
+သူ	pron
+နဲ့	ppm
+၊	punc
+ဘယ်	adj
+အချိန်	n
+)	punc
+ပေး	part
+ထား	part
+တဲ့	part
+နမူနာ	n
+ဝါကျ	n
+တွေ	part
+ဟာ	ppm
+တစ်	tn
+ကြောင်း	part
+နဲ့	ppm
+တစ်	tn
+ကြောင်း	part
+ဘယ်လို	adv
+ကွာခြား	v
+သွား	v
+သလဲ	part
+စဉ်းစား	v
+ကြည့်	v
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဝါကျ	n
+တွေ	part
+ကို	ppm
+ဘယ်လို	adv
+ချဲ့ထွင်	v
+ရေး	part
+လို့	part
+ရ	part
+သလဲ	part
+ဆို	v
+တာ	part
+ဇယား	n
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+စဉ်းစား	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဘယ်	adj
+သူ	pron
+က	ppm
+ဘယ်	adj
+နေရာ	n
+ကို	ppm
+ဘယ်	adj
+အချိန်	n
+မှာ	ppm
+ဘယ်	adj
+သူ	pron
+နဲ့	ppm
+ဘာ	pron
+နဲ့	ppm
+သွား	v
+ခဲ့	part
+သလဲ	part
+။	punc
+
+
+
+
+ပေး	part
+ထား	part
+တဲ့	part
+ဝါကျ	n
+တွေ	part
+ကို	ppm
+ချဲ့ထွင်	v
+ရေး	part
+ကြည့်	v
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+(	punc
+က	ppm
+)	punc
+သူဇာ	n
+စား	v
+တယ်	ppm
+
+
+
+
+(	punc
+ခ	n
+)	punc
+ဦးဘ	n
+လမ်းလျှောက်	v
+တယ်	ppm
+
+
+
+
+(	punc
+ဂ	n
+)	punc
+ဆရာမ	n
+စာသင်	v
+တယ်	ppm
+
+
+
+
+(	punc
+ဃ	n
+)	punc
+ကိုကို	n
+ပုံ	n
+ဆွဲ	v
+တယ်	ppm
+
+
+
+
+(	punc
+င	n
+)	punc
+လယ်သမား	n
+လယ်ထွန်	n
+တယ်	ppm
+
+
+
+
+(	punc
+စ	v
+)	punc
+ညီလေး	n
+ကစား	v
+တယ်	ppm
+
+
+
+
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+ဝါကျ	n
+တွေ	part
+ကို	ppm
+သူငယ်ချင်း	n
+တွေ	part
+နဲ့	ppm
+အပြန်အလှန်	adv
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဝါကျ	n
+တွေ	part
+ကောင်း	adj
+ကောင်း	adj
+ချဲ့ထွင်	v
+နိုင်	part
+ရဲ့	ppm
+လား	part
+။	punc
+
+
+
+
+ငါ	pron
+က	ppm
+တော့	part
+ဒီလို	pron
+ချဲ့ထွင်	v
+ရေး	part
+ထား	part
+တယ်	ppm
+သူငယ်ချင်း	n
+
+
+
+
+သင်ခန်းစာ	n
+၁၆	num
+အမှတ်စဉ်	n
+တပ်	n
+ကာ	conj
+ပြော	v
+ကြ	part
+မယ်	ppm
+
+
+
+
+ပုံစံ	n
+(	punc
+၁	num
+)	punc
+
+
+
+
+ဆရာမ	n
+က	ppm
+မုန့်ဟင်းခါး	n
+သိပ်	adv
+ကြိုက်	v
+တယ်	ppm
+။	punc
+တစ်ခါတလေ	adv
+ထမင်း	n
+နဲ့	ppm
+မုန့်ဟင်းခါး	n
+ရော	part
+စား	v
+တယ်	ppm
+။	punc
+မုန့်ဟင်းခါး	n
+တစ်	tn
+မျိုး	n
+ထဲ	ppm
+လဲ	part
+စား	v
+တာ	part
+ပဲ	part
+။	punc
+ပြီး	conj
+တော့	part
+ထမင်း	n
+စား	v
+ရင်	conj
+လဲ	part
+ကြက်သား	n
+ဟင်း	n
+နဲ့	ppm
+စား	v
+ရ	part
+တာ	part
+ကြိုက်	v
+တယ်	ppm
+။	punc
+ပေါင်မုန့်	n
+အုန်းနို့ဆမ်း	n
+ဆို	v
+ရင်	conj
+လဲ	part
+ကြိုက်	v
+တာ	part
+ပဲ	part
+။	punc
+ကဲ	int
+...	sb
+ဆရာမ	n
+ကြိုက်	v
+တဲ့	part
+စား	v
+စရာ	part
+တွေ	part
+က	ppm
+ဘာ	pron
+တွေ	part
+လဲ	part
+
+
+
+
+နောက်	n
+တစ်	tn
+ခေါက်	part
+ထပ်	adv
+ပြော	v
+ပြ	v
+ပါ	part
+ဆရာမ	n
+
+
+
+
+ကလေး	n
+တို့	part
+ပို	adj
+နားလည်	v
+လွယ်	v
+အောင်	conj
+ဆရာမ	n
+နောက်	n
+ပုံစံ	n
+တစ်	tn
+မျိုး	n
+နဲ့	ppm
+ထပ်	adv
+ပြော	v
+ပြ	v
+မယ်	ppm
+
+
+
+
+ပုံစံ	n
+(	punc
+၂	num
+)	punc
+
+
+
+
+ဆရာမ	n
+အကြိုက်ဆုံး	adj
+စား	v
+စရာ	part
+သုံး	v
+မျိုး	n
+ကို	ppm
+ပြော	v
+ပြ	v
+မယ်	ppm
+။	punc
+ပထမ	adj
+တစ်	tn
+ခု	part
+က	ppm
+မုန့်ဟင်းခါး	n
+ဖြစ်	v
+တယ်	ppm
+။	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+မုန့်ဟင်းခါး	n
+က	ppm
+ထမင်း	n
+နဲ့	ppm
+ရော	part
+စား	v
+ရင်	conj
+လဲ	part
+ကောင်း	adj
+တယ်	ppm
+။	punc
+မုန့်ဟင်းခါး	n
+သက်သက်	adv
+လဲ	part
+ကောင်း	adj
+တယ်	ppm
+။	punc
+ဒီလို	pron
+နှစ်	tn
+မျိုး	n
+စား	v
+လို့	part
+ရ	part
+လို့	part
+ဖြစ်	v
+တယ်	ppm
+။	punc
+ဒုတိယ	adj
+တစ်	tn
+ခု	part
+က	ppm
+ကြက်သားဟင်း	n
+ဖြစ်	v
+တယ်	ppm
+။	punc
+ကြက်သားဟင်း	n
+ကို	ppm
+ထမင်း	n
+နဲ့	ppm
+စား	v
+ရ	part
+တာ	part
+အရသာ	n
+ရှိ	v
+လို့	part
+ဖြစ်	v
+တယ်	ppm
+။	punc
+တတိယ	adj
+တစ်	tn
+ခု	part
+က	ppm
+ပေါင်မုန့်	n
+အုန်းနို့ဆမ်း	n
+ဖြစ်	v
+တယ်	ppm
+။	punc
+ပေါင်မုန့်	n
+နဲ့	ppm
+အုန်းနို့	n
+အရသာ	n
+ချို	v
+ဆိမ့်	v
+လေး	part
+မို့	part
+ကြိုက်	v
+တယ်	ppm
+။	punc
+
+
+
+
+ပုံစံ	n
+(	punc
+၁	num
+)	punc
+နဲ့	ppm
+(	punc
+၂	num
+)	punc
+က	ppm
+ဘယ်လို	adv
+ကွာခြား	v
+သလဲ	part
+။	punc
+ဘယ်	adj
+ဟာ	ppm
+က	ppm
+ပို	adj
+နားလည်	v
+ရ	part
+လွယ်	v
+သလဲ	part
+။	punc
+
+
+
+
+အဖွဲ့	n
+လိုက်	part
+ရွေး	v
+ထား	part
+တဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+ပြော	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကျွန်မ	pron
+တို့	part
+အဖွဲ့	n
+က	ppm
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+စား	v
+စရာ	part
+၃	num
+မျိုး	n
+ကို	ppm
+ပြော	v
+ပါ	part
+မယ်	ppm
+။	punc
+ပထမ	adj
+တစ်	tn
+ခု	part
+က	ppm
+____	punc
+ဒုတိယ	adj
+တစ်	tn
+ခု	part
+က	ppm
+____	punc
+တတိယ	adj
+တစ်	tn
+ခု	part
+က	ppm
+____	punc
+
+
+
+
+ကလေး	n
+တို့	part
+ကြိုက်	v
+နှစ်သက်	v
+တာ	part
+ကို	ppm
+ရွေး	v
+ပြီး	conj
+ပြော	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+စာအုပ်	n
+၃	num
+အုပ်	n
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+စား	v
+စရာ	part
+၃	num
+မျိုး	n
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+ပုံပြင်	n
+၃	num
+ပုဒ်	part
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+ယာဉ်	n
+၃	num
+မျိုး	n
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+အားကစား	n
+၃	num
+မျိုး	n
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+ကစား	v
+စရာ	part
+၃	num
+မျိုး	n
+
+
+
+
+ကိုယ်	pron
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+အကြောင်းအရာ	n
+တစ်	tn
+ခု	part
+ကို	ppm
+ပြော	v
+တဲ့	part
+အခါ	n
+မှာ	ppm
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တဲ့	part
+အကြောင်း	n
+ပြ	v
+ချက်	part
+ပါ	part
+အောင်	conj
+ပြော	v
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+၁၆	num
+။	punc
+အမှတ်စဉ်	n
+တပ်	n
+ကာ	conj
+ပြော	v
+ကြ	part
+မယ်	ppm
+
+
+
+
+ကြိုက်	v
+နှစ်သက်	v
+တဲ့	part
+အကြောင်းအရာ	n
+တွေ	part
+ကို	ppm
+စဉ်းစား	v
+ပြီး	conj
+မှတ်စု	n
+ရေး	part
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+မှတ်စု	n
+ရေး	part
+တဲ့	part
+အခါ	n
+မှာ	ppm
+
+
+
+
+-	punc
+စာပိုဒ်	n
+ခွဲ	n
+ပြီး	conj
+ရေး	part
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+-	punc
+အကြောင်းအရာ	n
+နှစ်	tn
+ခု	part
+ထက်	conj
+ပို	adj
+ရင်	conj
+အမှတ်စဉ်	n
+တပ်	n
+ပြီး	conj
+ရေး	part
+ကြ	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+-	punc
+နမူနာ	n
+ပြ	v
+ထား	part
+တဲ့	part
+ပုံစံ	n
+(	punc
+၂	num
+)	punc
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+မှတ်စု	n
+ရေး	part
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+-	punc
+ဘာ	pron
+ကြောင့်	ppm
+ကြိုက်	v
+နှစ်သက်	v
+ရ	part
+သလဲ	part
+ဆို	v
+တာ	part
+ကို	ppm
+ပါ	part
+ထည့်	v
+ရေး	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+နမူနာ	n
+ပုံစံ	n
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+နှစ်	tn
+ယောက်	part
+တစ်	tn
+တွဲ	n
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+ပြော	v
+တာ	part
+ကို	ppm
+နားထောင်	v
+ပြီး	conj
+အကြံဉာဏ်	n
+ပေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+ပေး	part
+တဲ့	part
+အကြံဉာဏ်	n
+ကို	ppm
+ယူ	v
+ပြီး	conj
+အတန်း	n
+ရှေ့	n
+မှာ	ppm
+ပြော	v
+ကြည့်	v
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကျွန်တော့်	pron
+နာမည်	n
+ကွန်ပျူတာ	n
+ခေတ်သစ်	n
+မဟော်သဓာ	n
+။	punc
+သိ	v
+လို	v
+ရာ	part
+ဖွေရှာ	n
+ကြည့်	v
+အဖြေ	n
+ပေး	part
+နိုင်	part
+ဘိ	part
+။	punc
+ပညာ	n
+ရှိ	v
+လို	v
+တိကျ	v
+ပြန်	v
+အချက်အလက်	n
+မှန်မှန်ကန်	n
+။	punc
+မြန်မြန်ဆန်ဆန်	adv
+ဆက်သွယ်	v
+သတင်း	n
+စာပေ	n
+ရုပ်ရှင်	n
+ဂီတ	n
+သီချင်း	n
+။	punc
+ကမ္ဘာ	n
+ကြီး	part
+ကို	ppm
+ကျဉ်း	adj
+နိုင်	part
+တာ	part
+ရွာလေး	n
+တစ်	tn
+ရွာ	n
+ပမာ	n
+။	punc
+အစွမ်းထက်	v
+သိပ္ပံ	n
+ဦးနှောက်	n
+စက်	n
+။	punc
+မင်းချမ်းမွန်	n
+
+
+
+
+ကွန်ပျူတာ	n
+က	ppm
+ဘယ်လို	adv
+အသုံးဝင်	v
+သလဲ	part
+ဆို	v
+တာ	part
+ကဗျာလေး	n
+ကို	ppm
+ဖတ်	v
+ကြည့်	v
+ရင်း	conj
+ပုံဖော်	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+စကား	n
+ဆက်	v
+တွေ	part
+အသုံးပြု	v
+ပြီး	conj
+ရေး	part
+ထား	part
+တဲ့	part
+ဝါကျ	n
+တွေ	part
+ရဲ့	ppm
+အဓိပ္ပာယ်	n
+ဆက်စပ်	v
+မှု	part
+မ	part
+တူညီ	v
+ပုံ	n
+ကို	ppm
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+လိပ်ပြာကလေး	n
+တွေ	part
+လာ	part
+နား	n
+တယ်	ppm
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဒါပေမဲ့	conj
+ပန်း	n
+တွေ	part
+အကုန်	n
+မ	part
+ပွင့်	v
+သေး	part
+ဘူး	part
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+ရေ	n
+မှန်မှန်	adv
+လောင်း	v
+လို့	part
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+ဒါပေမဲ့	conj
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+
+
+
+
+ဒါ	pron
+ကြောင့်	ppm
+လိပ်ပြာကလေး	n
+တွေ	part
+လာ	part
+နား	n
+တယ်	ppm
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဒါပေမဲ့	conj
+ပန်း	n
+တွေ	part
+အကုန်	n
+မ	part
+ပွင့်	v
+သေး	part
+ဘူး	part
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+ရေ	n
+မှန်မှန်	adv
+လောင်း	v
+လို့	part
+။	punc
+
+
+
+
+ဒီ	adj
+ဝါကျ	n
+တွေ	part
+က	ppm
+ဘယ်လို	adv
+ကွာခြား	v
+တာ	part
+ပါ	part
+လိမ့်	part
+
+
+
+
+၁၈	num
+။	punc
+စကား	n
+ဆက်	v
+
+
+
+
+သာဓက	n
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+လိပ်ပြာကလေး	n
+တွေ	part
+လာ	part
+နား	n
+တယ်	ppm
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဒါပေမဲ့	conj
+ပန်း	n
+တွေ	part
+အကုန်	n
+မ	part
+ပွင့်	v
+သေး	part
+ဘူး	part
+။	punc
+
+
+
+
+ပန်း	n
+တွေ	part
+ပွင့်	v
+နေ	part
+တယ်	ppm
+။	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+ရေ	n
+မှန်မှန်	adv
+လောင်း	v
+လို့	part
+။	punc
+
+
+
+
+ဒါ	pron
+ကြောင့်	ppm
+ဆို	v
+တဲ့	part
+စကား	n
+ဆက်	v
+ကို	ppm
+အဓိပ္ပာယ်	n
+ဆက်စပ်မှု	n
+ရှိ	v
+ချင်	part
+တဲ့	part
+အခါ	n
+သုံး	v
+တယ်	ppm
+။	punc
+
+
+
+
+ဒါပေမဲ့	conj
+ဆို	v
+တဲ့	part
+စကား	n
+ဆက်	v
+ကို	ppm
+သဘော	n
+မ	part
+တူ	v
+ကြောင်း	part
+ရေး	part
+ချင်	part
+တဲ့	part
+အခါ	n
+သုံး	v
+တယ်	ppm
+။	punc
+
+
+
+
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+ဆို	v
+တဲ့	part
+စကား	n
+ဆက်	v
+ကို	ppm
+အကြောင်း	n
+ပြ	v
+ချက်	part
+ကို	ppm
+ပေး	part
+ချင်	part
+တဲ့	part
+အခါ	n
+သုံး	v
+တယ်	ppm
+။	punc
+
+
+
+
+ပေး	part
+ထား	part
+တဲ့	part
+ဝါကျ	n
+တွေ	part
+မှာ	ppm
+ဒါ	pron
+ကြောင့်	ppm
+၊	punc
+ဒါပေမဲ့	conj
+၊	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+စကား	n
+ဆက်	v
+တွေ	part
+ကို	ppm
+သုံး	v
+ပြီး	conj
+စာ	n
+ကြောင်း	part
+ဆက်	v
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဒီနေ့	n
+မိုးရွာ	v
+တယ်	ppm
+။	punc
+
+
+
+
+ကိုကို	n
+ပန်းချီ	n
+ဆွဲ	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+မေမေ	n
+ဈေး	n
+သွား	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+
+
+
+
+မမ	n
+ဖျား	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+မောင်မောင်	n
+ဘောလုံး	n
+ကန်	n
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဦးဦး	n
+အိမ်	n
+ပြင်	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ကျောင်းသား	n
+ကျောင်းသူ	n
+များ	part
+သစ်ပင်	n
+စိုက်	v
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+စာကြောင်း	n
+ကို	ppm
+အချင်းချင်း	adv
+ပြန်	v
+ပြော	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ဒီနေ့	n
+မိုးရွာ	v
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+
+
+
+
+မေမေ	n
+ဈေး	n
+သွား	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+ဒါပေမဲ့	conj
+...	sb
+
+
+
+
+စကား	n
+ဆက်	v
+တွေ	part
+ကို	ppm
+အသုံးပြု	v
+ပြီး	conj
+ဆို	v
+လို	v
+ချင်	part
+တဲ့	part
+အဓိပ္ပာယ်	n
+ရ	part
+အောင်	conj
+ပြော	v
+လို့	part
+ရေး	part
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+မည်	ppm
+သို့	ppm
+ခွဲခြား	v
+မည်	ppm
+နည်း	n
+။	punc
+ပုံ	n
+နှင့်	conj
+စာ	n
+ကို	ppm
+ယှဉ်တွဲ	v
+ဖတ်ရှု	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+ကြက်ဥ	n
+အခွံ	n
+ကို	ppm
+ခွဲ	n
+ပြီး	conj
+အတွင်း	n
+ပိုင်း	part
+ကို	ppm
+ကြည့်	v
+ဖူး	part
+ပါ	part
+သလား	part
+။	punc
+ကြက်ဥပြုတ်	n
+၏	sb
+အဖြူရောင်	n
+အကာ	n
+သည်	ppm
+ခဲ	part
+နေ	part
+သော	part
+အဝါရောင်	n
+အနစ်	n
+၏	sb
+ဘေး	n
+ပတ်လည်	n
+တွင်	ppm
+ရှိ	v
+နေ	part
+ပြီး	conj
+အခွံ	n
+နှင့်	conj
+ကပ်	v
+နေ	part
+သည်	ppm
+။	punc
+မ	part
+ပြုတ်	v
+ရ	part
+သေး	part
+သော	part
+ကြက်ဥစိမ်း	n
+တွင်	ppm
+မူ	part
+အကြည်ရောင်	n
+ပျစ်ချွဲ	n
+သော	part
+အကာ	n
+သည်	ppm
+ပျော့	adj
+နေ	part
+သော	part
+အဝါရောင်	n
+အနှစ်	n
+၏	sb
+ပတ်လည်	n
+တွင်	ppm
+ရှိ	v
+နေ	part
+သည်	ppm
+။	punc
+ထိုသို့	n
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+၏	sb
+အတွင်း	n
+ပိုင်း	part
+ကွာခြား	v
+သည်	ppm
+။	punc
+
+
+
+
+ထိုသို့	n
+ဆို	v
+လျှင်	conj
+ကြက်ဥ	n
+အခွံ	n
+ကို	ppm
+မ	part
+ခွဲ	n
+ဘဲ	part
+မည်	ppm
+သည်	ppm
+က	ppm
+ကြက်ဥစိမ်း	n
+ဖြစ်	v
+သည်	ppm
+မည်	ppm
+သည်	ppm
+က	ppm
+ကြက်ဥပြုတ်	n
+ဖြစ်	v
+သည်	ppm
+ကို	ppm
+ခွဲခြား	v
+သိ	v
+ရှိ	v
+နိုင်	part
+ပါ	part
+မည်	ppm
+လား	part
+။	punc
+ဦး	part
+စွာ	part
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+လက်	n
+တစ်	tn
+ဖက်	part
+စီ	part
+တွင်	ppm
+တင်	v
+ကာ	conj
+နှိုင်းယှဉ်	v
+ကြည့်	v
+မည်	ppm
+။	punc
+ကြက်ဥ	n
+နှစ်	tn
+လုံး	part
+မှာ	ppm
+အရောင်	n
+၊	punc
+ပုံသဏ္ဌာန်	n
+၊	punc
+အလေးချိန်	n
+အတူတူ	adv
+ပင်	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+ထို့ကြောင့်	conj
+အရောင်	n
+၊	punc
+ပုံသဏ္ဌာန်	n
+၊	punc
+အလေးချိန်	n
+ဖြင့်	ppm
+ခွဲခြား	v
+ရန်	conj
+ခက်ခဲ	adj
+သည်	ppm
+။	punc
+
+
+
+
+ပုံ	n
+(	punc
+၁	num
+)	punc
+မည်	ppm
+သည်	ppm
+က	ppm
+ကြက်ဥစိမ်း	n
+ဖြစ်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+ထို့	pron
+အတွက်	ppm
+ကြက်ဥ	n
+နှစ်	tn
+လုံး	part
+ကို	ppm
+လှည့်	v
+ကာ	conj
+မ	part
+တူညီ	v
+သော	part
+အချက်	n
+ရှိ	v
+မ	part
+ရှိ	v
+ကို	ppm
+ရှာ	v
+ကြည့်	v
+ကြ	part
+မည်	ppm
+။	punc
+
+
+
+
+ပုံ	n
+(	punc
+၂	num
+)	punc
+ကြက်ဥ	n
+လှည့်	v
+ပုံ	n
+
+
+
+
+ကြက်ဥပြုတ်	n
+ကို	ppm
+ပန်းကန်ပြား	n
+တွင်	ppm
+ပုံ	n
+(	punc
+၂	num
+)	punc
+အတိုင်း	ppm
+လက်	n
+ဖြင့်	ppm
+ဖြည်းဖြည်း	adv
+လှည့်ကြည့်	v
+ပါ	part
+။	punc
+ထိုသို့	n
+လှည့်	v
+ပါ	part
+က	ppm
+အဝိုင်းလေး	n
+လည်	v
+လာ	part
+လိမ့်	part
+မည်	ppm
+။	punc
+ထို့	pron
+ထက်	conj
+ပို	adj
+၍	sb
+မြန်မြန်	adv
+လှည့်	v
+ပါ	part
+က	ppm
+အဝိုင်း	n
+နှစ်	tn
+ဝိုင်း	part
+ပေါ်	n
+လာ	part
+ပြီး	conj
+ထောင်	n
+ကာ	conj
+လည်	v
+လိမ့်	part
+မည်	ppm
+။	punc
+
+
+
+
+ဂျင်	n
+ကဲ့သို့	part
+လည်	v
+လိမ့်	part
+မည်	ppm
+။	punc
+ကြက်ဥစိမ်း	n
+ကို	ppm
+ထို	adj
+လုပ်	v
+ပုံ	n
+လုပ်	v
+နည်း	n
+အတိုင်း	ppm
+ပြုလုပ်	v
+ပါ	part
+က	ppm
+မည်	ppm
+သို့	ppm
+ဖြစ်	v
+မည်	ppm
+နည်း	n
+။	punc
+လှုပ်	v
+ပြီး	conj
+ဖြည်းဖြည်းချင်း	adv
+လည်	v
+ရုံ	part
+သာ	part
+ရှိ	v
+လိမ့်	part
+မည်	ppm
+။	punc
+မြန်မြန်	adv
+လှည့်	v
+သည့်	part
+တိုင်	v
+မြန်မြန်	adv
+လည်	v
+လာ	part
+ခြင်း	part
+မ	part
+ရှိ	v
+ပေ	part
+။	punc
+
+
+
+
+ကြက်ဥစိမ်း	n
+ကြက်ဥပြုတ်	n
+
+
+
+
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+လည်ပုံ	n
+ချင်း	part
+မ	part
+တူညီ	v
+ပုံ	n
+
+
+
+
+ထို	adj
+ကဲ့သို့	part
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+လည်ပုံ	n
+ချင်း	part
+မ	part
+တူညီ	v
+သည်	ppm
+ကို	ppm
+ရှင်းရှင်းလင်းလင်း	adv
+မြင်	v
+တွေ့	v
+ရ	part
+သည်	ppm
+။	punc
+ထို	adj
+လည်ပုံ	n
+ကွဲပြား	v
+မှု	part
+သည်	ppm
+မည်	ppm
+သည့်	part
+ကြက်ဥစိမ်း	n
+၊	punc
+ကြက်ဥပြုတ်	n
+တွင်	ppm
+မ	part
+ဆို	v
+အတူတူ	adv
+ပင်	part
+ဖြစ်	v
+ပါ	part
+သလား	part
+။	punc
+အတူတူ	adv
+ဖြစ်	v
+ပါ	part
+က	ppm
+လက်	n
+ဖြင့်	ppm
+လှည့်ကြည့်	v
+ရုံ	part
+မျှ	part
+ဖြင့်	ppm
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+ခွဲခြား	v
+သိ	v
+ရှိ	v
+နိုင်	part
+ပေ	part
+လိမ့်	part
+မည်	ppm
+။	punc
+
+
+
+
+ထို့ကြောင့်	conj
+ကြက်ဥစိမ်း	n
+၅	num
+လုံး	part
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+၅	num
+လုံး	part
+ယူ	v
+ကာ	conj
+အထက်	n
+ပါ	part
+နည်း	n
+အတိုင်း	ppm
+လှည့်ကြည့်	v
+သည်	ppm
+။	punc
+ကြက်ဥစိမ်း	n
+တိုင်း	part
+သည်	ppm
+ဖြည်းညင်း	n
+စွာ	part
+လည်	v
+သည်	ppm
+။	punc
+ကြက်ဥပြုတ်	n
+တိုင်း	part
+ဂျင်	n
+ကဲ့သို့	part
+လျင်မြန်	v
+စွာ	part
+လည်	v
+သည်	ppm
+။	punc
+
+
+
+
+ကြက်ဥ	n
+အခွံ	n
+မ	part
+ခွဲ	n
+ဘဲ	part
+လည်ပုံ	n
+ကို	ppm
+ကြည့်	v
+၍	sb
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+ခွဲခြား	v
+နိုင်	part
+သည်	ppm
+။	punc
+အဘယ်	pron
+ကြောင့်	ppm
+ထိုသို့	n
+ခွဲခြား	v
+နိုင်	part
+သနည်း	ppm
+။	punc
+ကြက်ဥ	n
+အတွင်း	n
+တွင်	ppm
+လျှို့ဝှက်ချက်	n
+ရှိ	v
+နေ	part
+သော	part
+ကြောင့်	ppm
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ကြက်ဥစိမ်း	n
+ကြက်ဥပြုတ်	n
+
+
+
+
+ပုံ	n
+(	punc
+၄	num
+)	punc
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+၏	sb
+အတွင်း	n
+ပိုင်း	part
+ပုံ	n
+
+
+
+
+ကြက်ဥပြုတ်	n
+တွင်	ppm
+အတွင်း	n
+ရှိ	v
+အရာ	n
+အားလုံး	adj
+သည်	ppm
+အခဲ	n
+ဖြစ်	v
+ပြီး	conj
+အကာ	n
+သည်	ppm
+လည်း	part
+ကြက်ဥခွံ	n
+နှင့်	conj
+ကပ်	v
+နေ	part
+သည်	ppm
+။	punc
+ထို့ကြောင့်	conj
+ကြက်ဥပြုတ်	n
+သည်	ppm
+အကာ	n
+နှင့်	conj
+အနှစ်	n
+တစ်သားတည်း	n
+ဖြစ်	v
+နေ	part
+သော	part
+ကြောင့်	ppm
+ဂျင်	n
+ကဲ့သို့	part
+လည်	v
+နိုင်	part
+ခြင်း	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ကြက်ဥစိမ်း	n
+တွင်	ppm
+အတွင်း	n
+ပိုင်း	part
+သည့်	part
+စေးပျစ်	n
+သော	part
+အရည်	n
+ဖြစ်	v
+နေ	part
+သည်	ppm
+။	punc
+ထို့ကြောင့်	conj
+ကြက်ဥခွံ	n
+ကို	ppm
+အား	ppm
+စိုက်	v
+ကာ	conj
+လှည့်	v
+သော်လည်း	conj
+ကြက်ဥပြုတ်	n
+ကဲ့သို့	part
+အတွင်း	n
+ပိုင်း	part
+သည်	ppm
+မ	part
+လည်	v
+ဘဲ	part
+အဟန့်အတား	n
+ဖြစ်	v
+နေ	part
+သည်	ppm
+။	punc
+ဤ	adj
+သို့	ppm
+ဖြင့်	ppm
+ကြက်ဥစိမ်း	n
+၏	sb
+အတွင်း	n
+ပိုင်း	part
+သည်	ppm
+လည်ပတ်	v
+မှု	part
+ကို	ppm
+အရှိန်	n
+တန့်	n
+သွား	v
+စေ	part
+သည်	ppm
+။	punc
+ကြက်ဥစိမ်း	n
+၏	sb
+အတွင်း	n
+ပိုင်း	part
+ထိုသို့	n
+ဖြစ်	v
+တည်	v
+နေ	part
+သည်	ppm
+မှာ	ppm
+ကြက်ငယ်	n
+အကောင်	n
+ပေါက်	v
+လာ	part
+မည့်	part
+အရာ	n
+ဖြစ်	v
+သော	part
+ကြောင့်	ppm
+လည်ပတ်	v
+မှု	part
+အရှိန်	n
+မ	part
+ပြင်း	adj
+ဘဲ	part
+အန္တရာယ်	n
+ကင်း	v
+စေ	part
+ရန်	conj
+သဘာဝ	n
+က	ppm
+စီမံ	v
+ပေး	part
+ထား	part
+ခြင်း	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+မှီငြမ်းပြု	v
+စာအုပ်	n
+ကျယ်ပြန့်	adj
+လာ	part
+သော	part
+စကားလုံး	n
+များ	part
+တတိယ	adj
+တန်း	n
+ဂျပန်စာ	n
+(	punc
+ဒုတိယ	adj
+တွဲ	n
+)	punc
+၂၀၁၅	num
+ခု	part
+နှစ်	tn
+ဂျပန်	n
+နိုင်ငံ	n
+ပညာ	n
+(Kyoiku)	n
+ထုတ်ဝေ	v
+ရေး	part
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ကြက်ဥ	n
+အခွံ	n
+ကို	ppm
+မ	part
+ခွဲ	n
+ဘဲ	part
+မည်	ppm
+သည်	ppm
+က	ppm
+ကြက်ဥစိမ်း	n
+ဖြစ်	v
+သည်	ppm
+မည်	ppm
+သည်	ppm
+က	ppm
+ကြက်ဥပြုတ်	n
+ဖြစ်	v
+သည်	ppm
+ကို	ppm
+မည်	ppm
+သို့	ppm
+ခွဲခြား	v
+သိ	v
+ရှိ	v
+နိုင်	part
+ပါ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+လည်ပုံ	n
+ကွဲပြား	v
+မှု	part
+သည်	ppm
+မည်	ppm
+သည့်	part
+ကြက်ဥစိမ်း	n
+၊	punc
+ကြက်ဥပြုတ်	n
+တွင်	ppm
+မ	part
+ဆို	v
+အတူတူ	adv
+ပင်	part
+ဖြစ်	v
+ပါ	part
+သလော	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+အဘယ်	pron
+ကြောင့်	ppm
+ကြက်ဥ	n
+အခွံ	n
+ကို	ppm
+မ	part
+ခွဲ	n
+ဘဲ	part
+လည်ပုံ	n
+ကို	ppm
+ကြည့်	v
+၍	sb
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+ခွဲခြား	v
+နိုင်	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+ကြက်ဥပြုတ်	n
+သည်	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+မြန်မြန်	adv
+လည်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+ကြက်ဥစိမ်း	n
+က	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+နှေးနှေး	n
+လည်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၆	num
+။	punc
+အောက်ပါ	adj
+ဇယား	n
+ကို	ppm
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+အရောင်	n
+၊	punc
+ပုံသဏ္ဌာန်	n
+၊	punc
+အလေးချိန်	n
+လည်ပုံ	n
+အတွင်း	n
+ပိုင်း	part
+ပုံစံ	n
+
+
+
+
+ကြက်ဥစိမ်း	n
+ကြက်ဥပြုတ်	n
+
+
+
+
+၁	num
+။	punc
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+ခွဲခြား	v
+မည်	ppm
+ဆို	v
+ပါ	part
+က	ppm
+
+
+
+
+၁၉	num
+။	punc
+မည်	ppm
+သည်	ppm
+က	ppm
+ကြက်ဥစိမ်း	n
+ဖြစ်	v
+သနည်း	ppm
+
+
+
+
+အောက်	n
+ဖော်ပြ	v
+ပါ	part
+ပုံ	n
+ကို	ppm
+ကြည့်	v
+၍	sb
+စာ	n
+ကြောင်း	part
+ကို	ppm
+ဆက်	v
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+ကို	ppm
+လက်	n
+တစ်	tn
+ဖက်	part
+စီ	part
+တွင်	ppm
+တင်	v
+ကာ	conj
+နှိုင်းယှဉ်	v
+ကြည့်	v
+ရာ	part
+တွင်	ppm
+
+
+
+
+၂	num
+။	punc
+ကြက်ဥစိမ်း	n
+ကြက်ဥ	n
+၏	sb
+အတွင်း	n
+တွင်	ppm
+မ	part
+တူညီ	v
+ပါ	part
+။	punc
+ကြက်ဥစိမ်း	n
+၏	sb
+အတွင်း	n
+ပိုင်း	part
+သည်	ppm
+ကြက်ဥပြုတ်	n
+၏	sb
+အတွင်း	n
+ပိုင်း	part
+သည်	ppm
+
+
+
+
+၄	num
+။	punc
+ကြက်ဥစိမ်း	n
+ကြက်ဥပြုတ်	n
+ကြက်ဥစိမ်း	n
+နှင့်	conj
+ကြက်ဥပြုတ်	n
+သည်	ppm
+လည်ပုံ	n
+မ	part
+တူညီ	v
+ပါ	part
+။	punc
+
+
+
+
+ကြက်ဥစိမ်း	n
+သည်	ppm
+
+
+
+
+ကြက်ဥပြုတ်	n
+သည်	ppm
+
+
+
+
+သင်ခန်းစာ	n
+၂ဝ	num
+အကြောင်းအရာ	n
+ကို	ppm
+ပြည့်ပြည့်စုံစုံ	n
+ရေး	part
+ခြင်း	part
+
+
+
+
+မိမိ	pron
+ပြုလုပ်	v
+တာ	part
+တွေ	part
+ထဲ	ppm
+က	ppm
+အမှတ်	n
+ရ	part
+ဆုံး	part
+အဖြစ်အပျက်	n
+တစ်	tn
+ခု	part
+ကို	ppm
+အသေးစိတ်	adv
+ပြော	v
+ပြီး	conj
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ပြီး	conj
+ခဲ့	part
+တဲ့	part
+အင်္ဂါ	n
+နေ့	n
+က	ppm
+ကျောင်း	n
+မှာ	ppm
+အသင်း	n
+လိုက်	part
+ဘောလုံး	n
+ပြိုင်ပွဲ	n
+လုပ်	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဗန္ဓုလ	n
+အသင်း	n
+နဲ့	ppm
+ကစား	v
+ခဲ့	part
+တဲ့	part
+အခါ	n
+မှာ	ppm
+တို့	part
+က	ppm
+တော့	part
+ကျန်စစ်သား	n
+အသင်း	n
+ဘက်	n
+က	ppm
+ဂိုးသမား	n
+အနေနဲ့	part
+ပါ	part
+ခဲ့	part
+တယ်	ppm
+။	punc
+
+
+
+
+ပွဲ	n
+မ	part
+စ	v
+ခင်	conj
+သွေး	n
+ပူ	v
+လေ့ကျင့်ခန်း	n
+တွေ	part
+လဲ	part
+လုပ်	v
+ရ	part
+သေး	part
+တယ်	ppm
+။	punc
+ဂိုးသမား	n
+ဆို	v
+တော့	part
+တခြား	adj
+အသင်း	n
+က	ppm
+ဘောလုံး	n
+တွေ	part
+ကို	ppm
+မိ	part
+အောင်	conj
+ဖမ်း	v
+ရ	part
+တာ	part
+ပေါ့	part
+။	punc
+ဗန္ဒုလ	n
+အသင်း	n
+ရဲ့	ppm
+ရှေ့တန်း	n
+က	ppm
+လဲ	part
+ကောင်း	adj
+တော့	part
+သူ	pron
+တို့	part
+ဂိုး	part
+မ	part
+ရ	part
+အောင်	conj
+အတော်လေး	adv
+ကာကွယ်	v
+ရ	part
+တယ်	ppm
+။	punc
+နောက်ဆုံး	n
+မှာ	ppm
+တော့	part
+တို့	part
+ကျန်စစ်သား	n
+အသင်း	n
+က	ppm
+ဗန္ဓုလ	n
+အသင်း	n
+ကို	ppm
+၂	num
+ဂိုး	part
+၁	num
+ဂိုး	part
+နဲ့	ppm
+အနိုင်	n
+ရ	part
+ခဲ့	part
+တယ်	ppm
+။	punc
+
+
+
+
+ဂိုးသမား	n
+လုပ်	v
+ခွင့်	n
+ရ	part
+ခဲ့	part
+တဲ့	part
+အတွက်	ppm
+တို့	part
+သိပ်	adv
+ကို	ppm
+ပျော်	v
+တယ်	ppm
+။	punc
+
+
+
+
+တို့	part
+အသင်း	n
+နိုင်	part
+တဲ့	part
+အတွက်	ppm
+လဲ	part
+ဂုဏ်ယူ	v
+မိ	part
+ပါ	part
+တယ်	ppm
+။	punc
+။	punc
+
+
+
+
+ပြုလုပ်ခဲ့တဲ့	n
+အဖြစ်အပျက်	n
+အဖြစ်အပျက်	n
+အပြည့်အစုံ	adj
+စိတ်	n
+ခံစား	v
+ချက်	part
+
+
+
+
+အမှတ်ရ	v
+ဆုံး	part
+အကြောင်းအရာ	n
+တစ်	tn
+ခု	part
+ကို	ppm
+ပထမဆုံး	adj
+စဉ်းစား	v
+ရ	part
+မယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+ရေး	part
+တဲ့	part
+အခါ	n
+မှာ	ppm
+စာပိုဒ်	n
+သုံး	v
+ပိုဒ်	n
+နဲ့	ppm
+ရေး	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ပထမ	adj
+စာပိုဒ်	n
+မှာ	ppm
+ကိုယ်	pron
+လုပ်	v
+ခဲ့	part
+တဲ့	part
+အဖြစ်အပျက်	n
+တစ်	tn
+ခု	part
+အကြောင်း	n
+ပါ	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ဒုတိယ	adj
+စာပိုဒ်	n
+မှာ	ppm
+ကိုယ်	pron
+လုပ်	v
+ခဲ့	part
+တဲ့	part
+အဖြစ်အပျက်	n
+အပြည့်အစုံ	adj
+ပါ	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+တတိယ	adj
+စာပိုဒ်	n
+မှာ	ppm
+တော့	part
+ကိုယ်	pron
+ပြုလုပ်	v
+ခဲ့	part
+တာ	part
+နဲ့	ppm
+ပတ်သက်	v
+ပြီး	conj
+ဘယ်လို	adv
+ခံစား	v
+ရ	part
+တယ်	ppm
+ဆို	v
+တာ	part
+ရေး	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ကိုယ်	pron
+လုပ်	v
+ခဲ့	part
+တဲ့	part
+အကြောင်းအရာ	n
+တစ်	tn
+ခု	part
+ကို	ppm
+မ	part
+ရေး	part
+ခင်	conj
+နှစ်	tn
+ယောက်	part
+တစ်	tn
+တွဲ	n
+ပြော	v
+ကြည့်	v
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ပြော	v
+ပြီး	conj
+ရင်	conj
+စာပိုဒ်	n
+သုံး	v
+ပိုဒ်	n
+နဲ့	ppm
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+အကြောင်းအရာလေး	n
+ကို	ppm
+အတန်း	n
+ထဲ	ppm
+မှာ	ppm
+သူငယ်ချင်း	n
+တွေ	part
+ကို	ppm
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ငါ	pron
+သတိအရဆုံး	n
+အဖြစ်အပျက်လေး	n
+တစ်	tn
+ခု	part
+က	ppm
+တော့	part
+...	sb
+
+
+
+
+သူငယ်ချင်း	n
+အဖြစ်အပျက်လေး	n
+က	ppm
+စိတ်ဝင်စား	v
+ဖို့	part
+ကောင်း	adj
+တယ်	ppm
+နော်	part
+...	sb
+
+
+
+
+တစ်	tn
+ဖက်	part
+အသင်း	n
+က	ppm
+ကစား	v
+သွား	v
+တာ	part
+ဘယ်လို	adv
+လဲ	part
+...	sb
+
+
+
+
+သူငယ်ချင်း	n
+ပြော	v
+သွား	v
+တဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+မူတည်	v
+ပြီး	conj
+မေးခွန်း	n
+မေး	v
+တတ်	part
+၊	punc
+အကြံပေး	v
+တတ်	part
+ကြ	part
+တယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+ပေး	part
+တဲ့	part
+အကြံ	n
+ပေါ်	n
+မူတည်	v
+ပြီး	conj
+ပြန်	v
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+လွန်	v
+လေ	part
+ပြီး	conj
+သောအခါ	conj
+လုလင်	n
+တစ်	tn
+ယောက်	part
+သည်	ppm
+ကတွတ်ပေါက်	n
+တစ်	tn
+ခု	part
+၌	sb
+ငါး	n
+ကို	ppm
+မြှောက်	part
+၍	sb
+ကစား	v
+နေ	part
+သော	part
+ဗျိုင်း	n
+တစ်	tn
+ကောင်	part
+ကို	ppm
+မြင်	v
+လေ	part
+၏	sb
+။	punc
+ထို	adj
+ဗျိုင်း	n
+သည်	ppm
+ငါး	n
+ကို	ppm
+ကတွတ်ပေါက်	n
+မှ	ppm
+စောင့်	v
+၍	sb
+နှုတ်သီး	n
+ဖြင့်	ppm
+ဖမ်း	v
+ယူ	v
+ကာ	conj
+အထက်	n
+သို့	ppm
+ပစ်	part
+၏	sb
+။	punc
+ငါး	n
+ပြန်	v
+ကျ	v
+လာ	part
+သောအခါ	conj
+မြေ	n
+သို့	ppm
+မ	part
+ရောက်	v
+မီ	part
+နှုတ်သီး	n
+ဖြင့်	ppm
+ကိုက်	v
+၍	sb
+ဖမ်း	v
+၏	sb
+။	punc
+ထို့နောက်	conj
+ရှေး	adj
+နည်း	n
+တူ	v
+ကစား	v
+ပြန်	v
+၏	sb
+။	punc
+ဤ	adj
+သို့	ppm
+ငါး	n
+ကို	ppm
+အကြိမ်ကြိမ်	adv
+ပစ်	part
+မြှောက်	part
+ဖမ်း	v
+ယူ	v
+ကစား	v
+နေ	part
+သော	part
+ဗျိုင်း	n
+၏	sb
+ကျွမ်းကျင်	v
+မှု	part
+ကို	ppm
+လုလင်	n
+သည်	ppm
+အလွန်	adv
+အား	ppm
+ကျ	v
+လေ	part
+၏	sb
+။	punc
+မိမိ	pron
+လည်း	part
+တုတ်	n
+၊	punc
+ဓား	n
+၊	punc
+လှံ	n
+စသည်	part
+ကို	ppm
+ဗျိုင်းကဲ့သို့	n
+အထက်	n
+သို့	ppm
+ပစ်	part
+၍	sb
+ပါးစပ်	n
+ဖြင့်	ppm
+ကိုက်	v
+ဖမ်း	v
+နိုင်	part
+လျှင်	conj
+ကောင်း	adj
+လေ	part
+စွ	part
+ဟု	part
+တွေး	v
+မိ	part
+၏	sb
+။	punc
+
+
+
+
+လုလင်	n
+သည်	ppm
+ဗျိုင်း	n
+ကို	ppm
+တွေ့	v
+ခဲ့	part
+ပြီး	conj
+နောက်	n
+အိမ်	n
+သို့	ppm
+ရောက်	v
+သော်	conj
+ဗျိုင်း	n
+ကို	ppm
+အတုယူ	v
+ကာ	conj
+သစ်	adj
+ချွန်	v
+များ	part
+ကို	ppm
+အထက်	n
+သို့	ppm
+မြှောက်	part
+တင်	v
+၍	sb
+မြေ	n
+သို့	ppm
+မ	part
+ကျ	v
+မီ	part
+ပါးစပ်	n
+ဖြင့်	ppm
+ကိုက်	v
+ဖမ်း	v
+၏	sb
+။	punc
+ဤ	adj
+သို့	ppm
+အကြိမ်ကြိမ်	adv
+ပြုလုပ်	v
+လေ့ကျင့်ဖန်	n
+များ	part
+သော်	conj
+လုလင်	n
+သည်	ppm
+သစ်	adj
+ချွန်	v
+တို့	part
+ကို	ppm
+လျှာ	n
+နှင့်	conj
+မျှ	part
+ပင်	part
+မ	part
+ထိ	ppm
+အောင်	conj
+ကျွမ်းကျင်	v
+စွာ	part
+ကိုက်	v
+၍	sb
+ဖမ်း	v
+နိုင်	part
+လာ	part
+လေ	part
+၏	sb
+။	punc
+ထိုအခါ	conj
+အုတ်	n
+၊	punc
+ခဲ	part
+စသည်	part
+တို့	part
+နှင့်	conj
+လည်းကောင်း	conj
+၊	punc
+လှံတံ	n
+ကြီး	part
+ငယ်	adj
+တို့	part
+နှင့်	conj
+လည်းကောင်း	conj
+၊	punc
+အသွား	n
+ထက်	conj
+စွာ	part
+သွေး	n
+ထား	part
+သည့်	part
+သန်လျက်	n
+နှင့်	conj
+လည်းကောင်း	conj
+လေ့ကျင့်	v
+၏	sb
+။	punc
+ယင်း	pron
+လက်နက်	n
+တို့	part
+ကို	ppm
+လည်း	part
+သစ်	adj
+ချွန်	v
+များ	part
+နှင့်	conj
+ကစား	v
+သကဲ့သို့	conj
+ကျွမ်းကျင်	v
+စွာ	part
+ကိုက်	v
+၍	sb
+ဖမ်း	v
+နိုင်	part
+၏	sb
+။	punc
+ဤ	adj
+အတတ်	n
+၌	sb
+လုလင်	n
+သည်	ppm
+ပြိုင်ဘက်ကင်းသူ	n
+ဖြစ်	v
+လာ	part
+လေ	part
+၏	sb
+။	punc
+
+
+
+
+လုလင်	n
+သည်	ppm
+မိမိ	pron
+အစွမ်း	n
+ကို	ppm
+ရွာ	n
+၌	sb
+ရှေးဦးစွာ	adv
+ပြ	v
+၏	sb
+။	punc
+ရွာသား	n
+ပရိသတ်	n
+တို့	part
+လည်း	part
+များ	part
+စွာ	part
+နှစ်သက်	v
+ကြ	part
+၍	sb
+ဆုလာဘ်	n
+များ	part
+ကို	ppm
+အကြိမ်ကြိမ်	adv
+အထပ်ထပ်	adv
+ပေး	part
+ကြ	part
+၏	sb
+။	punc
+လုလင်	n
+သည်	ppm
+ထို	adj
+ရွာ	n
+မှ	ppm
+တစ်	tn
+ဆင့်	n
+တစ်	tn
+ရွာ	n
+ပြီး	conj
+တစ်	tn
+ရွာ	n
+၊	punc
+တစ်	tn
+မြို့	n
+ပြီး	conj
+တစ်	tn
+မြို့	n
+သို့	ppm
+သွား	v
+လာ	part
+ကာ	conj
+မိမိ	pron
+အစွမ်း	n
+ကို	ppm
+ပြ	v
+၏	sb
+။	punc
+ထိုအခါ	conj
+၌	sb
+ပရိသတ်	n
+တို့	part
+သည်	ppm
+လွန်	v
+စွာ	part
+နှစ်သက်	v
+ကြ	part
+၍	sb
+ဆုလာဘ်	n
+များ	part
+စွာ	part
+ပေး	part
+ကြ	part
+၏	sb
+။	punc
+
+
+
+
+လုလင်	n
+၏	sb
+အစွမ်း	n
+ကို	ppm
+မင်း	pron
+ကြီး	part
+ကြား	v
+သော်	conj
+လုလင်	n
+ကို	ppm
+ခေါ်	v
+၍	sb
+မင်း	pron
+ရင်	conj
+ပြင်	v
+၌	sb
+ကစား	v
+စေ	part
+၏	sb
+။	punc
+လုလင်	n
+သည်	ppm
+မိမိ	pron
+အစွမ်း	n
+ကို	ppm
+ပြ	v
+၏	sb
+။	punc
+မင်း	pron
+ကြီး	part
+နှစ်သက်	v
+အား	ppm
+ရ	part
+တော်	part
+မူ	part
+လှ	part
+၍	sb
+ကြေး	n
+ငွေ	n
+ဥစ္စာ	n
+ဆုလာဘ်	n
+များ	part
+စွာ	part
+ချီးမြှင့်	n
+တော်	part
+မူ	part
+၏	sb
+။	punc
+လုလင်	n
+အား	ppm
+လည်း	part
+မင်း	pron
+ရင်	conj
+ပြင်	v
+၌	sb
+မကြာခဏ	adv
+ကစား	v
+ပြ	v
+စေ	part
+၏	sb
+။	punc
+နောင်	n
+တွင်	ppm
+မင်း	pron
+ကြီး	part
+နှင့်	conj
+လုလင်	n
+တို့	part
+သည်	ppm
+တဖြည်းဖြည်း	adv
+ခင်မင်	v
+ရင်းနှီး	v
+လာ	part
+ကြ	part
+၏	sb
+။	punc
+
+
+
+
+"	punc
+တစ်	tn
+နေ့	n
+တွင်	ppm
+မင်း	pron
+ကြီး	part
+က	ppm
+"	punc
+အမောင်လုလင်	n
+၊	punc
+ဤ	adj
+အတတ်ပညာ	n
+ကို	ppm
+အဘယ်	pron
+ဆရာ	n
+ထံ	ppm
+တွင်	ppm
+လေ့လာ	v
+ဆည်းပူး	v
+ခဲ့	part
+သနည်း	ppm
+။	punc
+သင်	v
+၏	sb
+ဆရာ	n
+ကား	n
+အဘယ်	pron
+သူ	pron
+နည်း	n
+""	n
+ဟု	part
+မေး	v
+၏	sb
+။	punc
+ထိုအခါ	conj
+လုလင်	n
+သည်	ppm
+"	punc
+ငါ	pron
+၏	sb
+ဆရာ	n
+သည်	ppm
+ဗျိုင်း	n
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+ဟု	part
+လျှောက်	v
+တင်	v
+မိ	part
+ပါ	part
+က	ppm
+ငါ	pron
+သည်	ppm
+တိရစ္ဆာန်	n
+ဗျိုင်း	n
+၏	sb
+တပည့်	n
+ဖြစ်	v
+သည်	ppm
+ဟူ၍	part
+အထင်အမြင်	n
+သေး	part
+တန်	n
+ရာ	part
+၏	sb
+။	punc
+ထိုအခါ	conj
+ငါ	pron
+၏	sb
+ဂုဏ်သိက္ခာ	n
+လည်း	part
+ညှိုးနွမ်း	v
+လိမ့်	part
+မည်	ppm
+။	punc
+လာဘ်လာဘ	n
+လည်း	part
+ဆုတ်ယုတ်	v
+လိမ့်	part
+မည်	ppm
+"	punc
+ဟူ၍	part
+တွေးတော	v
+စိုးရိမ်	v
+မိ	part
+သဖြင့်	ppm
+"	punc
+
+
+
+
+"	punc
+အရှင်မင်းကြီး	n
+၊	punc
+ကျွန်တော်	pron
+မျိုး	n
+၌	sb
+ဆရာ	n
+မ	part
+ရှိ	v
+ပါ	part
+"	punc
+ဟု	part
+လျှောက်	v
+တင်	v
+မိ	part
+လေ	part
+၏	sb
+။	punc
+ထို့နောက်	conj
+တွင်	ppm
+လုလင်	n
+သည်	ppm
+ရှေး	adj
+နည်း	n
+အတူ	adv
+လှံတံ	n
+နှင့်	conj
+ကစား	v
+သောအခါ	conj
+မိ	part
+အောင်	conj
+မ	part
+ဖမ်း	v
+နိုင်	part
+တော့	part
+ဘဲ	part
+အာခေါင်	n
+ကို	ppm
+လှံတံ	n
+ဖောက်ထွင်း	v
+သွား	v
+၍	sb
+အသက်	n
+ဆုံးရှုံး	v
+ရ	part
+လေ	part
+၏	sb
+။	punc
+
+
+
+
+အလိမ္မာ	n
+ပုံပြင်	n
+များ	part
+
+
+
+
+၁	num
+။	punc
+လုလင်	n
+=	sb
+ပျိုရွယ်	n
+သော	part
+ယောက်ျား	n
+။	punc
+
+
+
+
+၂	num
+။	punc
+ကာပြန်	n
+=	sb
+ကျေးဇူးရှင်	n
+ကို	ppm
+ဖက်	part
+ပြိုင်	v
+ခု	part
+ခံ	v
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ကတွတ်ပေါက်	n
+=	sb
+ကန်သင်းရိုး	n
+ရှိ	v
+ရေ	n
+ထွက်	v
+ရန်	conj
+အပေါက်	n
+။	punc
+
+
+
+
+၄	num
+။	punc
+သန်လျက်	n
+=	sb
+တစ်	tn
+ဖက်	part
+သွား	v
+နှစ်	tn
+ဖက်	part
+သွား	v
+ရှိ	v
+သော	part
+ဓား	n
+လက်နက်	n
+တစ်	tn
+မျိုး	n
+။	punc
+
+
+
+
+၅	num
+။	punc
+ဆုလာဘ်	n
+=	sb
+ကြိုးပမ်း	v
+လုပ်ဆောင်	v
+မှု	part
+အတွက်	ppm
+ရ	part
+သော	part
+ဆု	n
+။	punc
+
+
+
+
+၆	num
+။	punc
+ဂုဏ်သိက္ခာ	n
+=	sb
+စောင့်စည်း	n
+ထိန်းသိမ်း	v
+အပ်	v
+သော	part
+ဂုဏ်	n
+။	punc
+
+
+
+
+သတ်ပုံ	n
+အမှန်	n
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+ကွက်လပ်	n
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ဗျိုင်း	n
+သည်	ppm
+ငါး	n
+ကို	ppm
+ကတွတ်ပေါက်	n
+မှ	ppm
+စောင့်	v
+၍	sb
+နှုတ်သီး	n
+ဖြင့်	ppm
+ဖမ်း	v
+ယူ	v
+ကာ	conj
+အထက်	n
+သို့	ppm
+ပစ်	part
+၏	sb
+။	punc
+
+
+
+
+၂	num
+။	punc
+လုလင်	n
+က	ppm
+ဗျိုင်း	n
+သည်	ppm
+ငါ	pron
+၏	sb
+ဆရာ	n
+ဖြစ်	v
+လျှင်	conj
+ဂုဏ်သိက္ခာ	n
+ညှိုးနွမ်း	v
+လိမ့်	part
+မည်	ppm
+ဟု	part
+တွေး	v
+မိ	part
+၏	sb
+။	punc
+
+
+
+
+၃	num
+။	punc
+ပရိသတ်	n
+တို့	part
+သည်	ppm
+လွန်	v
+စွာ	part
+နှစ်သက်	v
+ကြ	part
+၍	sb
+ဆုလာဘ်	n
+များ	part
+စွာ	part
+ပေး	part
+ကြ	part
+၏	sb
+။	punc
+
+
+
+
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+ကတွတ်ပေါက်	n
+၊	punc
+အားကျ	v
+၊	punc
+အတုယူ	v
+၊	punc
+ချီးမြှင့်	n
+၊	punc
+လေ့လာ	v
+
+
+
+
+သာဓက	n
+ကတွတ်ပေါက်	n
+။	punc
+။	punc
+ဗျိုင်း	n
+သည်	ppm
+ကတွတ်ပေါက်	n
+တစ်	tn
+ခု	part
+၌	sb
+ငါး	n
+ကို	ppm
+စောင့်	v
+၍	sb
+ဖမ်း	v
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+လုလင်	n
+မြင်	v
+ခဲ့	part
+သော	part
+ဗျိုင်း	n
+၏	sb
+ကျွမ်းကျင်	v
+မှု	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၂	num
+။	punc
+လုလင်	n
+သည်	ppm
+ဗျိုင်း	n
+ကို	ppm
+အတုယူ	v
+၍	sb
+မည်	ppm
+သို့	ppm
+လေ့ကျင့်	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+လုလင်	n
+သည်	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+ဆုလာဘ်	n
+များ	part
+စွာ	part
+ချီးမြှင့်	n
+ခံ	v
+ရ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+လုလင်	n
+သည်	ppm
+သူ	pron
+၏	sb
+ဆရာ	n
+မှာ	ppm
+ဗျိုင်း	n
+ဖြစ်	v
+ကြောင်း	part
+အဘယ်	pron
+ကြောင့်	ppm
+မ	part
+ပြော	v
+လို	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+ဆရာ	n
+ကာပြန်	n
+အာခေါင်	n
+လှံ	n
+စူး	v
+ဆို	v
+သည့်	part
+စကားပုံ	n
+ကို	ppm
+မည်	ppm
+သည့်	part
+အခြေအနေ	n
+မျိုး	n
+တွင်	ppm
+အသုံးပြု	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၆	num
+။	punc
+ဆရာ	n
+ကာပြန်	n
+အာခေါင်	n
+လှံ	n
+စူး	v
+ပုံပြင်	n
+သင်ကြား	v
+ရ	part
+ခြင်း	part
+ဖြင့်	ppm
+မည်	ppm
+သည့်	part
+သင်ခန်းစာ	n
+ကို	ppm
+ရ	part
+ရှိ	v
+သနည်း	ppm
+။	punc
+
+
+
+
+ကျောင်းပိတ်ရက်	n
+မှာ	ppm
+တို့	part
+တစ်	tn
+တွေ	part
+ခရီးထွက်	v
+စို့	ppm
+လေ	part
+။	punc
+ရေ	n
+ကြောင်း	part
+နဲ့	ppm
+လား	part
+ကုန်း	n
+ကြောင်း	part
+လား	part
+လေ	part
+ကြောင်း	part
+သွား	v
+မှာ	ppm
+လား	part
+။	punc
+လှည်းယဉ်	n
+ကလေး	n
+ဂလုန်	n
+ဂလုန်	n
+ခြူလုံး	n
+တေးသံစုံ	n
+။	punc
+မြင်းလှည်း	n
+လေး	part
+ခွပ်ခွပ်	n
+အပြေး	n
+သူ	pron
+မရပ်	n
+။	punc
+စက်ဘီး	n
+ကလေး	n
+ကလင်	n
+ကလင်	n
+လမ်းကြိုလမ်းကြား	n
+ဝင်	v
+။	punc
+မော်တော်ကား	n
+ကြီး	part
+ဝီးဝီး	n
+တူ	v
+ပျော်ပျော်	adv
+ခရီး	n
+။	punc
+သင်္ဘော	n
+ကြီး	part
+တူတူ	adj
+မီးခိုး	n
+တလူလူ	n
+။	punc
+ငှက်သမ္ဗန်	n
+ကျွိကျွိ	n
+လှိုင်း	n
+က	ppm
+တအိအိ	n
+။	punc
+လေယာဉ်ပျံ	n
+ဝီဝီ	n
+ကောင်းကင်	n
+ထဲ	ppm
+မှာ	ppm
+မြည်	v
+။	punc
+မီးရထား	n
+ကြီး	part
+ဂျုန်းဂျုန်း	n
+လိုက်	part
+ပါ	part
+ရ	part
+စေ	part
+အုံး	n
+။	punc
+တင်မိုး	n
+
+
+
+
+ပျော်စရာ	n
+ကောင်း	adj
+တဲ့	part
+ကျောင်းပိတ်ရက်	n
+မှာ	ppm
+ဘယ်	adj
+နေရာ	n
+တွေ	part
+ကို	ppm
+ဘာ	pron
+နဲ့	ppm
+ခရီးသွား	n
+ကြ	part
+မ	part
+လဲ	part
+
+
+
+
+သီတင်းကျွတ်	n
+လပြည့်	n
+နေ့	n
+၌	sb
+ရောင်စုံ	adj
+မီးပုံး	n
+များ	part
+၊	punc
+ဖယောင်းတိုင်	n
+များ	part
+၊	punc
+ဆီမီးခွက်	n
+များ	part
+ထွန်းညှိ	v
+၍	sb
+မီးထွန်းပွဲတော်	n
+ကို	ppm
+ဆင်နွှဲ	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+မြတ်စွာဘုရား	n
+သည်	ppm
+တာဝတိံသာ	n
+နတ်ပြည်	n
+ရှိ	v
+မယ်တော်မိနတ်သား	n
+အား	ppm
+မွေး	v
+ကျေးဇူး	n
+ဆပ်	v
+သည့်	part
+အနေဖြင့်	part
+တရား	n
+ဟော	v
+၏	sb
+။	punc
+
+
+
+
+တရား	n
+ဟော	v
+ပြီး	conj
+နောက်	n
+သီတင်းကျွတ်	n
+လပြည့်	n
+ည	n
+၌	sb
+တာဝတိံသာ	n
+နတ်ပြည်	n
+မှ	ppm
+လူ့	n
+ပြည်	n
+သို့	ppm
+ပြန်လည်	adv
+ဆင်းသက်တော်မူ	n
+သောအခါ	conj
+လူ	n
+၊	punc
+နတ်	n
+၊	punc
+ဗြဟ္မာ	n
+တို့	part
+က	ppm
+မီး	n
+အလင်းရောင်	n
+ဖြင့်	ppm
+ထွန်းညှိ	v
+ပူဇော်	v
+ကြ	part
+သည်	ppm
+။	punc
+ဤ	adj
+သို့	ppm
+မီး	n
+အလင်းရောင်	n
+ဖြင့်	ppm
+ပူဇော်	v
+ခဲ့	part
+ကြ	part
+သည်	ppm
+ကို	ppm
+ရည်စူး	v
+၍	sb
+မီးထွန်းပွဲတော်	n
+ကို	ppm
+ကျင်းပ	v
+ခြင်း	part
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+သီတင်းကျွတ်	n
+လ	n
+သည်	ppm
+မိုးလေကင်းလွတ်	n
+သော	part
+လ	n
+ဖြစ်	v
+၍	sb
+ရာသီဥတု	n
+သာယာ	v
+လှ	part
+ပါ	part
+သည်	ppm
+။	punc
+ကျေးလက်	n
+ရှိ	v
+ရွာသူရွာသား	n
+များ	part
+မှာ	ppm
+လည်း	part
+လယ်	n
+လုပ်ငန်း	n
+များ	part
+အားလပ်ခိုက်	n
+ဖြစ်	v
+သဖြင့်	ppm
+သီတင်းကျွတ်	n
+ပွဲတော်	n
+ကို	ppm
+ပျော်ရွှင်	v
+စွာ	part
+ပါ	part
+ဝင်	v
+ဆင်နွှဲ	v
+နိုင်	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ကျွန်တော်	pron
+တို့	part
+ကျောင်း	n
+တွင်	ppm
+သီတင်းကျွတ်	n
+ကျောင်း	n
+မ	part
+ပိတ်	v
+ခင်	conj
+တစ်	tn
+ရက်	n
+က	ppm
+ဆရာ	n
+ကန်တော့	v
+ပွဲ	n
+ကျင်းပ	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ကျောင်းအုပ်ဆရာကြီး	n
+အမှူးပြု	n
+သည့်	part
+ဆရာ	n
+၊	punc
+ဆရာမ	n
+များ	part
+ကို	ppm
+ကျောင်းသား	n
+ကျောင်း	n
+သူ	pron
+အားလုံး	adj
+က	ppm
+ရိုသေ	v
+လေးစား	v
+စွာ	part
+ကန်တော့	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ကန်တော့	v
+နေ	part
+စဉ်	conj
+ပင်	part
+ဆရာ	n
+များ	part
+၏	sb
+ဂုဏ်	n
+ကျေးဇူး	n
+ကို	ppm
+ပိုမို	adj
+သဘောပေါက်	v
+လေးစား	v
+မိ	part
+လာ	part
+ပါ	part
+သည်	ppm
+။	punc
+ကျောင်းအုပ်ဆရာကြီး	n
+က	ppm
+ဆုံး	part
+မ	part
+စကား	n
+ပြော	v
+၍	sb
+တပည့်	n
+များ	part
+ကို	ppm
+ကျန်းမာ	v
+ကြ	part
+ပါ	part
+စေ	part
+၊	punc
+အောင်မြင်	v
+ကြ	part
+ပါ	part
+စေ	part
+ဟု	part
+ဆု	n
+ပေး	part
+လိုက်	part
+သောအခါ	conj
+ကျွန်တော်	pron
+တို့	part
+သည်	ppm
+ပေး	part
+သည့်	part
+ဆု	n
+နှင့်	conj
+ပြည့်	v
+ပါ	part
+စေ	part
+ဟု	part
+ဝမ်းသာ	v
+စွာ	part
+ပြန်လည်	adv
+ဆုတောင်း	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+သီတင်းကျွတ်	n
+လပြည့်	n
+နေ့	n
+နံနက်	n
+၌	sb
+လူကြီးမိဘ	n
+များ	part
+သည်	ppm
+သီလ	n
+ယူ	v
+ရန်	conj
+ဘုန်းတော်ကြီးကျောင်း	n
+သို့	ppm
+သွား	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ဆရာတော်	n
+ဘုရား	n
+က	ppm
+သီလ	n
+ပေး	part
+၍	sb
+တရားဓမ္မ	n
+များ	part
+ဟောကြား	v
+ဆုံးမ	v
+တော်	part
+မူ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ညချမ်း	n
+တွင်	ppm
+ကျွန်တော်	pron
+တို့	part
+သည်	ppm
+ဘိုးဘွား	n
+များ	part
+နှင့်	conj
+လူကြီးမိဘ	n
+များ	part
+အား	ppm
+လှည့်လည်	v
+ကန်တော့	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ဘိုးဘွား	n
+များ	part
+က	ppm
+ရေ	n
+လို	v
+အေး	part
+ကြ	part
+ပါ	part
+စေ	part
+၊	punc
+ပန်း	n
+လို	v
+မွှေး	v
+ကြ	part
+ပါ	part
+စေ	part
+၊	punc
+လို	v
+ရာ	part
+ဆန္ဒ	n
+တစ်	tn
+လုံး	part
+တစ်	tn
+ဝ	v
+ပြည့်စုံ	v
+ကြ	part
+ပါ	part
+စေ	part
+ဟု	part
+ဝမ်းမြောက်	v
+ကြည်နူး	v
+စွာ	part
+ဆု	n
+ပေး	part
+ပါ	part
+သည်	ppm
+။	punc
+လူကြီးမိဘ	n
+များ	part
+အား	ppm
+ရိုသေ	v
+လေးစား	v
+ခြင်း	part
+သည်	ppm
+မြန်မာ့	n
+ယဉ်ကျေး	adj
+မှု	part
+ပင်	part
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+ဟူ၍	part
+လည်း	part
+ဆုံး	part
+မ	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်တော်	pron
+တို့	part
+အား	ppm
+မုန့်ပဲသရေစာ	n
+များ	part
+ကို	ppm
+လည်း	part
+ကျွေး	v
+လိုက်	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ရပ်ကွက်	n
+ထဲ	ppm
+တွင်	ppm
+ကုသိုလ်ရှင်	n
+၊	punc
+စေတနာရှင်	n
+များ	part
+က	ppm
+လည်း	part
+မုန့်ဖက်ထုပ်	n
+နှင့်	conj
+မုန့်ဆီကြော်	n
+များ	part
+ဝေငှ	v
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်တော်	pron
+တို့	part
+သည်	ppm
+မုန့်	n
+စား	v
+ပြီး	conj
+လျှင်	conj
+အေး	part
+စေတီ	n
+အနီး	n
+၌	sb
+ပြသ	v
+သော	part
+ဂီတ	n
+စင်	n
+တင်	v
+ပွဲ	n
+သို့	ppm
+ဝင်ရောက်	v
+ကြည့်ရှု	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+မြန်မာ့	n
+ရိုးရာ	n
+ပွဲတော်	n
+များ	part
+တွင်	ppm
+ပါ	part
+ဝင်	v
+ဆင်နွှဲ	v
+ရ	part
+သည်	ppm
+မှာ	ppm
+အလွန်	adv
+ပျော်	v
+စရာ	part
+ကောင်း	adj
+လှ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+ရော	part
+သီတင်းကျွတ်	n
+ပွဲတော်	n
+မှာ	ppm
+ဘယ်လို	adv
+ပါ	part
+ဝင်	v
+ဆင်နွှဲ	v
+ကြ	part
+သလဲ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+တာဝတိံသာ	n
+=	sb
+နတ်ပြည်	n
+ခြောက်	tn
+ထပ်	adv
+တွင်	ppm
+ဒုတိယ	adj
+နတ်ပြည်	n
+။	punc
+
+
+
+
+၂	num
+။	punc
+ပူဇော်	v
+=	sb
+ရိုသေ	v
+မြတ်နိုး	v
+စွာ	part
+ဆက်ကပ်	v
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ရည်စူး	v
+=	sb
+စူးစိုက်	v
+မှန်း	part
+ရွယ်	part
+သည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+ကန်တော့	v
+=	sb
+လက်အုပ်ချီ	n
+၍	sb
+အရိုအသေပြု	v
+သည်	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+ကျေးဇူး	n
+=	sb
+တစ်	tn
+ဦး	part
+က	ppm
+အခြား	adj
+တစ်	tn
+ဦး	part
+အပေါ်	n
+တွင်	ppm
+ပြု	v
+သော	part
+အကျိုးဆောင်	n
+မှု	part
+။	punc
+
+
+
+
+သတ်ပုံ	n
+အမှန်	n
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+ကွက်လပ်	n
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ကျွန်တော်	pron
+တို့	part
+သည်	ppm
+ညချမ်း	n
+အခါ	n
+တွင်	ppm
+စာဖတ်	v
+ပြီး	conj
+မှ	ppm
+အိပ်	v
+လေ့	part
+ရှိ	v
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+သီတင်းကျွတ်	n
+လပြည့်	n
+နေ့	n
+တွင်	ppm
+ဘိုးဘွား	n
+များ	part
+နှင့်	conj
+လူ	n
+ကြီး	part
+မိဘ	n
+များ	part
+ကို	ppm
+လှည့်လည်	v
+ကန်တော့	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဒေါ်ဒေါ်	n
+တို့	part
+သည်	ppm
+စတုဒိသာ	n
+ကျွေး	v
+ရန်	conj
+အတွက်	ppm
+မုန့်ဖက်ထုပ်	n
+များ	part
+လုပ်	v
+နေ	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+ကြည့်ရှု	v
+၊	punc
+ပူဇော်	v
+၊	punc
+ဆင်နွှဲ	v
+၊	punc
+ကျေးဇူး	n
+၊	punc
+ဝေငှ	v
+
+
+
+
+သာဓက	n
+ကြည့်ရှု	v
+။	punc
+။	punc
+ကျွန်မ	pron
+တို့	part
+သည်	ppm
+သတင်းကျွတ်	n
+လပြည့်	n
+နေ့	n
+ည	n
+၌	sb
+ရုပ်	n
+သေး	part
+ပွဲ	n
+ကို	ppm
+သွား	v
+ရောက်	v
+ကြည့်ရှု	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+သီတင်းကျွတ်	n
+လပြည့်	n
+နေ့	n
+၌	sb
+မီးထွန်းပွဲတော်	n
+ကို	ppm
+မည်	ppm
+သို့	ppm
+ဆင်နွှဲ	v
+ကြ	part
+ပါ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+သီတင်းကျွတ်	n
+လပြည့်	n
+နေ့	n
+ည	n
+၌	sb
+မီးထွန်းပွဲတော်	n
+ကို	ppm
+အဘယ်	pron
+ကြောင့်	ppm
+ကျင်းပ	v
+ကြ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+သီတင်းကျွတ်	n
+မီးထွန်းပွဲတော်	n
+တွင်	ppm
+ကျောင်းသား	n
+လူငယ်	n
+များ	part
+သည်	ppm
+မည်	ppm
+သူ	pron
+တို့	part
+ကို	ppm
+ကန်တော့	v
+ကြ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+ကန်တော့	v
+ကြ	part
+သော	part
+လူငယ်	n
+များ	part
+အား	ppm
+ဘိုးဘွား	n
+များ	part
+က	ppm
+မည်	ppm
+သို့	ppm
+ဆု	n
+ပေး	part
+ကြ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+သင်	v
+တွေ့	v
+ခဲ့	part
+ဖူး	part
+သည့်	part
+သီတင်းကျွတ်	n
+မီးထွန်းပွဲတော်	n
+တစ်	tn
+ခု	part
+အကြောင်း	n
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+အကြံဉာဏ်	n
+တွေ	part
+ပြော	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+အပြင်	n
+မှာ	ppm
+ကစား	v
+မယ်	ppm
+ဆို	v
+ရင်	conj
+မိုးရွာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+နေသာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+
+
+
+
+တို့	part
+က	ppm
+မိုးရွာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ပို	adj
+ကြိုက်	v
+တယ်	ppm
+။	punc
+မိုး	n
+ရေ	n
+လဲ	part
+ချိုး	v
+ရ	part
+တော့	part
+ပိုပြီး	n
+ပျော်	v
+စရာ	part
+ကောင်း	adj
+လို့	part
+ပဲ့	n
+ပေါ့	part
+။	punc
+
+
+
+
+တို့	part
+က	ppm
+နေသာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ပို	adj
+ကြိုက်	v
+တယ်	ppm
+။	punc
+အပြင်	n
+မှာ	ppm
+ခြောက်ခြောက်သွေ့သွေ့	n
+နဲ့	ppm
+ကစား	v
+နိုင်	part
+လို့	part
+ပဲ	part
+ပေါ့	part
+
+
+
+
+တို့	part
+က	ppm
+တော့	part
+မိုးရွာ	v
+တဲ့	part
+နေ့	n
+က	ppm
+ကစား	v
+လို့	part
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ထင်	v
+တယ်	ppm
+။	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+...	sb
+
+
+
+
+တို့	part
+က	ppm
+တော့	part
+နေသာ	v
+တဲ့	part
+နေ့	n
+က	ppm
+ကစား	v
+လို့	part
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ထင်	v
+တယ်	ppm
+။	punc
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+...	sb
+
+
+
+
+ကလေး	n
+တို့	part
+ပြော	v
+တဲ့	part
+အခါ	n
+ဘယ်	adj
+ဟာ	ppm
+က	ppm
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ထင်	v
+သလဲ	part
+ဆို	v
+တဲ့	part
+အကြောင်းရင်း	n
+ကို	ppm
+စဉ်းစား	v
+ပြီး	conj
+ပြော	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+အကြောင်းရင်း	n
+ကို	ppm
+ပြော	v
+တဲ့	part
+အခါ	n
+ဘာ	pron
+ဖြစ်	v
+လို့	part
+လဲ	part
+ဆို	v
+တော့	part
+လို့	part
+ဆို	v
+တဲ့	part
+စကားလုံး	n
+တွေ	part
+ကို	ppm
+သုံး	v
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+ခေါင်းစဉ်	n
+ကို	ppm
+အုပ်စု	n
+က	ppm
+ရွေးချယ်	v
+သတ်မှတ်	v
+ပေး	part
+ရ	part
+မယ်	ppm
+။	punc
+၂	num
+။	punc
+ဘယ်	adj
+ဟာ	ppm
+က	ppm
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်းရင်း	n
+ကို	ppm
+တစ်	tn
+ဦး	part
+ချင်း	part
+စီ	part
+စဉ်းစား	v
+ပြီး	conj
+မှတ်စု	n
+မှာ	ppm
+ရေး	part
+မှတ်	v
+ရ	part
+မယ်	ppm
+။	punc
+၃	num
+။	punc
+အဖွဲ့	n
+ထဲ	ppm
+က	ppm
+တစ်	tn
+ယောက်	part
+ချင်း	part
+စီ	part
+ပြော	v
+ရ	part
+မယ်	ppm
+။	punc
+ပြော	v
+တဲ့	part
+အခါ	n
+ကိုယ်	pron
+စဉ်းစား	v
+ထား	part
+တဲ့	part
+အကြောင်	n
+ရင်း	conj
+၂	num
+ခု	part
+၊	punc
+၃	num
+ခု	part
+ခန့်	part
+ကို	ppm
+ထည့်	v
+ပြီး	conj
+ရှင်းပြ	v
+ရ	part
+မယ်	ppm
+။	punc
+၄	num
+။	punc
+အကြောင်းရင်း	n
+တစ်	tn
+ခု	part
+ထက်	conj
+ပို	adj
+သွား	v
+ရင်	conj
+အမှတ်စဉ်	n
+တပ်	n
+ပြီး	conj
+ပြော	v
+ရ	part
+မယ်	ppm
+။	punc
+သာဓက	n
+။	punc
+။	punc
+ပထမ	adj
+တစ်	tn
+ခု	part
+က	ppm
+...	sb
+ဒုတိယ	adj
+တစ်	tn
+ခု	part
+မှာ	ppm
+...	sb
+၅	num
+။	punc
+အားလုံး	adj
+ပြော	v
+ပြီး	conj
+ရင်	conj
+ဘယ်	adj
+အကြောင်းအရာ	n
+က	ppm
+စိတ်ဝင်စား	v
+ဖို့	part
+ကောင်း	adj
+တယ်	ppm
+။	punc
+လက်ခံ	v
+နိုင်	part
+တယ်	ppm
+ဆို	v
+တာ	part
+ကို	ppm
+ဝိုင်း	part
+ပြီး	conj
+ဆွေးနွေး	v
+ကြ	part
+ရ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+အနှစ်သက်ဆုံး	adj
+တစ်	tn
+ခု	part
+ကို	ppm
+ရွေး	v
+ကြ	part
+မယ်	ppm
+။	punc
+၁	num
+။	punc
+ကျောင်း	n
+ကို	ppm
+သူငယ်ချင်း	n
+နဲ့	ppm
+သွား	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+ကျောင်း	n
+ကို	ppm
+တစ်	tn
+ယောက်	part
+တည်း	part
+သွား	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+၂	num
+။	punc
+မိုးရွာ	v
+တဲ့	part
+အခါ	n
+မိုးကာအင်္ကျီ	n
+ဝတ်	v
+ပြီး	conj
+ကျောင်း	n
+သွား	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+ထီးဆောင်း	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+၃	num
+။	punc
+ကျောင်းပိတ်ရက်	n
+မှာ	ppm
+အိမ်	n
+မှာ	ppm
+နေ	part
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+ခရီးသွား	n
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+
+
+
+
+၄	num
+။	punc
+ကဗျာ	n
+ဆို	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+ပုံပြင်	n
+ပြော	v
+ရ	part
+တာ	part
+ကြိုက်	v
+သလား	part
+။	punc
+
+
+
+
+ဘာ	pron
+ကြောင့်	ppm
+ကြိုက်	v
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်းရင်း	n
+ကို	ppm
+ပြော	v
+နိုင်	part
+ကြ	part
+ရဲ့	ppm
+လား	part
+။	punc
+သူငယ်ချင်း	n
+ပြော	v
+တဲ့	part
+အကြောင်း	n
+ကို	ppm
+သေသေချာချာ	adv
+နားထောင်	v
+ရဲ့	ppm
+လား	part
+။	punc
+
+
+
+
+ကျွန်တော်	pron
+/	sb
+ကျွန်မ	pron
+တို့	part
+အုပ်စု	n
+က	ppm
+၄	num
+ယောက်	part
+ရှိ	v
+ပါ	part
+တယ်	ppm
+။	punc
+ဒီ	adj
+အထဲ	n
+က	ppm
+၂	num
+ယောက်	part
+က	ppm
+မိုးရွာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+လို့	part
+ပြော	v
+ပါ	part
+တယ်	ppm
+။	punc
+၂	num
+ယောက်	part
+က	ppm
+နေသာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+လို့	part
+ပြော	v
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+မိုးရွာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်း	n
+ပြ	v
+ချက်	part
+၃	num
+ရှိ	v
+ပါ	part
+တယ်	ppm
+။	punc
+ပထမ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+မိုးရွာ	v
+ထဲ	ppm
+မှာ	ppm
+ပြေးလွှား	v
+ဆော့	v
+ရ	part
+လို့	part
+၊	punc
+ဒုတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+စိတ်	n
+ကို	ppm
+လန်းဆန်း	v
+စေ	part
+လို့	part
+၊	punc
+တတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+သူငယ်ချင်း	n
+တွေ	part
+နဲ့	ppm
+ဘောလုံး	n
+ကန်	n
+ရ	part
+လို့	part
+ဖြစ်	v
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+နေသာ	v
+တဲ့	part
+နေ့	n
+မှာ	ppm
+ကစား	v
+ရ	part
+တာ	part
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်း	n
+ပြ	v
+ချက်	part
+၃	num
+ချက်	part
+ရှိ	v
+ပါ	part
+တယ်	ppm
+။	punc
+ပထမ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+ရာသီဥတု	n
+သာယာ	v
+လို့	part
+၊	punc
+ဒုတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+စက်ဘီး	n
+စီး	v
+ရ	part
+လို့	part
+၊	punc
+တတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+စွန်လွှတ်	n
+တမ်း	n
+ကစား	v
+ရ	part
+လို့	part
+ဖြစ်	v
+ပါ	part
+တယ်	ppm
+။	punc
+အားလုံး	adj
+ကို	ppm
+ကျေးဇူးတင်	v
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+ကျွန်တော်	pron
+/	sb
+ကျွန်မ	pron
+တို့	part
+အုပ်စု	n
+က	ppm
+____	punc
+ယောက်	part
+ရှိ	v
+ပါ	part
+တယ်	ppm
+။	punc
+အဲဒီ	pron
+အထဲ	n
+က	ppm
+____	punc
+ယောက်	part
+က	ppm
+____	punc
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+လို့	part
+ပြော	v
+ပါ	part
+တယ်	ppm
+။	punc
+____	punc
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်း	n
+ပြ	v
+ချက်	part
+____	punc
+ချက်	part
+ရှိ	v
+ပါ	part
+တယ်	ppm
+။	punc
+ပထမ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+____	punc
+၊	punc
+ဒုတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+____	punc
+၊	punc
+တတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+____	npunc
+ဖြစ်	v
+ပါ	part
+တယ်	ppm
+။	punc
+____	punc
+ပို	adj
+ကောင်း	adj
+တယ်	ppm
+ဆို	v
+တဲ့	part
+အကြောင်း	n
+ပြ	v
+ချက်	part
+____	n
+ချက်	part
+ရှိ	v
+ပါ	part
+တယ်	ppm
+။	punc
+ပထမ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+____	punc
+၊	punc
+ဒုတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+____	punc
+၊	punc
+တတိယ	adj
+တစ်	tn
+ချက်	part
+က	ppm
+____	punc
+ဖြစ်	v
+ပါ	part
+တယ်	ppm
+။	punc
+အားလုံး	adj
+ကို	ppm
+ကျေးဇူးတင်	v
+ပါ	part
+တယ်	ppm
+။	punc
+
+
+
+
+မြန်မာစာ	n
+ရေးသား	v
+ရာ	part
+တွင်	ppm
+အဖြတ်အရပ်	n
+မှန်မှန်	adv
+ရေးသား	v
+ရွတ်ဖတ်	n
+နိုင်	part
+စေ	part
+ရန်	conj
+ပုဒ်ကလေး	n
+၊	punc
+ပုဒ်မ	n
+စ	v
+သော	part
+သင်္ကေတ	n
+များ	part
+ကို	ppm
+အသုံးပြု	v
+၍	sb
+ရေး	part
+ရ	part
+သည်	ppm
+။	punc
+ထို	adj
+သင်္ကေတ	n
+များ	part
+ကို	ppm
+ပုဒ်	part
+ဖြတ်	v
+ပုဒ်	part
+ရပ်	v
+သင်္ကေတ	n
+များ	part
+ဟု	part
+ခေါ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ဝါကျ	n
+ဆုံး	part
+ရင်	conj
+ပုဒ်မ	n
+ထည့်	v
+ရ	part
+တာ	part
+သိ	v
+ပြီး	conj
+ဖြစ်	v
+လို့	part
+ပုဒ်ကလေး	n
+ကို	ppm
+ဘယ်	adj
+နေရာ	n
+မှာ	ppm
+သုံး	v
+ရ	part
+တယ်	ppm
+ဆို	v
+တာ	part
+ရေး	part
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+အေးအေးခိုင်	n
+သည်	ppm
+ခရီးသွား	n
+လျှင်	conj
+အသုံးပြု	v
+ရန်	conj
+သွားတိုက်ဆေး	n
+သွားတိုက်တံ	n
+ရှူဆေး	n
+ချိုချဉ်	n
+နှင့်	conj
+မုန့်	n
+များ	part
+ကို	ppm
+ဝယ်	v
+လာ	part
+ပါ	part
+သည်	ppm
+
+
+
+
+အေးအေးခိုင်	n
+သည်	ppm
+ခရီးသွား	n
+လျှင်	conj
+အသုံးပြု	v
+ရန်	conj
+သွားတိုက်ဆေး	n
+၊	punc
+သွားတိုက်တံ	n
+၊	punc
+ရှူဆေး	n
+၊	punc
+ချိုချဉ်	n
+နှင့်	conj
+မုန့်	n
+များ	part
+ကို	ppm
+ဝယ်	v
+လာ	part
+ပါ	part
+သည်	ppm
+
+
+
+
+ပုဒ်ကလေး	n
+ထည့်	v
+ထား	part
+တဲ့	part
+ဝါကျ	n
+တွေ	part
+ဖတ်	v
+ရ	part
+တာ	part
+ပို	adj
+ပြီး	conj
+လွယ်ကူ	v
+ရှင်းလင်း	v
+လာ	part
+တယ်	ppm
+နော်	part
+
+
+
+
+သာဓက	n
+(	punc
+၁	num
+)	punc
+
+
+
+
+၁	num
+။	punc
+ဒေါ်ခင်မာလာ	n
+သည်	ppm
+ဈေး	n
+သို့	ppm
+သွား	v
+၍	sb
+ကြက်သား	n
+၊	punc
+ငါး	n
+၊	punc
+ကန်စွန်းရွက်	n
+၊	punc
+ချဉ်ပေါင်ရွက်	n
+၊	punc
+သခွားသီး	n
+နှင့်	conj
+လိမ္မော်သီး	n
+များ	part
+ဝယ်	v
+လာ	part
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+မြန်မာ	n
+နိုင်ငံ	n
+တွင်	ppm
+နွေဥတု	n
+၊	punc
+မိုးဥတု	n
+၊	punc
+ဆောင်းဥတု	n
+ဟူ၍	part
+ဥတု	n
+သုံး	v
+ပါး	part
+ရှိ	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+လေ့ကျင့်	v
+ကြ	part
+မယ်	ppm
+(	punc
+၁	num
+)	punc
+
+
+
+
+၁	num
+။	punc
+ဦးဦး	n
+သည်	ppm
+ဈေး	n
+ထဲ	ppm
+မှ	ppm
+သကြား	n
+နို့မှုန့်	n
+ဘဲဥ	n
+ဓာတ်ခဲ	n
+နှင့်	conj
+ဆပ်ပြာခဲ	n
+ဝယ်	v
+လာ	part
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+မေမေ	n
+သည်	ppm
+စာအုပ်	n
+ဆိုင်	n
+သို့	ppm
+သွား	v
+၍	sb
+ပုံပြင်	n
+စာအုပ်	n
+ကာတွန်း	n
+စာအုပ်	n
+ပုံ	n
+ဆွဲ	v
+စာအုပ်	n
+နှင့်	conj
+ဉာဏ်စမ်း	n
+စာအုပ်	n
+များ	part
+ကို	ppm
+ဝယ်	v
+လာ	part
+ပါ	part
+သည်	ppm
+
+
+
+
+၃	num
+။	punc
+မော်မော်	n
+တို့	part
+ခြံ	n
+ထဲ	ppm
+တွင်	ppm
+စံပယ်ပင်	n
+နှင်းဆီပင်	n
+သနပ်ခါးပင်	n
+ယုဇနပင်	n
+ဇီဇဝါပင်	n
+နှင့်	conj
+သစ်ခွပင်	n
+များ	part
+ရှိ	v
+ပါ	part
+သည်	ppm
+
+
+
+
+သာဓက	n
+(	punc
+၂	num
+)	punc
+
+
+
+
+၁	num
+။	punc
+စာဖတ်	v
+ခြင်း	part
+သည်	ppm
+လူငယ်	n
+တို့	part
+အတွက်	ppm
+ဗဟုသုတ	n
+ရ	part
+ရန်	conj
+၊	punc
+စာဖတ်	v
+မြန်	adj
+ရန်	conj
+၊	punc
+စာပေ	n
+အရသာ	n
+ခံစား	v
+တတ်	part
+ရန်	conj
+၊	punc
+အတုယူ	v
+စရာ	part
+များ	part
+နှင့်	conj
+ရှောင်ကြဉ်	v
+စရာ	part
+များ	part
+ကို	ppm
+သိ	v
+ရှိ	v
+ထား	part
+ရန်	conj
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ကျွန်တော်	pron
+တို့	part
+ကျောင်း	n
+တွင်	ppm
+ဘောလုံး	n
+ကစား	v
+ခြင်း	part
+၊	punc
+ဘော်လီဘော	n
+ကစား	v
+ခြင်း	part
+၊	punc
+ကြက်တောင်ရိုက်	v
+ခြင်း	part
+၊	punc
+ထုပ်ဆီးတိုး	n
+ခြင်း	part
+နှင့်	conj
+ခြင်း	part
+လုံး	part
+ခတ်	v
+ခြင်း	part
+စ	v
+သည့်	part
+ကစား	v
+နည်း	n
+များ	part
+ကစား	v
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+လေ့ကျင့်	v
+ကြ	part
+မယ်	ppm
+(	punc
+၂	num
+)	punc
+
+
+
+
+၁	num
+။	punc
+ပုံပြင်	n
+ဖတ်	v
+ရန်	conj
+ကဗျာ	n
+ဖတ်	v
+ရန်	conj
+ဝတ္တု	n
+ဖတ်	v
+ရန်	conj
+ဂျာနယ်	n
+ဖတ်	v
+ရန်	conj
+နှင့်	conj
+သတင်း	n
+စာဖတ်	v
+ရန်	conj
+စာကြည့်တိုက်	n
+ထဲ	ppm
+တွင်	ppm
+စာအုပ်	n
+အမျိုးအစား	n
+စုံစုံလင်လင်	n
+ရှိ	v
+ပါ	part
+သည်	ppm
+
+
+
+
+၂	num
+။	punc
+မမ	n
+သည်	ppm
+စာဖတ်	v
+ခြင်း	part
+သီချင်း	n
+ဆို	v
+ခြင်း	part
+ရေကူး	v
+ခြင်း	part
+နှင့်	conj
+ဘော်လီဘော	n
+ကစား	v
+ခြင်း	part
+တို့	part
+ကို	ppm
+ဝါသနာ	n
+ပါ	part
+သည်	ppm
+
+
+
+
+၁	num
+။	punc
+နှစ်သက်	v
+သော	part
+အစားအစာ	n
+၅	num
+မျိုး	n
+ကို	ppm
+ပုဒ်ကလေး	n
+သုံး	v
+၍	sb
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+၂	num
+။	punc
+ဝါသနာ	n
+ပါ	part
+သော	part
+ကစားနည်း	n
+၅	num
+မျိုး	n
+ကို	ppm
+ပုဒ်ကလေး	n
+သုံး	v
+၍	sb
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+သင်	v
+၏	sb
+သူငယ်ချင်း	n
+၅	num
+ဦး	part
+အမည်	n
+ကို	ppm
+ပုဒ်ကလေး	n
+သုံး	v
+၍	sb
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+၄	num
+။	punc
+ကျောင်း	n
+စာသင်ခန်း	n
+တွင်	ppm
+ရှိ	v
+သော	part
+ပစ္စည်း	n
+၅	num
+မျိုး	n
+ကို	ppm
+ပုဒ်ကလေး	n
+သုံး	v
+၍	sb
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+ကလေး	n
+တို့	part
+ရဲ့	ppm
+မြန်မာစာ	n
+မှတ်စု	n
+စာအုပ်	n
+ထဲ	ppm
+က	ppm
+ရေး	part
+မှတ်	v
+ထား	part
+တာ	part
+တွေ	part
+ကို	ppm
+ပြန်	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+အရင်	adv
+မှတ်စု	n
+တွေ	part
+မှာ	ppm
+ပုဒ်ကလေး	n
+ပုဒ်မ	n
+ကျန်	v
+ခဲ့	part
+တာ	part
+တွေ	part
+ရှိ	v
+နိုင်	part
+တယ်	ppm
+နော်	part
+
+
+
+
+ကျန်	v
+ခဲ့	part
+တာ	part
+တွေ	part
+ရှိ	v
+ရင်	conj
+ပြန်	v
+ထည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+စာပိုဒ်	n
+တွေ	part
+ကို	ppm
+သေချာ	adv
+ပြန်	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+
+
+
+
+ရေကန်	n
+။	punc
+ကို	ppm
+ရွှေ	n
+ကြက်	n
+။	punc
+ဖားကလေး	n
+မျက်ပြူး	n
+။	punc
+မနက်ခင်း	n
+တစ်	tn
+ခု	part
+မှာ	ppm
+ကို	ppm
+ရွှေ	n
+ကြက်	n
+နဲ့	ppm
+ဖားကလေး	n
+မျက်ပြူး	n
+ရေကန်	n
+ဘေး	n
+မှာ	ppm
+တွေ့	v
+ခဲ့	part
+ကြ	part
+တယ်	ppm
+...	sb
+။	punc
+
+
+
+
+သူ	pron
+တို့	part
+တွေ	part
+ဘာ	pron
+ဆက်	v
+ဖြစ်	v
+ကြ	part
+မယ်	ppm
+ထင်	v
+သလဲ	part
+။	punc
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+သူ	pron
+တို့	part
+နှစ်	tn
+ကောင်	part
+တွေ့	v
+တဲ့	part
+အခါ	n
+မှာ	ppm
+ဘာ	pron
+တွေ	part
+ပြော	v
+မ	part
+လဲ	part
+ဆို	v
+တော့	part
+...	sb
+။	punc
+အင်း	part
+...	sb
+ဘယ်လို	adv
+စဉ်းစား	v
+ရင်	conj
+ကောင်း	adj
+မ	part
+လဲ	part
+...	sb
+။	punc
+
+
+
+
+ပုံပြင်	n
+ကို	ppm
+စဉ်းစား	v
+ရာ	part
+မှာ	ppm
+ဇယား	n
+ပေါ်	n
+အခြေခံ	n
+ပြီး	conj
+စဉ်းစား	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+မိမိ	pron
+စဉ်းစား	v
+ထား	part
+သော	part
+ပုံပြင်	n
+။	punc
+အချိန်	n
+။	punc
+မနက်ခင်း	n
+။	punc
+မနက်ခင်း	n
+။	punc
+နေရာ	n
+။	punc
+ရေကန်	n
+ဘေး	n
+။	punc
+ဇာတ်ဆောင်	n
+။	punc
+ဖားကလေး	n
+မျက်ပြူး	n
+၊	punc
+ကို	ppm
+ရွှေ	n
+ကြက်	n
+။	punc
+အဖြစ်အပျက်	n
+။	punc
+အဆုံးသတ်	v
+။	punc
+ပုံပြင်	n
+တစ်	tn
+ပုဒ်	part
+ကို	ppm
+ဖန်တီး	v
+ရေး	part
+နိုင်	part
+ခဲ့	part
+ကြ	part
+ရဲ့	ppm
+လား	part
+။	punc
+
+
+
+
+ပုံပြင်	n
+တစ်	tn
+ပုဒ်	part
+ဖန်တီး	v
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+ပုံပြင်လေး	n
+ကို	ppm
+သူငယ်ချင်း	n
+နဲ့	ppm
+အတူတူ	adv
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ငါ	pron
+ရေး	part
+ထား	part
+တဲ့	part
+ပုံပြင်	n
+က	ppm
+တော့	part
+...	sb
+။	punc
+
+
+
+
+ရေး	part
+ထား	part
+တဲ့	part
+ပုံပြင်	n
+က	ppm
+စိတ်ဝင်စား	v
+ဖို့	part
+ကောင်း	adj
+လိုက်	part
+တာ	part
+။	punc
+ငါ့	pron
+ပုံပြင်	n
+က	ppm
+တော့	part
+...	sb
+။	punc
+
+
+
+
+အချင်းချင်း	adv
+ပြော	v
+ပြီး	conj
+အဖြေ	n
+ရှာ	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+၁	num
+။	punc
+နွား	n
+ကို	ppm
+ရိုက်	v
+သော်	conj
+ငြား	part
+သစ်သား	n
+က	ppm
+အသံ	n
+ထွက်	v
+။	punc
+
+
+
+
+၂	num
+။	punc
+လိုဏ်ဂူ	n
+ထဲ	ppm
+မှာ	ppm
+စပါး	n
+ပြာ	n
+။	punc
+
+
+
+
+၃	num
+။	punc
+မည်းတူ	n
+နှစ်	tn
+ဖွဲ့	v
+ည	n
+အခါ	n
+အတူ	adv
+ဖက်	part
+နေ့	n
+ဘက်	n
+မှာ	ppm
+တိုက်ခိုက်	v
+။	punc
+
+
+
+
+၄	num
+။	punc
+တုတ်ချောင်း	n
+လှလှ	adj
+မ	part
+ကောက်	v
+ရ	part
+။	punc
+
+
+
+
+၅	num
+။	punc
+အသား	n
+ကို	ppm
+စား	v
+လို	v
+အသီး	n
+ကို	ppm
+ရှိခိုး	v
+။	punc
+
+
+
+
+၆	num
+။	punc
+အမြီး	n
+ဝါဝါ	n
+လှသန္တာ	n
+အလှ	n
+မျိုးစုံ	adj
+ခေါင်းမြီးခြုံ	n
+နာရီ	n
+သိတတ်	v
+ယောက်ျား	n
+မြတ်	adj
+။	punc
+
+
+
+
+၇	num
+။	punc
+ပလိုင်း	n
+လွယ်	v
+လျက်	conj
+သစ်ပင်	n
+ပေါ်	n
+တက်	v
+။	punc
+
+
+
+
+၈	num
+။	punc
+အခွံ	n
+မှာ	ppm
+ငွေ	n
+ရောင်	n
+အနှစ်	n
+မှာ	ppm
+ရွှေရောင်	n
+။	punc
+
+
+
+
+ဘာ	pron
+ကြောင့်	ppm
+ဒီ	adj
+အဖြေ	n
+ရ	part
+တာ	part
+လဲ	part
+ဖြေ	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+မြန်မာ	n
+စကား	n
+တွင်	ppm
+"	punc
+ရာသီ	n
+မ	part
+သိ	v
+ပန်း	n
+နှင့်	conj
+ညှိ	v
+"	punc
+ဟူသော	part
+ဆိုရိုးစကား	n
+ရှိ	v
+သည်	ppm
+။	punc
+အခါ	n
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+တို့	part
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+မည်	ppm
+သည့်	part
+လ	n
+၊	punc
+မည်	ppm
+သည့်	part
+ရာသီ	n
+ရောက်	v
+ပြီ	ppm
+ကို	ppm
+ခန့်မှန်း	v
+တွက်ဆ	v
+နိုင်	part
+ပြီ	ppm
+ဟု	part
+ဆို	v
+လို	v
+ခြင်း	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+များ	part
+သည်	ppm
+မည်	ppm
+သို့	ppm
+ကွဲပြားခြားနား	n
+ကြ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+မြန်မာ	n
+နှစ်ဦး	n
+တန်ခူး	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+ဖြစ်	v
+သော	part
+ကံ့ကော်ပန်း	n
+တို့	part
+သည်	ppm
+အဖြူရောင်	n
+ပွင့်ချပ်	n
+လေး	part
+ခု	part
+တို့	part
+အလယ်	n
+၌	sb
+ရွှေဝါရောင်	n
+ဝတ်ဆံ	n
+တို့	part
+ဖြင့်	ppm
+လှပ	adj
+စွာ	part
+ပွင့်လန်း	n
+လာ	part
+ကြ	part
+သည်	ppm
+။	punc
+ကံ့ကော်ပန်း	n
+နှင့်	conj
+အတူ	adv
+နှစ်	tn
+သစ်	adj
+ကို	ppm
+ကြိုဆို	v
+သော	part
+အား	ppm
+ဖြင့်	ppm
+ပိတောက်ပန်း	n
+ဝါဝါ	n
+တို့	part
+က	ppm
+လည်း	part
+ဝေဝေဆာဆာ	adv
+ဖြင့်	ppm
+ဖူး	part
+ပွင့်	v
+လာ	part
+ကြ	part
+ပေ	part
+သည်	ppm
+။	punc
+မြန်မာ	n
+နှစ်သစ်	n
+ချိန်ခါ	n
+တွင်	ppm
+ကံ့ကော်ပန်း	n
+နှင့်	conj
+ပိတောက်ပန်း	n
+ရနံ့	n
+တို့	part
+က	ppm
+မွှေးပျံ့	n
+လျက်	conj
+ရှိ	v
+နေ	part
+သည်	ppm
+။	punc
+
+
+
+
+ကဆုန်	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+မှာ	ppm
+စံကားဝါပန်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+ကဆုန်	n
+လ	n
+သို့	ppm
+ရောက်	v
+သည်	ppm
+နှင့်	conj
+ရွှေဝါရောင်	n
+စံကားဝါပန်း	n
+တို့	part
+လှိုင်လှိုင်	n
+ပွင့်	v
+ကြ	part
+သည်	ppm
+။	punc
+စံကားဝါပန်း	n
+၏	sb
+ပွင့်ဖတ်	n
+တို့	part
+မှာ	ppm
+နူးညံ့	adj
+လှ	part
+ပေ	part
+သည်	ppm
+။	punc
+ပုပ္ပား	n
+ဒေသ	n
+သည်	ppm
+စံကားဝါပန်း	n
+များ	part
+ပွင့်	v
+ရာ	part
+မြေ	n
+ဖြစ်	v
+သော	part
+ကြောင့်	ppm
+စံကားဝါ	n
+မြေ	n
+ဟု	part
+ပင်	part
+တင်	v
+စား	v
+ခေါ်ဝေါ်	v
+သည်	ppm
+။	punc
+
+
+
+
+နွေ	n
+အကုန်	n
+မိုး	n
+အစ	n
+ကာလ	n
+နယုန်	n
+လ	n
+တွင်	ppm
+စံပယ်ပန်း	n
+များ	part
+လှိုင်လှိုင်	n
+ပွင့်	v
+သော	part
+ကြောင့်	ppm
+စံပယ်ပန်း	n
+ကို	ppm
+နယုန်	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+ဟု	part
+သတ်မှတ်	v
+ကြ	part
+သည်	ppm
+။	punc
+အစိမ်းရောင်	n
+ချုံနွယ်ပင်	n
+ပေါ်	n
+တွင်	ppm
+ပွင့်	v
+နေ	part
+သော	part
+ဖြူဖြူဖွေးဖွေး	n
+စံပယ်ပန်း	n
+ကလေး	n
+များ	part
+၏	sb
+ရနံ့	n
+သည်	ppm
+ဝန်းကျင်တစ်ခွင်	n
+သို့	ppm
+သင်းပျံ့	v
+မွှေး	v
+လျက်	conj
+ရှိ	v
+သည်	ppm
+။	punc
+
+
+
+
+ဝါဆို	n
+လ	n
+တွင်	ppm
+မြတ်လေးပန်း	n
+၊	punc
+ပုန်းညက်ပန်း	n
+တို့	part
+ပွင့်	v
+ကြ	part
+သည်	ppm
+။	punc
+မြတ်လေးပန်း	n
+သည်	ppm
+ဝါဆို	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+ချုံနွယ်ပင်	n
+ဖြစ်	v
+သည့်	part
+မြတ်လေးပန်း	n
+သည်	ppm
+စံပယ်ပန်းပွင့်	n
+နှင့်	conj
+အပွင့်	n
+ပုံသဏ္ဌာန်	n
+အား	ppm
+ဖြင့်	ppm
+တူ	v
+သည်	ppm
+။	punc
+ရှေးယခင်	n
+က	ppm
+ပင်	part
+မြတ်လေးပန်း	n
+ကို	ppm
+ပန်း	n
+တကာ	n
+တို့	part
+တွင်	ppm
+အမွှေးဆုံး	n
+ပန်း	n
+ဟု	part
+သတ်မှတ်	v
+ခဲ့	part
+ကြ	part
+သည်	ppm
+။	punc
+အဖြူရောင်	n
+၊	punc
+အနီရောင်	n
+၊	punc
+အဝါရောင်	n
+သုံး	v
+မျိုး	n
+ရှိ	v
+သည်	ppm
+။	punc
+
+
+
+
+ဝါခေါင်	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+မှာ	ppm
+ခတ္တာပန်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+ခတ္တာပန်း	n
+၏	sb
+အသွင်	n
+မှာ	ppm
+ရှည်သွယ်သွယ်	n
+အဖြူရောင်	n
+ပွင့်ဖတ်	n
+တို့	part
+ဖြင့်	ppm
+ဖြာဝေ	n
+ကာ	conj
+တင့်တယ်	n
+စွာ	part
+ပွင့်	v
+ကြ	part
+သည်	ppm
+။	punc
+အပွင့်	n
+ပုံစံ	n
+ကွဲ	v
+သော	part
+ခတ္တာပန်း	n
+ရောင်စုံ	adj
+များ	part
+လည်း	part
+ရှိ	v
+သည်	ppm
+။	punc
+
+
+
+
+တော်သလင်း	n
+လ	n
+တွင်	ppm
+စိမ်းဝါရောင်	n
+ရင်းမာပန်း	n
+တို့	part
+အဆုပ်လိုက်	n
+ပွင့်	v
+ကြ	part
+သည်	ppm
+။	punc
+အပင်	n
+၏	sb
+အကိုင်း	n
+အခက်အလက်	n
+တို့	part
+တွင်	ppm
+ကပ်	v
+၍	sb
+ပွင့်	v
+လေ့	part
+ရှိ	v
+ပုံ	n
+မှာ	ppm
+ထူးခြား	adj
+လှ	part
+သည်	ppm
+။	punc
+ရင်းမာပန်း	n
+ကို	ppm
+တော်သလင်း	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+ဟု	part
+သတ်မှတ်	v
+ထား	part
+ကြ	part
+သည်	ppm
+။	punc
+
+
+
+
+ဝါလ	n
+ကင်းလွတ်	v
+သီတင်းကျွတ်	n
+လ	n
+တွင်	ppm
+ကြာပန်း	n
+များ	part
+ဖူး	part
+ပွင့်	v
+ကြ	part
+သော	part
+ကြောင့်	ppm
+ကြာပန်း	n
+ကို	ppm
+သီတင်းကျွတ်	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+အဖြစ်	n
+သတ်မှတ်	v
+ကြ	part
+ခြင်း	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+ထို	adj
+ကာလ	n
+တွင်	ppm
+လယ်ကွင်း	n
+၊	punc
+ချောင်း	part
+၊	punc
+ကန်	n
+တို့	part
+တွင်	ppm
+ကြာ	v
+မျိုးစုံ	adj
+ဖူး	part
+ပွင့်	v
+အလှဆင်	n
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+တန်ဆောင်မုန်း	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+မှာ	ppm
+ခဝဲပန်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+တန်ဆောင်မုန်း	n
+လ	n
+ရောက်	v
+လျှင်	conj
+ခဝဲပန်း	n
+ဝါဝါလေး	n
+များ	part
+ပွင့်လန်း	n
+လာ	part
+ကြ	part
+သည်	ppm
+။	punc
+နွယ်ပင်	n
+ဖြစ်	v
+ပြီး	conj
+အရွက်စိမ်း	n
+များ	part
+နှင့်	conj
+လိုက်ဖက်	v
+တင့်တယ်	n
+စွာ	part
+ပွင့်	v
+လေ့	part
+ရှိ	v
+သည်	ppm
+။	punc
+
+
+
+
+ဆောင်း	n
+လ	n
+ရာသီ	n
+တွင်	ppm
+ပါ	part
+ဝင်	v
+သော	part
+နတ်တော်	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+ကို	ppm
+သဇင်ပန်း	n
+ဟု	part
+သတ်မှတ်	v
+ကြ	part
+သည်	ppm
+။	punc
+ရိုးတံ	n
+ရှည်	adj
+တွင်	ppm
+အပွင့်	n
+ဖြူဖြူသေးသေး	n
+ကလေး	n
+များ	part
+အစီအရီ	adv
+သွယ်တန်း	v
+ကာ	conj
+ပွင့်	v
+နေ	part
+သည့်	part
+ပုံသဏ္ဌာန်	n
+မှာ	ppm
+နွဲ့နွဲ့နောင်းနောင်း	n
+ရှိ	v
+လှ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပြာသို	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+မှာ	ppm
+ခွာညိုပန်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+ပြာသို	n
+လ	n
+ရောက်	v
+လျှင်	conj
+အညိုရင့်ရောင်	n
+ပွင့်ချပ်	n
+တို့	part
+အလယ်	n
+တွင်	ppm
+ဖြူဖွေး	adj
+သော	part
+ဝတ်ဆံတိုင်	n
+များ	part
+ပါ	part
+သည့်	part
+ခွာညိုပန်း	n
+များ	part
+က	ppm
+လှပ	adj
+သည့်	part
+အဖူးအငုံ	n
+များ	part
+နှင့်	conj
+အတူ	adv
+ဖူး	part
+ပွင့်	v
+လာ	part
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ခွာညိုပန်း	n
+၏	sb
+ရနံ့	n
+မှာ	ppm
+လည်း	part
+သင်းပျံပျံ	n
+ရနံ့	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+တပို့တွဲ	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+ကို	ppm
+ပေါက်ပန်း	n
+နှင့်	conj
+လဲပန်း	n
+ဟု	part
+သတ်မှတ်	v
+ထား	part
+ကြ	part
+သည်	ppm
+။	punc
+လဲ	part
+ဆို	v
+သည်	ppm
+မှာ	ppm
+လက်ပံပင်	n
+ကို	ppm
+ဆို	v
+လို	v
+ခြင်း	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+ရဲရဲနီ	n
+နေ	part
+သော	part
+ပေါက်ပန်း	n
+၊	punc
+လဲပန်းကလေး	n
+များ	part
+သည်	ppm
+အရွက်စိမ်း	n
+များ	part
+ကြား	v
+တွင်	ppm
+လှပ	adj
+စွာ	part
+ပွင့်လန်း	n
+လာ	part
+ကြ	part
+သည်	ppm
+။	punc
+
+
+
+
+ဆောင်း	n
+အကုန်	n
+နွေ	n
+အကူး	n
+အပူရှိန်	n
+အလွန်	adv
+ပြင်း	adj
+သော	part
+ကာလ	n
+ဖြစ်	v
+သည့်	part
+တပေါင်း	n
+လ	n
+၏	sb
+ရာသီပန်း	n
+သည်	ppm
+သရဖီပန်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+ဝတ်ဆံ	n
+ဝါဝါ	n
+ပွင့်ချပ်ဖြူဖြူ	n
+နှင့်	conj
+မွှေးပျံ့	n
+သည့်	part
+သရဖီပန်း	n
+များ	part
+သည်	ppm
+အပင်	n
+၏	sb
+အကိုင်းအခက်	n
+တွင်	ppm
+ယှက်	n
+ကာ	conj
+ပွင့်	v
+တတ်	part
+ပုံ	n
+မှာ	ppm
+ထူးခြား	adj
+လှ	part
+ပါ	part
+သည်	ppm
+။	punc
+မွှေးပျံ့	n
+သော	part
+သရဖီပန်း	n
+ရနံ့	n
+က	ppm
+ရင်ကို	n
+အေးမြ	adj
+စေ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ထို့ကြောင့်	conj
+ဆယ့်နှစ်လရာသီ	n
+ပန်း	n
+များ	part
+အကြောင်း	n
+ကို	ppm
+ကင်းဝန်မင်းကြီး	n
+က	ppm
+"	punc
+ပန်းကံ့ကော်	n
+ရွှေစံကား	n
+ငွေသားနု	n
+စံပယ်	n
+မှန်	v
+။	punc
+မြတ်လေး	n
+ခတ္တာ	n
+နှင့်	conj
+ရွှေရင်းမာ	n
+ကြာခဝဲ	n
+ဖွဲစနှင်းလျှံ	n
+။	punc
+သဇင်	n
+ကျန်	v
+၊	punc
+ခွာတံ	n
+ပေါက်လဲ	n
+။	punc
+ပွင့်	v
+ဝတ်	v
+ကယ်	v
+ရွှေဖီမင်း	n
+သင်းထုံနံ့ကဲ	n
+"	punc
+ဟူ၍	part
+စာ	n
+ဖွဲ့	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+မြန်မာ့	n
+ရေမြေတောတောင်	n
+သဘာဝ	n
+နှင့်	conj
+အညီ	adv
+ရာသီ	n
+အလိုက်	ppm
+ဖူး	part
+ပွင့်	v
+ကြ	part
+သည့်	part
+ပန်း	n
+များ	part
+သည်	ppm
+မ	part
+တူညီ	v
+ကြ	part
+သော်လည်း	conj
+ဆယ့်နှစ်လရာသီ	n
+ပတ်	part
+လုံး	part
+မ	part
+ပြတ်	v
+အောင်	conj
+အရောင်အသွေး	n
+စုံလင်	v
+စွာ	part
+ဖူး	part
+ပွင့်	v
+ကာ	conj
+အလှဆင်	n
+ကြ	part
+ပါ	part
+သည်	ppm
+။	punc
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+များ	part
+သည်	ppm
+ပွင့်	v
+သည့်	part
+အချိန်	n
+ရာသီ	n
+အလိုက်	ppm
+ပုံသဏ္ဌာန်	n
+၊	punc
+အရောင်အဆင်း	n
+၊	punc
+အနံ့	n
+အမျိုးမျိုး	n
+ကွဲပြားခြားနား	n
+ကြောင်း	part
+သိ	v
+ရှိ	v
+ရ	part
+ပါ	part
+သည်	ppm
+။	punc
+ထို့ကြောင့်	conj
+သဘာဝတရား	n
+၏	sb
+အလှတရား	n
+များ	part
+ကို	ppm
+လူသား	n
+တိုင်း	part
+တန်ဖိုးထား	v
+မြတ်နိုး	v
+တတ်	part
+ရန်	conj
+လိုအပ်	v
+လှ	part
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပန်း	n
+မျိုးစုံ	adj
+ညီ	n
+ဆယ့်နှစ်လရာသီ	n
+မှာ	ppm
+ပါ	part
+တဲ့	part
+အကြောင်းအရာ	n
+၊	punc
+ဓာတ်ပုံ	n
+တွေ	part
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+အနှစ်ချုပ်	v
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+လ	n
+အမည်	n
+။	punc
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+။	punc
+အရောင်	n
+၊	punc
+ပုံသဏ္ဌာန်	n
+(	punc
+ထူးခြား	adj
+ချက်	part
+)	punc
+။	punc
+တန်ခူး	n
+။	punc
+ကံ့ကော်ပန်း	n
+။	punc
+အဖြူရောင်	n
+ပွင့်ချပ်	n
+၄	num
+ခု	part
+နဲ့	ppm
+ရွှေဝါရောင်	n
+ဝတ်ဆံလေး	n
+တွေ	part
+ရှိ	v
+တယ်	ppm
+။	punc
+ကဆုန်	n
+။	punc
+နယုန်	n
+။	punc
+
+
+
+
+သတ်ပုံ	n
+အမှန်	n
+ကို	ppm
+ရွေးချယ်	v
+၍	sb
+ကွက်လပ်	n
+ဖြည့်	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+နှင်းဆီပန်း	n
+၏	sb
+____	punc
+တို့	part
+မှာ	ppm
+နူးညံ့	adj
+လှ	part
+ပေ	part
+သည်	ppm
+။	punc
+(	punc
+ပွင့်ဖတ်	n
+၊	punc
+ပွင့်ဖက်	n
+)	punc
+။	punc
+
+
+
+
+၂	num
+။	punc
+မနေ့	n
+က	ppm
+မိုးရွာ	v
+ထား	part
+၍	sb
+မြေသင်းရနံ့	n
+များ	part
+____	punc
+နေ	part
+သည်	ppm
+။	punc
+(	punc
+သင်းပျံ့	v
+၊	punc
+သင်းပြန့်	n
+)	punc
+။	punc
+
+
+
+
+၃	num
+။	punc
+ပန်းပွင့်	n
+များ	part
+၏	sb
+အရောင်အဆင်း	n
+____	punc
+သည်	ppm
+တစ်	tn
+ခု	part
+နှင့်	conj
+တစ်	tn
+ခု	part
+ကွဲပြားခြားနား	n
+ကြ	part
+သည်	ppm
+။	punc
+(	punc
+ပုံသဏ္ဍာန်	n
+၊	punc
+ပုံသဏ္ဌာန်	n
+)	punc
+
+
+
+
+အောက်ပါ	adj
+စကားလုံး	n
+များ	part
+ဖြင့်	ppm
+ဝါကျ	n
+ဖွဲ့	v
+ပြ	v
+ပါ	part
+။	punc
+ဝေဝေဆာဆာ	adv
+၊	punc
+ဖြူဖြူဖွေးဖွေး	n
+၊	punc
+အစီအရီ	adv
+၊	punc
+နွဲ့နွဲ့နောင်းနောင်း	n
+၊	punc
+ရဲရဲနီ	n
+။	punc
+သာဓက	n
+။	punc
+ဝေဝေဆာဆာ	adv
+။	punc
+။	punc
+ခြံ	n
+ထဲ	ppm
+တွင်	ppm
+စံပယ်ပန်း	n
+များ	part
+ဝေဝေဆာဆာ	adv
+ဖူး	part
+ပွင့်	v
+နေ	part
+သည်	ppm
+။	punc
+
+
+
+
+ပန်း	n
+မျိုးစုံ	adj
+ညီ	n
+ဆယ့်နှစ်လရာသီ	n
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+၁	num
+။	punc
+ဆယ့်နှစ်လရာသီ	n
+ဘွဲ့	n
+ကဗျာ	n
+ပါ	part
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+၂	num
+။	punc
+"	punc
+ရာသီ	n
+မ	part
+သိ	v
+ပန်း	n
+နှင့်	conj
+ညှိ	v
+"	punc
+ဟူသော	part
+ဆိုရိုးစကား	n
+၏	sb
+အဓိပ္ပာယ်	n
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+၃	num
+။	punc
+ဆယ့်နှစ်လရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+များ	part
+အနက်	ppm
+အကြိုက်နှစ်သက်ဆုံး	n
+ပန်း	n
+၏	sb
+အမည်	n
+ကို	ppm
+ဖော်ပြ	v
+၍	sb
+အဘယ်	pron
+ကြောင့်	ppm
+နှစ်သက်	v
+ရ	part
+သည်	ppm
+ကို	ppm
+ရေး	part
+ပါ	part
+။	punc
+၄	num
+။	punc
+သင်	v
+တို့	part
+နေ	part
+ထိုင်	v
+ရာ	part
+အရပ်	n
+ဒေသ	n
+အလိုက်	ppm
+ထင်ရှား	adj
+သော	part
+ပန်း	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+
+
+
+
+၁	num
+။	punc
+ဆယ့်နှစ်လရာသီ	n
+ဘွဲ့	n
+ကဗျာ	n
+ပါ	part
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၂။"	n
+ရာသီ	n
+မ	part
+သိ	v
+ပန်း	n
+နှင့်	conj
+ညှိ	v
+"	punc
+ဟူသော	part
+ဆိုရိုးစကား	n
+၏	sb
+အဓိပ္ပာယ်	n
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဆယ့်နှစ်လရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+များ	part
+အနက်	ppm
+အကြိုက်နှစ်သက်ဆုံး	n
+ပန်း	n
+၏	sb
+အမည်	n
+ကို	ppm
+ဖော်ပြ	v
+၍	sb
+အဘယ်	pron
+ကြောင့်	ppm
+နှစ်သက်	v
+ရ	part
+သည်	ppm
+ကို	ppm
+ရေး	part
+ပါ	part
+။	punc
+
+
+
+
+၄	num
+။	punc
+သင်	v
+တို့	part
+နေ	part
+ထိုင်	v
+ရာ	part
+အရပ်	n
+ဒေသ	n
+အလိုက်	ppm
+ထင်ရှား	adj
+သော	part
+ပန်း	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+အောက်ပါ	adj
+မေးခွန်း	n
+များ	part
+ကို	ppm
+ဖြေ	v
+ဆို	v
+ပါ	part
+။	punc
+၁	num
+။	punc
+ဆယ့်နှစ်လရာသီ	n
+ဘွဲ့	n
+ကဗျာ	n
+ပါ	part
+ရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+၂	num
+။	punc
+"	punc
+ရာသီ	n
+မ	part
+သိ	v
+ပန်း	n
+နှင့်	conj
+ညှိ	v
+"	punc
+ဟူသော	part
+ဆိုရိုးစကား	n
+၏	sb
+အဓိပ္ပာယ်	n
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+၃	num
+။	punc
+ဆယ့်နှစ်လရာသီ	n
+အလိုက်	ppm
+ပွင့်	v
+သော	part
+ပန်း	n
+များ	part
+အနက်	ppm
+အကြိုက်နှစ်သက်ဆုံး	n
+ပန်း	n
+၏	sb
+အမည်	n
+ကို	ppm
+ဖော်ပြ	v
+၍	sb
+အဘယ်	pron
+ကြောင့်	ppm
+နှစ်သက်	v
+ရ	part
+သည်	ppm
+ကို	ppm
+ရေး	part
+ပါ	part
+။	punc
+၄	num
+။	punc
+သင်	v
+တို့	part
+နေ	part
+ထိုင်	v
+ရာ	part
+အရပ်	n
+ဒေသ	n
+အလိုက်	ppm
+ထင်ရှား	adj
+သော	part
+ပန်း	n
+အမည်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+အလည်	n
+လာ	part
+ဖို့	part
+ခေါ်	v
+တဲ့	part
+စာရေး	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+နောင်နောင်	n
+က	ppm
+သူငယ်ချင်း	n
+ထွန်းထွန်း	n
+ကို	ppm
+သူ့	pron
+ဆီ	ppm
+အလည်	n
+လာ	part
+ဖို့	part
+စာ	n
+ပို့	v
+လိုက်	part
+တယ်	ppm
+။	punc
+စာအိတ်	n
+မှာ	ppm
+သူငယ်ချင်း	n
+ရဲ့	ppm
+နေရပ်လိပ်စာ	n
+ရေး	part
+ထား	part
+တယ်	ppm
+။	punc
+
+
+
+
+စာအိတ်	n
+တွင်	ppm
+ရေးသား	v
+ပုံ	n
+။	punc
+သို့	ppm
+။	punc
+မောင်	pron
+ထွန်းထွန်း	n
+။	punc
+အမှတ်	n
+(	punc
+၄ဝ	num
+)	punc
+ဦးစန္ဒာ	n
+လမ်း	n
+။	punc
+၃	num
+ရပ်ကွက်	n
+ကျိုက်လတ်	n
+မြို့	n
+။	punc
+ဧရာဝတီ	n
+တိုင်းဒေသကြီး	n
+။	punc
+
+
+
+
+စာ	n
+လက်ခံမည့်သူ	n
+အမည်	n
+လိပ်စာ	n
+ကို	ppm
+စာအိတ်	n
+အလယ်	n
+တွင်	ppm
+သိသာ	v
+ထင်ရှား	adj
+စွာ	part
+ရေး	part
+ရ	part
+မည်	ppm
+။	punc
+
+
+
+
+မှ	ppm
+။	punc
+နောင်နောင်	n
+။	punc
+ဈေးသစ်ရပ်	n
+မိုင်းသောက်	n
+။	punc
+အင်းလေး	n
+ဒေသ	n
+။	punc
+ရှမ်း	n
+ပြည်နယ်	n
+(	punc
+တောင်ပိုင်း	n
+)	punc
+။	punc
+
+
+
+
+ပေးပို့သူ	n
+အမည်	n
+လိပ်စာ	n
+ကို	ppm
+သိသာ	v
+ထင်ရှား	adj
+စွာ	part
+ရေး	part
+ရ	part
+မည်	ppm
+။	punc
+
+
+
+
+နောင်နောင်	n
+က	ppm
+သူ့	pron
+ဒေသ	n
+ရဲ့	ppm
+ပျော်စရာ	n
+ကောင်း	adj
+ပုံ	n
+အကြောင်း	n
+ရေး	part
+ထား	part
+တဲ့	part
+စာ	n
+ကို	ppm
+ဖတ်	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+၁၄	num
+၊	punc
+၇	num
+၊	punc
+၂၀၂၀	num
+။	punc
+၁	num
+။	punc
+ရေးသား	v
+သည့်	part
+ရက်စွဲ	n
+
+
+
+
+သူငယ်ချင်း	n
+ထွန်းထွန်း	n
+ရေ	n
+။	punc
+၂	num
+။	punc
+လက်ခံမည့်သူ	n
+အမည်	n
+
+
+
+
+နေကောင်း	v
+ရဲ့	ppm
+လား	part
+သတိရ	v
+လို့	part
+ငါ	pron
+စာရေး	v
+လိုက်	part
+ပါ	part
+တယ်	ppm
+။	punc
+၃	num
+။	punc
+နှုတ်ခွန်းဆက်	n
+စကား	n
+
+
+
+
+လာမဲ့	n
+နွေရာသီ	n
+ကျောင်းပိတ်ရက်	n
+မှာ	ppm
+ငါတို့	n
+ရှမ်း	n
+ပြည်နယ်	n
+အင်းလေး	n
+ဒေသ	n
+က	ppm
+မိုင်းသောက်	n
+ရွာ	n
+ကို	ppm
+လာလည်	v
+ဖို့	part
+ဖိတ်ခေါ်	v
+ချင်	part
+တာ	part
+ပါ	part
+။	punc
+တို့	part
+ဒေသ	n
+မှာ	ppm
+ရှိ	v
+တဲ့	part
+ဖောင်တော်ဦးဘုရား	n
+၊	punc
+အင်းလေး	n
+ခေါင်တိုင်	n
+၊	punc
+ရက်ကန်းရုံ	n
+နဲ့	ppm
+လေ့လာ	v
+စရာ	part
+ကောင်း	adj
+တဲ့	part
+နေရာ	n
+တွေ	part
+ကို	ppm
+ငါ	pron
+လိုက်	part
+ပို့	v
+ပေး	part
+မယ်	ppm
+လေ	part
+။	punc
+တို့	part
+အင်းသား	n
+တွေ	part
+ရဲ့	ppm
+ခြေထောက်	n
+နဲ့	ppm
+လှေလှော်	v
+တာ	part
+ကို	ppm
+မင်း	pron
+မြင်	v
+တွေ့	v
+ရ	part
+မှာ	ppm
+ပေါ့	part
+။	punc
+ဒါ့အပြင်	conj
+ရေ	n
+ပေါ်	n
+မှာ	ppm
+ဆောက်	v
+ထား	part
+တဲ့	part
+အိမ်	n
+တွေ	part
+ရယ်	part
+၊	punc
+ကျွန်းမျော	n
+စိုက်ခင်း	n
+တွေ	part
+ရယ်	part
+မင်း	pron
+တွေ့	v
+ရ	part
+တဲ့	part
+အခါ	n
+သိပ်	adv
+ကို	ppm
+အံ့ဩ	v
+သွား	v
+မယ်	ppm
+။	punc
+တို့	part
+ဆီ	ppm
+ကို	ppm
+လာ	part
+ဖြစ်	v
+အောင်	conj
+လာ	part
+ခဲ့	part
+ပါ	part
+ကွာ	part
+။	punc
+မင်း	pron
+အတွက်	ppm
+ဗဟုသုတ	n
+ရ	part
+စရာ	part
+၊	punc
+ဓာတ်ပုံ	n
+မှတ်တမ်း	n
+ရိုက်	v
+စရာ	part
+တွေ	part
+အများကြီး	adj
+ရ	part
+မှာ	ppm
+ပါ	part
+။	punc
+၄	num
+။	punc
+အကြောင်းအရာ	n
+။	punc
+မိမိ	pron
+ဒေသ	n
+အမည်	n
+။	punc
+ထူးခြား	adj
+တဲ့	part
+အကြောင်းအရာ	n
+။	punc
+ပျော်	v
+စရာ	part
+ကောင်း	adj
+ပုံ	n
+
+
+
+
+ငါ့	pron
+ဆီ	ppm
+စာ	n
+ပြန်	v
+ပါ	part
+အုံး	n
+။	punc
+၅	num
+။	punc
+နှုတ်ဆက်	v
+စကား	n
+
+
+
+
+မင်း	pron
+ရဲ့	ppm
+သူငယ်ချင်း	n
+နောင်နောင်	n
+။	punc
+၆	num
+။	punc
+ရေးသားသူ	n
+အမည်	n
+
+
+
+
+မင်း	pron
+ရဲ့	ppm
+သူငယ်ချင်း	n
+နောင်နောင်	n
+။	punc
+၆	num
+။	punc
+ရေးသားသူ	n
+အမည်	n
+။	punc
+အလည်	n
+လာ	part
+ဖို့	part
+ခေါ်	v
+တဲ့	part
+စာ	n
+ရေး	part
+တဲ့	part
+အခါ	n
+၁	num
+က	ppm
+၆	num
+အထိ	ppm
+အချက်	n
+တွေ	part
+ပါ	part
+အောင်	conj
+ရေး	part
+ကြ	part
+ရ	part
+မယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+ထံ	ppm
+ပေး	part
+စာ	n
+ပို့	v
+ဖို့	part
+လိပ်စာ	n
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ပေး	part
+ထား	part
+တဲ့	part
+နမူနာ	n
+စာ	n
+ကို	ppm
+ကြည့်	v
+ပြီး	conj
+သူငယ်ချင်း	n
+ထံ	ppm
+ပေး	part
+စာ	n
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+ပေး	part
+စာ	n
+တွေ	part
+ရေး	part
+တဲ့	part
+အခါ	n
+-	punc
+-	punc
+သူငယ်ချင်း	n
+၊	punc
+ဆွေမျိုး	n
+၊	punc
+မောင်နှမ	n
+တွေ	part
+ဆီ	ppm
+ကို	ppm
+လဲ	part
+ပေး	part
+စာ	n
+ရေး	part
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+ရေး	part
+တဲ့	part
+အခါ	n
+မှတ်စု	n
+စာအုပ်	n
+ထဲ	ppm
+မှာ	ppm
+အရင်	adv
+ရေး	part
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+။	punc
+ပြီး	conj
+မှ	ppm
+အချော	n
+ကူး	v
+ရေး	part
+မယ်	ppm
+။	punc
+သူငယ်ချင်း	n
+အချင်းချင်း	adv
+ဖတ်	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+ကိုယ်	pron
+ရေး	part
+ထား	part
+တဲ့	part
+စာ	n
+ကို	ppm
+သူငယ်ချင်း	n
+နဲ့	ppm
+အပြန်အလှန်	adv
+ပြော	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+။	punc
+တို့	part
+က	ppm
+တော့	part
+သူငယ်ချင်း	n
+နွယ်နီ	n
+ကို	ppm
+တို့	part
+ဆီ	ppm
+လာ	part
+လည်	v
+ဖို့	part
+ခေါ်	v
+ထား	part
+တယ်	ppm
+။	punc
+ဟုတ်	v
+လား	part
+။	punc
+ငါ	pron
+က	ppm
+တော့	part
+...	sb
+
+
+
+
+လက်ရေး	n
+လှလှ	adj
+ရေး	part
+ထား	part
+သလား	part
+။	punc
+
+
+
+
+စာလုံးပေါင်း	n
+သတ်ပုံ	n
+မှန်	v
+ရဲ့	ppm
+လား	part
+။	punc
+
+
+
+
+စာ	n
+လက်ခံ	v
+မဲ့	part
+သူ	pron
+ရဲ့	ppm
+အမည်	n
+၊	punc
+လိပ်စာ	n
+၊	punc
+မိမိ	pron
+အမည်	n
+၊	punc
+လိပ်စာ	n
+မှန်မှန်ကန်ကန်	n
+ရေးသား	v
+ထား	part
+သလား	part
+။	punc
+
+
+
+
+ရုပ်ပုံကလေး	n
+တွေ	part
+ကြည့်	v
+ပြီး	conj
+စကားပုံ	n
+ပြော	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+လမင်း	n
+ကြီး	part
+သာ	part
+နေ	part
+တဲ့	part
+အချိန်	n
+မှာ	ppm
+မိန်းမပျိုလေး	n
+ဘာ	pron
+လုပ်	v
+နေ	part
+သလဲ	part
+။	punc
+
+
+
+
+လ	n
+သာ	part
+တုန်း	part
+ဗိုင်းငင့်	n
+။	punc
+ဆိုလိုရင်း	n
+-	punc
+အခြေအနေ	n
+ပေး	part
+လာ	part
+သည့်	part
+အခါ	n
+တွင်	ppm
+အခွင့်	n
+ကောင်း	adj
+ယူ	v
+၍	sb
+အလုပ်	n
+လုပ်	v
+ကြ	part
+ရ	part
+ပုံ	n
+ကို	ppm
+ဆိုလိုရင်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ခိုင်းနှိုင်းပုံ	n
+-	punc
+ရှေးအခါ	n
+လျှပ်စစ်မီး	n
+မ	part
+ရှိ	v
+သေး	part
+ခင်	conj
+က	ppm
+ည	n
+ဘက်	n
+အလုပ်	n
+လုပ်	v
+လို	v
+လျှင်	conj
+ထိန်ထိန်သာ	n
+သည့်	part
+လရောင်	n
+ကို	ppm
+အားကိုး	v
+၍	sb
+လုပ်	v
+ရ	part
+သည်	ppm
+။	punc
+လမင်း	n
+ကြီး	part
+သည်	ppm
+အမြဲတမ်း	adv
+ထိန်ထိန်	n
+မ	part
+သာ	part
+နိုင်	part
+ချေ	part
+။	punc
+ထို့ကြောင့်	conj
+လ	n
+သာ	part
+တုန်း	part
+ကို	ppm
+မိမိ	pron
+လုပ်	v
+လို	v
+သော	part
+ဗိုင်းငင့်	n
+သည့်	part
+အလုပ်	n
+ကို	ppm
+လ	n
+သာ	part
+ချိန်	n
+တွင်	ppm
+လုပ်	v
+ရ	part
+ကြောင်း	part
+ခိုင်းနှိုင်း	v
+ဖော်ပြ	v
+သည်	ppm
+။	punc
+
+
+
+
+ဘယ်လို	adv
+နေရာ	n
+မျိုး	n
+မှာ	ppm
+ဒီလို	pron
+စကားပုံလေး	n
+ကို	ppm
+အသုံးပြု	v
+ကြ	part
+သလဲ	part
+။	punc
+
+
+
+
+လ	n
+သာ	part
+တုန်း	part
+ဗိုင်းငင့်	n
+ဆို	v
+သလို	conj
+ကျောင်းသူလေး	n
+အေးမိုး	n
+ဟာ	ppm
+အချိန်	n
+ကို	ppm
+အကျိုး	n
+ရှိရှိ	v
+နဲ့	ppm
+အသုံးချ	v
+ခဲ့	part
+တဲ့	part
+အတွက်	ppm
+စာမေးပွဲ	n
+ကို	ppm
+အခက်အခဲ	n
+မ	part
+ရှိ	v
+အောင်မြင်	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+အခွင့်အခါ	n
+ကောင်း	adj
+ကြုံ	v
+နေ	part
+ချိန်	n
+မှာ	ppm
+အချိန်	n
+ကို	ppm
+အကျိုး	n
+ရှိ	v
+ရှိ	v
+အသုံးချ	v
+တတ်	part
+တာ	part
+ကို	ppm
+ပြော	v
+ချင်	part
+ရင်	conj
+ဒီ	adj
+စကားပုံ	n
+ကို	ppm
+သုံး	v
+လို့	part
+ရ	part
+တယ်	ppm
+
+
+
+
+၂	num
+။	punc
+သစ်ပင်	n
+တစ်	tn
+ပင်	part
+မှာ	ppm
+ငှက်	n
+တွေ	part
+အများကြီး	adj
+ဘာ	pron
+လို့	part
+နား	n
+နေ	part
+နိုင်	part
+တာ	part
+လဲ	part
+။	punc
+
+
+
+
+သစ်	adj
+တစ်	tn
+ပင်	part
+ကောင်း	adj
+ငှက်	n
+တစ်	tn
+သောင်း	n
+နား	n
+ရ	part
+။	punc
+ဆိုလိုရင်း	n
+-	punc
+ဥစ္စာ	n
+စီးပွား	n
+၊	punc
+ရာထူးဂုဏ်သိန်	n
+ပြည့်စုံ	v
+သူ	pron
+ကို	ppm
+အများတကာ	n
+အမှီအခို	n
+ပြု	v
+၍	sb
+အား	ppm
+ထား	part
+နိုင်	part
+ကြောင်း	part
+ဆိုလိုရင်း	n
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ခိုင်းနှိုင်းပုံ	n
+-	punc
+အရိပ်အာဝါသ	n
+နှင့်	conj
+ပြည့်စုံ	v
+သော	part
+သစ်ပင်	n
+ကို	ppm
+ငှက်	n
+များ	part
+လာ	part
+ရောက်	v
+နားခို	v
+နေ	part
+နိုင်	part
+ပုံ	n
+နှင့်	conj
+ခိုင်းနှိုင်း	v
+ဖော်ပြ	v
+သည်	ppm
+။	punc
+
+
+
+
+ဘယ်လို	adv
+နေရာ	n
+မျိုး	n
+မှာ	ppm
+ဒီလို	pron
+စကားပုံလေး	n
+ကို	ppm
+အသုံးပြု	v
+ကြ	part
+သလဲ	part
+။	punc
+
+
+
+
+သစ်	adj
+တစ်	tn
+ပင်	part
+ကောင်း	adj
+ငှက်	n
+တစ်	tn
+သောင်း	n
+နား	n
+ရ	part
+ဆို	v
+သလို	conj
+ဦးလေး	n
+တို့	part
+မိသားစု	n
+မြို့	n
+ပေါ်	n
+တက်	v
+ပြီး	conj
+စီးပွား	n
+ရှာ	v
+တော့	part
+ကြီးပွား	v
+သွား	v
+တဲ့	part
+အခါ	n
+မှာ	ppm
+နယ်	n
+မှာ	ppm
+ရှိ	v
+တဲ့	part
+အမျိုးအဆွေ	n
+တွေ	part
+က	ppm
+ဦးလေး	n
+ရဲ့	ppm
+အကူအညီ	n
+အထောက်အပံ့	n
+တွေ	part
+ကို	ppm
+ရ	part
+ကြ	part
+တယ်	ppm
+။	punc
+ဒါ	pron
+ကြောင့်	ppm
+ကြီးပွား	v
+ချမ်းသာ	v
+လာ	part
+ရင်	conj
+အများ	n
+အတွက်	ppm
+လဲ	part
+မှီခို	v
+အား	ppm
+ထား	part
+နိုင်	part
+တယ်	ppm
+ဆို	v
+တာ	part
+ကို	ppm
+ပြော	v
+ချင်	part
+ရင်	conj
+ဒီ	adj
+စကားပုံ	n
+ကို	ppm
+သုံး	v
+လို့	part
+ရ	part
+တယ်	ppm
+
+
+
+
+၃	num
+။	punc
+လမ်း	n
+သွား	v
+နေ	part
+ရင်း	conj
+ဘာ	pron
+ဖြစ်	v
+သွား	v
+သလဲ	part
+။	punc
+
+
+
+
+ခလုတ်	n
+ထိ	ppm
+မှ	ppm
+အမိ	n
+တ	part
+။	punc
+ဆိုလိုရင်း	n
+-	punc
+ဒုက္ခ	n
+ဆင်းရဲ	v
+နှင့်	conj
+အမှန်တကယ်	adv
+ကြုံတွေ့	v
+ရ	part
+သောအခါ	conj
+မိခင်	n
+ကို	ppm
+တမ်းတ	v
+မိ	part
+တတ်	part
+သည့်	part
+အကြောင်း	n
+ဆိုလို	v
+ခြင်း	part
+ဖြစ်	v
+သည်	ppm
+။	punc
+
+
+
+
+ခိုင်းနှိုင်းပုံ	n
+-	punc
+ခလုတ်	n
+ထိ	ppm
+မှ	ppm
+အမိ	n
+တ	part
+တတ်	part
+ပုံ	n
+ဖြင့်	ppm
+ခိုင်းနှိုင်း	v
+ဖော်ပြ	v
+သည်	ppm
+။	punc
+
+
+
+
+မေမေ	n
+က	ppm
+သမီး	n
+ရေ	n
+မေမေ	n
+လှီး	v
+ထား	part
+တဲ့	part
+သရက်သီး	n
+တွေ	part
+ပဲ	part
+စား	v
+နော်	part
+လို့	part
+မှာ	ppm
+ခဲ့	part
+တယ်	ppm
+။	punc
+သရက်သီး	n
+တွေ	part
+ချို	v
+လွန်း	part
+တော့	part
+လှီး	v
+ထား	part
+တဲ့	part
+သရက်သီး	n
+ကို	ppm
+စား	v
+ရ	part
+တာ	part
+နဲ့	ppm
+အား	ppm
+မ	part
+ရ	part
+ဘူး	part
+။	punc
+ဒါ	pron
+နဲ့	ppm
+မ	part
+လှီး	v
+ရ	part
+သေး	part
+တဲ့	part
+သရက်သီး	n
+ကို	ppm
+ယူ	v
+ပြီး	conj
+ဓား	n
+နဲ့	ppm
+လှီး	v
+လိုက်	part
+တာ	part
+လက်	n
+ကို	ppm
+ဓား	n
+ထိ	ppm
+သွား	v
+တယ်	ppm
+။	punc
+အား	ppm
+...	sb
+မေမေ	n
+ရေ	n
+နာ	v
+လိုက်	part
+တာ	part
+သွေး	n
+တွေ	part
+ထွက်	v
+လာ	part
+ပြီ	ppm
+။	punc
+မေမေ့	n
+စကား	n
+နားမထောင်	v
+မိ	part
+တော့	part
+လက်	n
+မှာ	ppm
+ဒဏ်ရာ	n
+ရ	part
+သွား	v
+ပြီ	ppm
+ဆို	v
+ပြီး	conj
+အော်	v
+ငို	v
+မိ	part
+တော့	part
+တယ်	ppm
+။	punc
+ခလုတ်	n
+ထိ	ppm
+မှ	ppm
+အမိ	n
+တ	part
+မိ	part
+တော့	part
+တာ	part
+ပါ	part
+ပဲ	part
+
+
+
+
+တခြား	adj
+ဘယ်လို	adv
+နေရာ	n
+မျိုး	n
+တွေ	part
+မှာ	ppm
+ဒီလို	pron
+စကားပုံ	n
+မျိုး	n
+ကို	ppm
+အသုံးပြု	v
+ကြ	part
+သလဲ	part
+။	punc
+
+
+
+
+၄	num
+။	punc
+လယ်သမား	n
+ကြီး	part
+လယ်	n
+ထဲ	ppm
+ကို	ppm
+ဘယ်လို	adv
+သွား	v
+နေ	part
+သလဲ	part
+။	punc
+
+
+
+
+လယ်ထွန်	n
+သွား	v
+နွား	n
+မေ့	v
+။	punc
+ဆိုလိုရင်း	n
+-	punc
+အလုပ်	n
+ကိစ္စ	n
+တစ်	tn
+ရပ်	v
+ဆောင်ရွက်	v
+ရန်	conj
+သွား	v
+ရာ	part
+တွင်	ppm
+ယင်း	pron
+အလုပ်	n
+အတွက်	ppm
+မရှိမဖြစ်	adv
+လိုအပ်	v
+သည့်	part
+အရာ	n
+မေ့လျော့	n
+နေ	part
+ခဲ့	part
+ခြင်း	part
+ကို	ppm
+ဆို	v
+လို	v
+သည်	ppm
+။	punc
+
+
+
+
+ခိုင်းနှိုင်းပုံ	n
+-	punc
+လယ်ထွန်	n
+သွား	v
+ရာ	part
+တွင်	ppm
+နွား	n
+မေ့	v
+ကျန်	v
+ခဲ့	part
+ပုံ	n
+ဖြင့်	ppm
+ခိုင်းနှိုင်း	v
+ဖော်ပြ	v
+သည်	ppm
+။	punc
+
+
+
+
+ဒီနေ့	n
+မေဇင်	n
+အိပ်ရာထ	v
+နောက်	n
+ကျ	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+ကျောင်း	n
+မှာ	ppm
+အသင်း	n
+တာဝန်	n
+ကျ	v
+တော့	part
+အပြေးအလွှား	n
+သွား	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+စာသင်ချိန်	n
+ရောက်	v
+လို့	part
+လွယ်အိတ်	n
+ကို	ppm
+ဖွင့်	v
+ကြည့်	v
+လိုက်	part
+မှ	ppm
+ကွန်	n
+ပါ	part
+ဘူး	part
+ပါ	part
+မ	part
+လာ	part
+တာ	part
+သိ	v
+ရ	part
+တယ်	ppm
+။	punc
+အဲဒီ	pron
+အခါ	n
+မှ	ppm
+တွေး	v
+မိ	part
+တယ်	ppm
+မနေ့ည	n
+က	ppm
+အိမ်	n
+စာ	n
+လုပ်	v
+ရင်း	conj
+မေ့	v
+ကျန်	v
+ခဲ့	part
+တာ	part
+ပဲ	part
+။	punc
+"	punc
+ဒုက္ခ	n
+ပါ	part
+ပဲ	part
+သူငယ်ချင်း	n
+ရေ	n
+ခဲတံ	n
+ငှား	v
+ပါ	part
+အုံး	n
+"	punc
+လို့	part
+ပြော	v
+ပြီး	conj
+အကူအညီ	n
+တောင်း	v
+ရ	part
+တယ်	ppm
+။	punc
+လယ်ထွန်	n
+သွား	v
+ရင်း	conj
+နွား	n
+မေ့	v
+သလို	conj
+ပဲ	part
+။	punc
+အရေးကြီး	v
+တဲ့	part
+အရာ	n
+မေ့	v
+ကျန်	v
+ခဲ့	part
+တယ်	ppm
+
+
+
+
+တခြား	adj
+ဘယ်လို	adv
+နေရာ	n
+မျိုး	n
+တွေ	part
+မှာ	ppm
+ဒီလို	pron
+စကားပုံ	n
+မျိုး	n
+ကို	ppm
+အသုံးပြု	v
+ကြ	part
+သလဲ	part
+။	punc
+
+
+
+
+ပါ	part
+ဝင်	v
+သူ	pron
+များ	part
+။	punc
+ဦးမြတ်ကျော်	n
+။	punc
+ဒေါ်ခင်မိုးပွင့်	n
+။	punc
+ဒေါ်ခတ္တာ	n
+။	punc
+သူသူမွန်	n
+။	punc
+အငြိမ်းစား	n
+ကျောင်းအုပ်ကြီး	n
+။	punc
+ဦးမြတ်ကျော်	n
+၏	sb
+သမီး	n
+။	punc
+မူလတန်းပြ	n
+ဆရာမ	n
+။	punc
+ဒေါ်ခင်မိုးပွင့်	n
+၏	sb
+သမီး	n
+စတုတ္ထ	adj
+တန်း	n
+ကျောင်း	n
+သူ	pron
+။	punc
+
+
+
+
+ဇာတ်စင်	n
+။	punc
+ကားလိပ်	n
+ဖွင့်	v
+။	punc
+ဒေါ်ခတ္တာ	n
+ဆရာကြီး	n
+ရှိ	v
+ပါ	part
+သလား	part
+ရှင့်	n
+။	punc
+(	punc
+အိမ်ဝင်း	n
+တံခါး	n
+မှ	ppm
+လှမ်း	v
+၍	sb
+ခေါ်	v
+စေ	part
+)	punc
+
+
+
+
+ဒေါ်ခင်မိုးပွင့်	n
+ဪ	int
+-	punc
+ဆရာမ	n
+ပါ	part
+လား	part
+။	punc
+ဆရာကြီး	n
+ရှိ	v
+ပါ	part
+တယ်	ppm
+ရှင့်	n
+၊	punc
+ဝင်	v
+ခဲ့	part
+ပါ	part
+။	punc
+ဟဲ့	int
+သမီး	n
+မွန်မွန်	n
+။	punc
+သမီး	n
+ရဲ့	ppm
+ဆရာမ	n
+လာ	part
+နေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+သူသူမွန်	n
+(	punc
+ပြေးလွှားရင်း	n
+)	punc
+တီချယ်	n
+က	ppm
+သမီး	n
+တို့	part
+အိမ်	n
+လာ	part
+တယ်	ppm
+နော်	part
+။	punc
+သမီး	n
+ကို	ppm
+ဘာ	pron
+ပြော	v
+ချင်	part
+လို့	part
+လဲ	part
+။	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+သမီး	n
+ဘိုးဘိုး	n
+ဦးမြတ်ကျော်	n
+ဆီ	ppm
+လာ	part
+တာ	part
+ပါ	part
+။	punc
+ကန်တော့	v
+ရင်း	conj
+နဲ့	ppm
+စာ	n
+မေး	v
+ချင်	part
+လို့	part
+ပေါ့	part
+။	punc
+
+
+
+
+သူသူမွန်	n
+တီချယ်	n
+က	ppm
+ဘိုးဘိုး	n
+ဆီ	ppm
+မှာ	ppm
+စာ	n
+မေး	v
+ချင်	part
+လို့	part
+။	punc
+ဟုတ်	v
+လား	part
+တီချယ်	n
+။	punc
+(	punc
+သူသူမွန်	n
+က	ppm
+အံ့ဩ	v
+ဟန်	n
+ပြု	v
+နေ	part
+မည်	ppm
+။	punc
+)	punc
+
+
+
+
+ဦးမြတ်ကျော်	n
+ဟဲ့	int
+ခတ္တာ	n
+၊	punc
+အထဲ	n
+ကို	ppm
+ဝင်	v
+ခဲ့	part
+လေ	part
+။	punc
+ကုလားထိုင်	n
+ပေါ်	n
+ထိုင်	v
+ဟဲ့	int
+။	punc
+ကိစ္စ	n
+များ	part
+ရှိ	v
+လို့	part
+လား	part
+။	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+မ	part
+ရောက်	v
+တာ	part
+လဲ	part
+ကြာ	v
+၊	punc
+ဆရာ့	n
+ကို	ppm
+လဲ	part
+ကန်တော့	v
+ချင်	part
+၊	punc
+စာ	n
+မေး	v
+ချင်	part
+တာ	part
+လဲ	part
+ပါ	part
+ပါ	part
+တယ်	ppm
+ဆရာကြီး	n
+။	punc
+(	punc
+ဆရာမ	n
+၊	punc
+ဒေါ်ခင်မိုးပွင့်	n
+တို့	part
+ဝင်	v
+ထိုင်	v
+ကြ	part
+မည်	ppm
+။	punc
+သူသူမွန်	n
+က	ppm
+ရှောင်ဖယ်ဖယ်	n
+လုပ်	v
+နေ	part
+မည်	ppm
+။	punc
+)	punc
+
+
+
+
+ဒေါ်ခင်မိုးပွင့်	n
+သမီးလေး	n
+...	sb
+သမီး	n
+လဲ	part
+လာ	part
+လေ	part
+။	punc
+သမီး	n
+ဆရာမ	n
+ကို	ppm
+ဧည့်ခံ	v
+ရ	part
+မယ်	ppm
+လေ	part
+။	punc
+(	punc
+သူသူမွန်	n
+က	ppm
+စိတ်	n
+မ	part
+ပါ	part
+ဟန်	n
+ဖြင့်	ppm
+လာ	part
+ရင်း	conj
+မိခင်	n
+ဒေါ်ခင်မိုးပွင့်	n
+ကို	ppm
+မှီ	v
+နေ	part
+စေ	part
+။	punc
+)	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+ကဲ	int
+...	sb
+ပထမဆုံး	adj
+ဆရာကြီး	n
+ကို	ppm
+ကျွန်မ	pron
+ကန်တော့	v
+ပါ	part
+ရ	part
+စေ	part
+။	punc
+(	punc
+ဒေါ်ခတ္တာ	n
+က	ppm
+ဖယောင်းတိုင်ထုပ်	n
+နှင့်	conj
+မုန့်ထုပ်	n
+ကို	ppm
+ဆရာကြီး	n
+ရှေ့	n
+ချ	v
+ရင်း	conj
+လက်အုပ်ချီ	n
+ကန်တော့	v
+မည်	ppm
+။	punc
+)	punc
+
+
+
+
+ဦးမြတ်ကျော်	n
+ကန်တော့	v
+ရ	part
+တဲ့	part
+အကျိုး	n
+အတွက်	ppm
+ကျန်းမာ	v
+ချမ်းသာ	v
+ပါ	part
+စေ	part
+။	punc
+လို	v
+ရာ	part
+ဆန္ဒ	n
+ပြည့်ဝ	v
+ပါ	part
+စေ	part
+။	punc
+ကဲ	int
+...	sb
+ခတ္တာ	n
+ရေ	n
+၊	punc
+တွေ့	v
+ရ	part
+တုန်း	part
+ဆုံး	part
+မ	part
+ရ	part
+အုံး	n
+မယ်	ppm
+။	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+ဟုတ်ကဲ့	part
+ပါ	part
+ဆရာကြီး	n
+။	punc
+ဆရာကြီး	n
+ကို	ppm
+လဲ	part
+စာ	n
+မေး	v
+ပါ	part
+ရ	part
+စေ	part
+ရှင့်	n
+။	punc
+
+
+
+
+ဦးမြတ်ကျော်	n
+အေး	part
+။	punc
+ခတ္တာ	n
+က	ppm
+ငါ့	pron
+မြေးမလေး	n
+တတိယ	adj
+တန်း	n
+တုန်း	part
+က	ppm
+လဲ	part
+စာသင်	v
+ပေး	part
+ရ	part
+တယ်	ppm
+ဆို	v
+။	punc
+လယ်	n
+စောင့်	v
+တဲလေး	n
+ကဗျာ	n
+ကို	ppm
+သင်	v
+တဲ့	part
+အခါ	n
+လယ်	n
+စောင့်	v
+တဲလေး	n
+ခြေတံရှေ	n
+မိုးကုပ်အောက်	n
+မှာ	ppm
+နေ	part
+လို့	part
+သင်	v
+တယ်	ppm
+ဆို	v
+။	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+ဒီလို	pron
+ပါ	part
+ဆရာကြီး	n
+၊	punc
+ကဗျာ	n
+ကို	ppm
+ရွတ်	v
+တဲ့	part
+အခါ	n
+ကလေး	n
+တွေ	part
+နားလည်	v
+လွယ်	v
+အောင်	conj
+ခြေတံရှေ	n
+လို့	part
+၊	punc
+အောက်	n
+မှာ	ppm
+နေ	part
+လို့	part
+ရွတ်	v
+ခိုင်း	part
+တာ	part
+ပါ	part
+။	punc
+
+
+
+
+ဦးမြတ်ကျော်	n
+မဟုတ်ဘူးကွဲ့	n
+။	punc
+ကဗျာ	n
+ဆို	v
+တာ	part
+က	ppm
+အသံ	n
+သာ	part
+အောင်	conj
+လို့	part
+ကာရန်	n
+နဲ့	ppm
+ချိတ်	v
+ထား	part
+တာ	part
+၊	punc
+ရွတ်	v
+ရာ	part
+မှာ	ppm
+လဲ	part
+ကာရန်	n
+အတိုင်း	ppm
+ရွတ်	v
+ရ	part
+မယ်	ppm
+။	punc
+ဒီ	adj
+ကဗျာ	n
+မှာ	ppm
+ခြေတံရှည်	n
+၊	punc
+အောက်	n
+မှာ	ppm
+တည်	v
+တို့	part
+နဲ့	ppm
+အသံ	n
+ညီ	n
+အောင်	conj
+ကြာနီ	n
+ဆို	v
+တာ	part
+ပါ	part
+သေး	part
+တယ်	ppm
+၊	punc
+ပါ	part
+တဲ့	part
+အတိုင်း	ppm
+ရွတ်	v
+ခိုင်း	part
+ရ	part
+မယ်	ppm
+။	punc
+အဓိပ္ပာယ်	n
+ရှင်းပြ	v
+ရာ	part
+မှာ	ppm
+တော့	part
+နားလည်	v
+လွယ်	v
+မဲ့	part
+စကားလုံး	n
+နဲ့	ppm
+ရှင်းပြ	v
+ပေါ့	part
+ကွဲ့	part
+။	punc
+ဟုတ်	v
+လား	part
+။	punc
+
+
+
+
+သူသူမွန်	n
+(	punc
+အသံ	n
+တိုးတိုး	adv
+ဖြင့်	ppm
+)	punc
+မေမေ	n
+ဘိုးဘိုး	n
+က	ppm
+ဆရာ	n
+လဲ	part
+မ	part
+ဟုတ်	v
+ဘဲ	part
+နဲ့	ppm
+တီချယ်	n
+ကို	ppm
+ဘာ	pron
+လို့	part
+သင်	v
+နေ	part
+ရ	part
+တာ	part
+လဲ	part
+။	punc
+
+
+
+
+ဒေါ်ခင်မိုးပွင့်	n
+သင်	v
+တတ်	part
+လို့	part
+သင်	v
+တာ	part
+ပေါ့	part
+သမီး	n
+ရဲ့	ppm
+။	punc
+
+
+
+
+ဦးမြတ်ကျော်	n
+သင်ခန်းစာ	n
+တွေ	part
+ကို	ppm
+ကြိုတင်	adv
+ပြင်ဆင်	v
+ထား	part
+၊	punc
+မ	part
+မှား	v
+အောင်	conj
+လဲ	part
+ဂရုစိုက်	v
+။	punc
+မှား	v
+ရင်	conj
+တော့	part
+ငယ်ငယ်	adv
+တုန်း	part
+က	ppm
+လို	v
+ခတ္တာ	n
+ကို	ppm
+ဆူ	part
+ရ	part
+မှာ	ppm
+ပဲ	part
+။	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+ဟုတ်ကဲ့	part
+ပါ	part
+ဆရာကြီး	n
+။	punc
+
+
+
+
+သူသူမွန်	n
+တီချယ်	n
+ကို	ppm
+ဘိုးဘိုး	n
+က	ppm
+ဆူ	part
+ရင်	conj
+တီချယ်	n
+သနား	v
+ပါ	part
+တယ်	ppm
+မေမေ	n
+။	punc
+
+
+
+
+ဒေါ်ခင်မိုးပွင့်	n
+ဆရာ	n
+က	ppm
+တပည့်	n
+ကို	ppm
+လိမ္မာ	adj
+အောင်	conj
+ဆုံးမ	v
+တာ	part
+ဝမ်းသာ	v
+ရ	part
+မှာ	ppm
+ပေါ့	part
+သမီး	n
+ရဲ့	ppm
+။	punc
+
+
+
+
+သူသူမွန်	n
+ဘိုးဘိုး	n
+က	ppm
+တီချယ်	n
+ထက်	conj
+တတ်	part
+ရော	part
+တတ်	part
+လို့	part
+လား	part
+။	punc
+(	punc
+တိုးတိုး	adv
+ပြော	v
+)	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+(	punc
+ဆရာမ	n
+က	ppm
+သူသူမွန်	n
+ကို	ppm
+ကြည့်	v
+ရင်း	conj
+)	punc
+သူသူမွန်	n
+သမီးလေး	n
+။	punc
+ဘိုးဘိုး	n
+က	ppm
+တီချယ်	n
+ထက်	conj
+ပို	adj
+တတ်	part
+တယ်	ppm
+ကွဲ့	part
+။	punc
+သမီးလေး	n
+လဲ	part
+ဘိုးဘိုး	n
+သင်	v
+ပြ	v
+တာ	part
+တွေ	part
+ကို	ppm
+မှတ်	v
+ထား	part
+ရ	part
+မယ်	ppm
+။	punc
+မှတ်	v
+ထား	part
+ပြီး	conj
+တီချယ်	n
+ကို	ppm
+လဲ	part
+ပြန်	v
+ပြော	v
+ရ	part
+မယ်	ppm
+နော်	part
+
+
+
+
+ဦးမြတ်ကျော်	n
+ငါ့	pron
+မြေး	n
+ရော	part
+ခတ္တာ	n
+ရော	part
+တီချယ်	n
+လို့	part
+မ	part
+ပြော	v
+ဘဲ	part
+မြန်မာ	n
+ဆန်ဆန်	v
+ဆရာမ	n
+လို့	part
+ပြော	v
+ကြ	part
+ပါ	part
+လား	part
+...	sb
+ကဲ	int
+...	sb
+မြေးလေး	n
+သူသူမွန်	n
+။	punc
+ဆရာမ	n
+မှာ	ppm
+တာ	part
+တွေ	part
+မှတ်	v
+ထား	part
+ရ	part
+မယ်	ppm
+နော်	part
+။	punc
+
+
+
+
+သူသူမွန်	n
+ဟုတ်ကဲ့	part
+ပါ	part
+။	punc
+တီချယ်	n
+မှာ	ppm
+တာ	part
+အဲ	pron
+လေ	part
+...	sb
+ဆရာမ	n
+မှာ	ppm
+တာ	part
+ကို	ppm
+မှတ်	v
+ထား	part
+ပါ့	part
+မယ်	ppm
+ဘိုးဘိုး	n
+။	punc
+
+
+
+
+ဒေါ်ခင်မိုးပွင့်	n
+ကဲ	int
+လာ	part
+သမီး	n
+။	punc
+ဆရာမ	n
+ဖို့	part
+ကော်ဖီ	n
+ဖျော်	v
+ကြ	part
+စို့	ppm
+။	punc
+(	punc
+ဒေါ်ခင်မိုးပွင့်	n
+က	ppm
+သူသူမွန်	n
+ကို	ppm
+အိမ်	n
+ထဲ	ppm
+ခေါ်	v
+သွား	v
+မည်	ppm
+။	punc
+)	punc
+
+
+
+
+ကဲ	int
+...	sb
+ဆရာမ	n
+ရေ	n
+၊	punc
+ကြိုတင်	adv
+ဇာတ်တိုက်	v
+ထား	part
+လို့	part
+ဇာတ်လမ်း	n
+က	ppm
+တော့	part
+ဖြောင့်	v
+သွား	v
+ပြီ	ppm
+။	punc
+နို့	n
+မ	part
+ဟုတ်	v
+ရင်	conj
+ဒို့	pron
+များ	part
+က	ppm
+ဘာ	pron
+ကို	ppm
+ပဲ	part
+ပြော	v
+ပြော	v
+၊	punc
+ဘာ	pron
+ကို	ppm
+ပဲ	part
+သင်သင်	n
+၊	punc
+တီချယ်	n
+လောက်	part
+မ	part
+တတ်	part
+ဘူး	part
+ချည်း	part
+ငြင်း	v
+နေ	part
+တာ	part
+ပဲ	part
+။	punc
+ခု	part
+တော့	part
+အဆင်ပြေ	v
+ကောင်း	adj
+ပါ	part
+ရဲ့	ppm
+။	punc
+
+
+
+
+ဒေါ်ခတ္တာ	n
+ကောင်း	adj
+ပါ	part
+တယ်	ppm
+ဆရာကြီး	n
+၊	punc
+ခု	part
+လို	v
+ဆရာ	n
+ရယ်	part
+၊	punc
+မိဘ	n
+ရယ်	part
+၊	punc
+ကျောင်းသား	n
+ရယ်	part
+ညှိနှိုင်း	v
+လုပ်	v
+တော့	part
+ပညာ	n
+ရေး	part
+မှာ	ppm
+ပို	adj
+အောင်မြင်	v
+နိုင်	part
+တာ	part
+ပေါ့	part
+။	punc
+
+
+
+
+ကားလိပ်	n
+ချ	v
+။	punc
+ပြီးပါပြီ	n
+။	punc
+ဇာတ်ဆရာ	n
+ကိုမြန်စာ	n
+။	punc
+
+
+
+
+၁	num
+။	punc
+ပြဇာတ်	n
+က	ppm
+ပြ	v
+ရာ	part
+တွင်	ppm
+ပုံဖော်	v
+ပေး	part
+သူ	pron
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၂	num
+။	punc
+ပြဇာတ်	n
+က	ppm
+ပြ	v
+ရာ	part
+တွင်	ppm
+ပြင်ဆင်	v
+ပါ	part
+ဝင်	v
+ရ	part
+မည့်	part
+အချက်	n
+များ	part
+ကို	ppm
+ဖော်ပြ	v
+ပါ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဇာတ်ညွှန်း	n
+ဆို	v
+သည်	ppm
+မှာ	ppm
+အဘယ်	pron
+နည်း	n
+။	punc
+
+
+
+
+၄	num
+။	punc
+သူသူမွန်	n
+က	ppm
+အဘိုး	n
+ဖြစ်	v
+သူ	pron
+နှင့်	conj
+ဆရာမ	n
+တို့	part
+နှစ်	tn
+ဦး	part
+တွင်	ppm
+မည်	ppm
+သူ	pron
+ကို	ppm
+ပို	adj
+၍	sb
+အလေးထား	v
+သနည်း	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+အဘိုး	n
+ဖြစ်	v
+သူ	pron
+ကို	ppm
+ဆရာမ	n
+က	ppm
+ရိုသေ	v
+စွာ	part
+ဆက်ဆံ	v
+သောအခါ	conj
+မြေးမလေး	n
+၏	sb
+စိတ်	n
+တွင်	ppm
+မည်	ppm
+သို့	ppm
+ဖြစ်	v
+နေ	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၆	num
+။	punc
+သူသူမွန်	n
+၏	sb
+စိတ်	n
+ပြောင်းလဲ	v
+သွား	v
+စေရန်	conj
+အဘိုး	n
+ဖြစ်	v
+သူ	pron
+က	ppm
+မည်	ppm
+သို့	ppm
+စီစဉ်	v
+ခဲ့	part
+သနည်း	ppm
+။	punc
+
+
+
+
+၇	num
+။	punc
+ပညာ	n
+ရေး	part
+ပိုမို	adj
+အောင်မြင်	v
+နိုင်	part
+အောင်	conj
+မည်	ppm
+သို့	ppm
+လုပ်ဆောင်	v
+သင့်	part
+သနည်း	ppm
+။	punc
+
+
+
+
+(	punc
+အမျိုး	n
+နော်	part
+တကယ်	adv
+မြတ်	adj
+ပါ	part
+တဲ့	part
+ကိုး	tn
+န၀ရတ်	n
+ရောင်စုံခြယ်)	n
+၂	num
+၊	punc
+(	punc
+ဒိုးပတ်	n
+ကို	ppm
+တဲ့	part
+လွယ်	v
+ပါ	part
+တယ်	ppm
+၊	punc
+မြန်	adj
+ပြည်နယ်	n
+ကျော်ကြား	adj
+)	punc
+၂	num
+၊	punc
+(	punc
+တီး	v
+လိုက်	part
+မယ်	ppm
+ကွဲ့	part
+ရွှေ	n
+ဒိုးသံ	n
+ကို	ppm
+)	punc
+၃	num
+။	punc
+မိုး	n
+ထက်ယံ	n
+နတ်	n
+ထံ	ppm
+က	ppm
+ကြား	v
+၊	punc
+အလို	n
+ရှင်	part
+/	sb
+အလို	n
+ဗျာ	part
+နတ်	n
+ထံ	ppm
+က	ppm
+ကြား	v
+။	punc
+
+
+
+
+လုပ်အားပေး	v
+ဖို့	part
+ထွက်	v
+လို့	part
+လာ	part
+၊	punc
+ညီညီညာညာ	adv
+လာကြလာကြ	n
+။	punc
+တစ်	tn
+ယောက်	part
+တစ်	tn
+လက်	n
+ဝိုင်း	part
+လို့	part
+ကူ	v
+၊	punc
+အများ	n
+ပြည်သူ	n
+ကောင်းဖို့ကောင်းဖို့	n
+။	punc
+ရပ်ရွာ	n
+အကျိုး	n
+သယ်ပိုး	n
+တာ	part
+၊	punc
+ဝဖြိုးသာယာ	n
+ကျန်းမာ	v
+ဖို့	part
+ပဲ	part
+။	punc
+လက်တွေ့	n
+ဖွံ့ဖြိုး	adj
+မ	part
+မေ့	v
+ပါ	part
+၊	punc
+စုကာပေါင်းကာ	n
+လုပ်ကြကိုင်ကြ	n
+။	punc
+တံတား	n
+ခင်း	v
+ပါ	part
+လမ်း	n
+ပြင်	v
+ပါ	part
+၊	punc
+အလုပ်	n
+ဆို	v
+တာ	part
+ဂုဏ်	n
+ရှိ	v
+တာ	part
+ပဲ	part
+။	punc
+ပေါက်ပြား	n
+ကိုင်	v
+ကာ	conj
+မြေဆွ	n
+ပါ	part
+၊	punc
+မြေပဒေသာ	n
+စိုက်ကြပျိုးကြ	n
+။	punc
+။	punc
+တို့	part
+ကျောင်းတော်ကြီး	n
+သန့်ရှင်း	v
+အောင်	adv
+၊	punc
+ငါ	pron
+တို့	part
+မယ်	ppm
+မောင်	pron
+ရှင်းကြလင်းကြ	n
+။	punc
+ကျောင်းရင်သွေး	n
+များ	part
+နိုးကြား	v
+ပါ	part
+၊	punc
+တိုးပွား	v
+မြန်မာ	n
+ရွှေ	n
+ပြည်	n
+သစ်	adj
+သို့	ppm
+။	punc
+ပညာ	n
+ချွန်	v
+အောင်	conj
+ကြိုးစား	v
+မှာ	ppm
+၊	punc
+ဖြိုးကြွားနောင်ခါ	n
+ချမ်းသာ	v
+မ	part
+လွဲ	v
+။	punc
+မိဘ	n
+ဆရာ	n
+တို့	part
+မေတ္တာ	n
+ရေ	n
+၊	punc
+ကျွန်ုပ်	pron
+တို့	part
+တစ်	tn
+တွေ	part
+ခံ	v
+ယူ	v
+ပါ	part
+၏	sb
+။	punc
+(	punc
+ဟေ့	part
+စိန်	n
+လား	part
+၊	punc
+ဟေ့	part
+မြ	n
+လား	part
+)	punc
+၂	num
+ဟေး	part
+လား	part
+မောင်	pron
+/	sb
+မယ်	ppm
+ရို့ဝါး	n
+။	punc
+
+
+
+
+မေးခွန်း	n
+မေး	v
+တမ်း	n
+ကစား	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+ကျွန်မ	pron
+နှစ်သက်	v
+တဲ့	part
+အားကစား	n
+နည်း	n
+တစ်	tn
+မျိုး	n
+ကို	ppm
+စာရွက်	n
+မှာ	ppm
+ရေး	part
+ထား	part
+တယ်	ppm
+။	punc
+ခန့်မှန်း	v
+ကြည့်	v
+ပါ	part
+။	punc
+တစ်	tn
+ယောက်	part
+ကို	ppm
+မေးခွန်း	n
+၁	num
+ခု	part
+စီ	part
+မေး	v
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+ကျွန်မ	pron
+က	ppm
+မဟုတ်ဘူး	n
+ပြန်	v
+ဖြေ	v
+မယ်	ppm
+။	punc
+မေးခွန်း	n
+၁ဝ	num
+ခု	part
+ပြည့်	v
+ရင်	conj
+အဖြေ	n
+တိုက်	n
+ကြည့်	v
+မယ်	ppm
+
+
+
+
+သောင်းသောင်း	n
+ရေ	n
+အဲဒီ	pron
+ကစား	v
+နည်း	n
+က	ppm
+အဖွဲ့လိုက်	n
+ကစား	v
+ရ	part
+တဲ့	part
+ကစား	v
+နည်း	n
+လား	part
+။	punc
+ဟုတ်	v
+တယ်	ppm
+။	punc
+သောင်းသောင်း	n
+ရေ	n
+အဲဒီ	pron
+ကစား	v
+နည်း	n
+က	ppm
+အားကစား	n
+ပစ္စည်း	n
+တစ်	tn
+ခုခု	n
+ကို	ppm
+သုံး	v
+ပြီး	conj
+ကစား	v
+ရ	part
+တဲ့	part
+ကစား	v
+နည်း	n
+လား	part
+။	punc
+မဟုတ်ဘူး	n
+။	punc
+
+
+
+
+မေးခွန်း	n
+၁ဝ	num
+ခု	part
+ပြည့်	v
+သွား	v
+တဲ့	part
+အတွက်	ppm
+မှတ်စု	n
+မှာ	ppm
+ကိုယ်	pron
+ထင်	v
+တဲ့	part
+အားကစား	n
+နည်း	n
+ကို	ppm
+ရေး	part
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+ဘောလုံးကန်	n
+။	punc
+ထုပ်ဆီးတိုး	n
+။	punc
+ဟုတ်	v
+ပါ	part
+တယ်	ppm
+။	punc
+ထုပ်ဆီးတိုး	n
+ဖြစ်	v
+ပါ	part
+တယ်	ppm
+
+
+
+
+နှစ်သက်	v
+ရာ	part
+တိရစ္ဆာန်	n
+အကြောင်း	n
+အဖွဲ့လိုက်	n
+အမေးအဖြေ	n
+လုပ်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+ဘယ်လို	adv
+မေး	v
+ရင်	conj
+ကောင်း	adj
+မ	part
+လဲ	part
+ဆို	v
+တာ	part
+စဉ်းစား	v
+ကြည့်	v
+ကြ	part
+မယ်	ppm
+
+
+
+
+အဖွဲ့	n
+တွင်း	n
+တာဝန်	n
+များ	part
+ကို	ppm
+ခွဲဝေ	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+မေးခွန်း	n
+မေး	v
+သူ	pron
+၁	num
+ယောက်	part
+သို့မဟုတ်	conj
+၂	num
+ယောက်	part
+။	punc
+ဖြေဆိုသူ	n
+၁	num
+ယောက်	part
+။	punc
+မေးခွန်း	n
+နှင့်	conj
+အဖြေ	n
+များ	part
+ကို	ppm
+မှတ်စု	n
+မှတ်သူ	n
+၁	num
+ယောက်	part
+
+
+
+
+အမေး	n
+အဖြေ	n
+ပြုလုပ်	v
+ပုံ	n
+အဆင့်ဆင့်	n
+၁	num
+။	punc
+ဖြေကြား	v
+မည့်	part
+သူ	pron
+သည်	ppm
+မိမိ	pron
+နှစ်သက်	v
+ရာ	part
+တိရစ္ဆာန်	n
+၏	sb
+အမည်	n
+ကို	ppm
+မှတ်စု	n
+တွင်	ppm
+ရေး	part
+ကာ	conj
+ဝှက်	v
+ထား	part
+မည်	ppm
+။	punc
+(	punc
+နှစ်သက်	v
+သော	part
+ပန်း	n
+၊	punc
+နှစ်သက်	v
+သော	part
+အစားအစာ	n
+ကို	ppm
+အဖြေ	n
+အဖြစ်	n
+ဝှက်	v
+ထား	part
+နိုင်	part
+သည်	ppm
+။	punc
+)	punc
+
+
+
+
+၂	num
+။	punc
+မေးခွန်း	n
+မေး	v
+မည့်	part
+သူ	pron
+သည်	ppm
+မေးခွန်း	n
+များ	part
+ကို	ppm
+စဉ်းစား	v
+ကာ	conj
+မေး	v
+မည်	ppm
+။	punc
+မေးခွန်း	n
+မေး	v
+မည့်	part
+သူ	pron
+၂	num
+ယောက်	part
+အထက်	n
+ရှိ	v
+နေ	part
+ပါ	part
+က	ppm
+တစ်	tn
+လှည့်	v
+စီ	part
+မေး	v
+မည်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+မှတ်စု	n
+မှတ်	v
+မည့်	part
+သူ	pron
+သည်	ppm
+အမေး	n
+၊	punc
+အဖြေ	n
+တို့	part
+ကို	ppm
+အခြား	adj
+သူ	pron
+များ	part
+မြင်	v
+သာ	part
+အောင်	conj
+ရေး	part
+မည်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+မေးခွန်း	n
+၁၀	num
+ခု	part
+ပြည့်	v
+ပါ	part
+က	ppm
+မေးခွန်း	n
+မေး	v
+သူ	pron
+သည်	ppm
+မှတ်စု	n
+ကို	ppm
+ကြည့်	v
+ကာ	conj
+အဖြေ	n
+ကို	ppm
+စဉ်းစား	v
+ပြီး	conj
+မိမိ	pron
+မှတ်စု	n
+စာအုပ်	n
+တွင်	ppm
+ရေး	part
+မည်	ppm
+။	punc
+
+
+
+
+၅	num
+။	punc
+နောက်ဆုံး	n
+တွင်	ppm
+ဖြေကြား	v
+သူ	pron
+က	ppm
+ဝှက်	v
+ထား	part
+သော	part
+အဖြေ	n
+ကို	ppm
+ပြော	v
+ကြား	v
+မည်	ppm
+။	punc
+
+
+
+
+အဖွဲ့	n
+တွင်း	n
+ပါဝင်	v
+သူ	pron
+အားလုံး	adj
+က	ppm
+မေးခွန်း	n
+မေးသူ	n
+၊	punc
+ဖြေဆိုသူ	n
+၊	punc
+မှတ်စု	n
+မှတ်သူ	n
+နေရာ	n
+ကို	ppm
+တစ်	tn
+လှည့်	v
+စီ	part
+တာဝန်	n
+ယူ	v
+လုပ်ဆောင်	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+မေးခွန်း	n
+တွေ	part
+အများကြီး	adj
+မေး	v
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+ဘယ်လို	adv
+မေးခွန်း	n
+တွေ	part
+မေး	v
+ရင်	conj
+ကောင်း	adj
+မ	part
+လဲ	part
+ဆို	v
+တာ	part
+စဉ်းစား	v
+လို့	part
+ရ	part
+တယ်	ppm
+။	punc
+
+
+
+
+နမူနာ	n
+စာစီစာကုံး	n
+က	ppm
+မောင်ဇော်သက်ပိုင်	n
+ရဲ့	ppm
+စာစီစာကုံး	n
+ဖြစ်	v
+ပါ	part
+တယ်	ppm
+။	punc
+ကလေး	n
+တို့	part
+လဲ	part
+မိသားစု	n
+ကို	ppm
+ကိုယ်	pron
+ငယ်ငယ်လေး	adv
+တုန်း	part
+က	ppm
+အကြောင်း	n
+တွေ	part
+ကို	ppm
+မေး	v
+ပြီး	conj
+စာစီစာကုံး	n
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+
+
+
+
+ဇော်သက်ပိုင်	n
+။	punc
+ကျွန်တော်	pron
+ငယ်ငယ်	adv
+က	ppm
+။	punc
+ကျွန်တော်	pron
+၏	sb
+အမည်	n
+သည်	ppm
+မောင်ဇော်သက်ပိုင်	n
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်တော်	pron
+သည်	ppm
+မေမေ့	n
+ကို	ppm
+ကျွန်တော်	pron
+ငယ်ငယ်	adv
+က	ppm
+အကြောင်း	n
+မေး	v
+ခဲ့	part
+ပါ	part
+သည်	ppm
+။	punc
+မေမေ	n
+ပြော	v
+ပြ	v
+ခဲ့	part
+သော	part
+ကျွန်တော့်	pron
+အကြောင်း	n
+ကို	ppm
+စာစီစာကုံး	n
+ရေး	part
+ပါ	part
+မည်	ppm
+။	punc
+
+
+
+
+ကျွန်တော်	pron
+သည်	ppm
+ပုသိမ်	n
+မြို့	n
+ဇာတိ	n
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ငယ်ငယ်	adv
+တုန်း	part
+က	ppm
+အငို	n
+အလွန်	adv
+သန်	adj
+သည်	ppm
+။	punc
+ပုခက်	n
+နှင့်	conj
+အိပ်	v
+ရ	part
+သည်	ppm
+ကို	ppm
+လည်း	part
+ကြိုက်	v
+သည်	ppm
+။	punc
+မေမေ	n
+က	ppm
+သီချင်း	n
+ဆို	v
+၍	sb
+သိပ်	adv
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်တော်	pron
+သည်	ppm
+နွားနို့	n
+အလွန်	adv
+ကြိုက်	v
+သည်	ppm
+။	punc
+ဖေဖေ့	n
+ကဲ့သို့	part
+အင်ဂျင်နီယာ	n
+ဖြစ်	v
+ချင်	part
+သည်	ppm
+ဟု	part
+မေမေ	n
+က	ppm
+ပြန်	v
+ပြော	v
+ပြ	v
+ပါ	part
+သည်	ppm
+။	punc
+
+
+
+
+ယခု	n
+အခါ	n
+ကျွန်တော်	pron
+ငယ်ငယ်	adv
+က	ppm
+နှင့်	conj
+မတူညီ	n
+မှု	part
+များ	part
+ရှိ	v
+လာ	part
+ပါ	part
+သည်	ppm
+။	punc
+နွားနို့	n
+ကို	ppm
+ယခင်	n
+က	ppm
+လောက်	part
+မကြိုက်	n
+သော်လည်း	conj
+အင်ဂျင်နီယာ	n
+ဖြစ်	v
+ချင်	part
+သည်	ppm
+မှာ	ppm
+မူ	part
+ငယ်ငယ်	adv
+က	ppm
+အတိုင်း	ppm
+ဖြစ်	v
+ပါ	part
+သည်	ppm
+။	punc
+ကျွန်တော်	pron
+ကြီး	part
+လာ	part
+လျှင်	conj
+အင်ဂျင်နီယာ	n
+ကြီး	part
+ဖြစ်	v
+အောင်	conj
+ကြိုးစား	v
+ပါ	part
+မည်	ppm
+။	punc
+
+
+
+
+၁	num
+။	punc
+ဇော်သက်ပိုင်	n
+က	ppm
+စာစီစာကုံး	n
+ရေး	part
+နိုင်	part
+အောင်	conj
+သူ့	pron
+မေမေ	n
+ကို	ppm
+မေး	v
+တဲ့	part
+မေးခွန်း	n
+တွေ	part
+ကို	ppm
+စဉ်းစား	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+၂	num
+။	punc
+စာစီစာကုံး	n
+ရေး	part
+ဖို့	part
+အတွက်	ppm
+ဘယ်	adj
+သူ့	pron
+ကို	ppm
+မေးခွန်း	n
+တွေ	part
+မေး	v
+ကြည့်	v
+မ	part
+လဲ	part
+။	punc
+ဘယ်	adj
+အချက်	n
+တွေ	part
+ကို	ppm
+မေး	v
+မ	part
+လဲ	part
+။	punc
+
+
+
+
+၃	num
+။	punc
+မေး	v
+ရ	part
+မဲ့	part
+သူ	pron
+ကို	ppm
+သတ်မှတ်	v
+ထား	part
+တဲ့	part
+မေးခွန်း	n
+တွေ	part
+မေး	v
+ပြီး	conj
+ပြော	v
+တာ	part
+တွေ	part
+မ	part
+မေ့	v
+ရ	part
+အောင်	conj
+မှတ်စု	n
+မှာ	ppm
+ရေး	part
+မှတ်	v
+လာ	part
+ကြ	part
+ရ	part
+မယ်	ppm
+နော်	part
+
+
+
+
+မှတ်စု	n
+နမူနာ	n
+။	punc
+အမည်	n
+။	punc
+
+
+
+
+မောင်ဝင်းခိုင်	n
+။	punc
+မွေးရပ်ဇာတိ	n
+။	punc
+ကျုံပျော်	n
+မြို့	n
+။	punc
+အနေအထိုင်	n
+အပြုအမူ	n
+။	punc
+အလွန်	adv
+အမေးအမြန်း	n
+ထူ	v
+သည်	ppm
+။	punc
+လူကြီး	n
+မိဘ	n
+တွေ	part
+ရဲ့	ppm
+ချစ်ခင်	v
+ကြင်နာ	v
+တဲ့	part
+အပြုအမူ	n
+။	punc
+ည	n
+တိုင်း	part
+ပုံ	n
+ပြော	v
+ပြ	v
+သည်	ppm
+။	punc
+ထူးခြား	adj
+ချက်	part
+များ	part
+။	punc
+မိမိ	pron
+ပစ္စည်း	n
+ကို	ppm
+သေသေချာချာ	adv
+သိမ်း	v
+သည်	ppm
+။	punc
+ကြိုက်	v
+နှစ်သတ်	n
+တဲ့	part
+အစားအစာ	n
+ကန်စွန်းဥ	n
+။	punc
+ငယ်စဉ်	n
+က	ppm
+ရည်မှန်းချက်	n
+။	punc
+‌
+ကျောင်းဆရာ	n
+။	punc
+
+
+
+
+၄	num
+။	punc
+မေး	v
+ထား	part
+တဲ့	part
+အချက်	n
+တွေ	part
+ကို	ppm
+အခြေခံ	n
+ပြီး	conj
+ဘယ်လို	adv
+စာစီစာကုံး	n
+ရေး	part
+ရ	part
+မယ်	ppm
+ဆို	v
+တာ	part
+ကို	ppm
+စဉ်းစား	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+နိဒါန်း	n
+။	punc
+မိမိ	pron
+အမည်	n
+ကို	ppm
+စတင်	v
+မိတ်ဆက်	v
+ရေးသား	v
+မည်	ppm
+။	punc
+မည်	ppm
+သည့်	part
+အကြောင်းအရာ	n
+ကို	ppm
+ရေးသား	v
+မည်	ppm
+။	punc
+မည်	ppm
+သူ့	pron
+ကို	ppm
+မေးမြန်း	v
+ခဲ့	part
+သည်	ppm
+(	punc
+သာဓက	n
+။	punc
+။	punc
+မေမေ့	n
+ကို	ppm
+)	punc
+
+
+
+
+စာကိုယ်	n
+မွေးရပ်ဇာတိ	n
+။	punc
+အနေအထိုင်	n
+အပြုအမူ	n
+။	punc
+လူကြီး	n
+မိဘ	n
+တွေ	part
+ရဲ့	ppm
+ချစ်ခင်	v
+ကြင်နာ	v
+တဲ့	part
+အပြုအမူ	n
+။	punc
+ထူးခြား	adj
+ချက်	part
+များ	part
+။	punc
+နှစ်သက်	v
+သော	part
+အရုပ်	n
+။	punc
+နှစ်သက်	v
+သော	part
+အစားအစာ	n
+။	punc
+ငယ်စဉ်	n
+က	ppm
+ဖြစ်	v
+ချင်	part
+ခဲ့	part
+သော	part
+အရာ	n
+စသည်	part
+
+
+
+
+နိဂုံး	n
+ငယ်ငယ်	adv
+က	ppm
+နှင့်	conj
+ယခု	n
+မ	part
+တူ	v
+တော့	part
+သည့်	part
+အချက်	n
+။	punc
+သိ	v
+ပြီး	conj
+အံ့အားသင့်	v
+ရ	part
+သည့်	part
+အချက်အလက်	n
+စသည်	part
+
+
+
+
+၅	num
+။	punc
+ရေး	part
+မဲ့	part
+အကြောင်းအရာ	n
+ကို	ppm
+အဖွဲ့	n
+ထဲ	ppm
+မှာ	ppm
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+၆	num
+။	punc
+ကိုယ့်	pron
+ရဲ့	ppm
+ငယ်	adj
+ဘဝ	n
+အကြောင်း	n
+ကို	ppm
+စာစီစာကုံး	n
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+(   punc
+ဇော်သက်ပိုင်	n
+၏	sb
+စာစီစာကုံး	n
+ကို	ppm
+နမူနာ	n
+ကြည့်ရှု	v
+နိုင်	part
+သည်	ppm
+။	punc
+)	punc
+
+
+
+
+၇	num
+။	punc
+ရေး	part
+ထား	part
+တာ	part
+တွေ	part
+ကို	ppm
+သူငယ်ချင်း	n
+တွေ	part
+နဲ့	ppm
+အပြန်အလှန်	adv
+လဲလှယ်	v
+ဖတ်	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+၁	num
+။	punc
+တစ်	tn
+နှစ်	tn
+တာ	part
+လုံး	part
+ဘာ	pron
+တွေ	part
+သင်ကြား	v
+ခဲ့	part
+သလဲ	part
+ဆို	v
+တာ	part
+စဉ်းစား	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ကျောင်း	n
+သုံး	v
+စာအုပ်	n
+နဲ့	ppm
+မှတ်စု	n
+စာအုပ်	n
+ပေါ်	n
+မူတည်	v
+ပြီး	conj
+စဉ်းစား	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+၂	num
+။	punc
+ကိုယ်	pron
+မှတ်မိ	v
+နေ	part
+တဲ့	part
+သင်ခန်းစာ	n
+တွေ	part
+ကို	ppm
+သူငယ်ချင်း	n
+တွေ	part
+နဲ့	ppm
+ပြော	v
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+ဘယ်	adj
+သင်ခန်းစာ	n
+မှတ်မိ	v
+သလဲ	part
+။	punc
+ဘာ	pron
+ကြောင့်	ppm
+မှတ်မိ	v
+တာ	part
+လဲ	part
+။	punc
+ဘာ	pron
+တွေ	part
+ထူးခြား	adj
+သလဲ	part
+။	punc
+သင်ခန်းစာ	n
+က	ppm
+တစ်	tn
+ဆင့်	n
+ဘာ	pron
+တွေ	part
+ပို	adj
+ပြီး	conj
+တတ်	part
+မြောက်	n
+သွား	v
+သလဲ	part
+။	punc
+ခက်ဆစ်	n
+စကားလုံး	n
+တွေ	part
+ထဲ	ppm
+က	ppm
+နှစ်သက်	v
+ရာ	part
+စကားလုံး	n
+ကို	ppm
+ရှာ	v
+ကြ	part
+မယ်	ppm
+။	punc
+
+
+
+
+၃	num
+။	punc
+ဘယ်	adj
+သင်ခန်းစာ	n
+ကို	ppm
+ကြိုးစား	v
+ပြီး	conj
+လုပ်ဆောင်	v
+ခဲ့	part
+သလဲ	part
+။	punc
+
+
+
+
+သူငယ်ချင်း	n
+တွေ	part
+ကို	ppm
+ကိုယ့်	pron
+အကြံဉာဏ်	n
+တွေ	part
+ပြော	v
+ပြ	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+ဆရာ	n
+သင်	v
+နေ	part
+တုန်း	part
+မှတ်စု	n
+သေချာ	adv
+မှတ်	v
+ခဲ့	part
+တယ်	ppm
+။	punc
+
+
+
+
+၄	num
+။	punc
+ဘယ်လို	adv
+အကြောင်းအရာ	n
+၊	punc
+အဖြစ်အပျက်	n
+တွေ	part
+ထူးခြား	adj
+တာ	part
+ရှိ	v
+သလဲ	part
+။	punc
+သင်	v
+ခဲ့	part
+တာ	part
+ပေါ်	n
+မူတည်	v
+ပြီး	conj
+ရ	part
+ရှိ	v
+ခဲ့	part
+တဲ့	part
+အတွေးအမြင်	n
+တွေ	part
+ကို	ppm
+မှတ်စု	n
+မှာ	ppm
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+၅	num
+။	punc
+ပဉ္စမတန်း	n
+မှာ	ppm
+ဘယ်လို	adv
+သင်ခန်းစာ	n
+တွေ	part
+ကို	ppm
+သင်ချင်	n
+သလဲ	part
+ဆို	v
+တာ	part
+မှတ်စု	n
+မှာ	ppm
+ရေး	part
+ကြည့်	v
+ကြ	part
+ရ	part
+အောင်	conj
+။	punc
+
+
+
+
+(	punc
+မြန်မာ့	n
+လွတ်လပ်	v
+ရေး	part
+အတွက်	ppm
+တပ်မတော်	n
+ဖွဲ့	v
+ဖို့	part
+ဂျပန်	n
+ပြည်	n
+မှာ	ppm
+ကွယ်	part
+...	sb
+တကယ်	adv
+ပဲ	part
+အသက်	n
+နဲ့	ppm
+လဲ	part
+လို့	part
+ဆင်းရဲ	v
+ဒုက္ခ	n
+ခံ	v
+ကာ	conj
+ကြံစည်	v
+တယ်	ppm
+...	sb
+သူရဲကောင်း	n
+တဲ့	part
+ဗိုလ်အောင်ဆန်း	n
+နဲ့	ppm
+အာဇာနည်	n
+တွေ	part
+ရယ်	part
+...	sb
+)	punc
+၂	num
+
+
+
+
+ငါတို့	n
+မြန်မာ	n
+ပြည်	n
+...	sb
+အမိအဖ	n
+တိုင်း	part
+က	ppm
+ကွယ်	part
+ဗိုလ်အောင်ဆန်း	n
+လို	v
+သူရဲကောင်း	n
+တွေ	part
+မွေး	v
+ရ	part
+မယ်	ppm
+။	punc
+ငါတို့	n
+မြန်မာ	n
+ပြည်	n
+ဝယ်	v
+...	sb
+အမိအဖ	n
+အပေါင်း	n
+တို့	part
+က	ppm
+ကွယ်	part
+အာဇာနည်	n
+အစစ်	n
+ကို	ppm
+တို့	part
+တစ်	tn
+တွေ	part
+မွေး	v
+ရ	part
+မယ်	ppm
+။	punc
+သြော်	int
+...	sb
+ဘုရင့်နောင်	n
+နဲ့	ppm
+ရာဇာဓိရာဇ်	n
+တို့	part
+လို	v
+မင်းရဲကျော်စွာ	n
+ပမာပုံနှယ်	n
+အလောင်းဘုရား	n
+တို့	part
+လို	v
+ကွယ်	part
+...	sb
+မြန်မာ	n
+တိုင်း	part
+မြန်မာ	n
+မျိုး	n
+အားကိုး	v
+လောက်	part
+ပေ	part
+တဲ့	part
+...	sb
+မ	part
+ကြောက်တမ်း	n
+မရွံ့တမ်း	n
+မြန်မာ	n
+တွေ	part
+အောင်	conj
+ပန်း	n
+ဆွတ်	n
+ရှာ	v
+လေ	part
+တယ်	ppm
+။	punc
+
+
+
+
+သံပြိုင်	n
+။	punc
+။	punc
+(	punc
+ရာဇဝင်	n
+အတ္ထုပ္ပတ္တိ	n
+လဲ	part
+ရှိ	v
+ရ	part
+မယ်	ppm
+မော်ကွန်း	n
+လဲ	part
+ထိုး	v
+လောက်	part
+တယ်	ppm
+မြင့်မြတ်	adj
+တဲ့	part
+ဗိုလ်အောင်ဆန်း	n
+ရယ်	part
+)	punc
+၂	num
+
+
+
+
+တိုင်းပြည်	n
+အကျိုး	n
+စွန့်	v
+ခဲ့	part
+တဲ့	part
+များ	part
+ဇာနည်နွယ်	n
+လွတ်လပ်	v
+ဖို့	part
+တို့	part
+များ	part
+ကို	ppm
+ကျွန်တွင်း	n
+မှ	ppm
+ကယ်	v
+တို့	part
+မြန်မာ	n
+တွေ	part
+စိုးမိုး	v
+ဖို့	part
+မျှော်	v
+ကြ	part
+ရှာ	v
+လို့	part
+ပေါ်	n
+လာ	part
+တယ်	ppm
+။	punc
+
+
+
+
+မြန်မာ	n
+နိုင်ငံ	n
+ထူထောင်	v
+ရန်	conj
+အတွက်	ppm
+မျိုးရိုး	n
+မ	part
+တိမ်	n
+အောင်	conj
+...	sb
+ကြံဆောင်	v
+လေ	part
+တယ်	ppm
+.	sb
+နေမျိုးသာကီ	n
+မြန်မာ	n
+ပြည်	n
+လက်ရုံး	n
+...	sb
+မြန်မာ	n
+နိုင်ငံ	n
+အလုံး	n
+ထင်	v
+ပေါ်	n
+စေ	part
+တယ်	ppm
+...	sb
+စိတ်	n
+အား	ppm
+သန်သန်	n
+မာန်	n
+ကို	ppm
+မ	part
+လျော့	v
+တယ်	ppm
+ငါ	pron
+တို့	part
+လူမျိုး	n
+တန်ခိုး	n
+ရှိ	v
+ဖို့	part
+သူ	pron
+ရဲ	n
+ကောင်း	adj
+တွေ	part
+စုံညီ	n
+တယ်	ppm
+...	sb
+တကယ်ပင်	n
+...	sb
+သတိုးမဟာဗန္ဓုလ	n
+နှယ်	n
+အစွမ်းသတ္တိ	n
+ရာဇဝင်	n
+ပြောင်	v
+တယ်	ppm
+...	sb
+သား	n
+ကောင်း	adj
+များ	part
+လို့	part
+ခေါ်	v
+ရ	part
+လောက်	part
+ပေ	part
+တယ်	ppm
+...	sb
+ဥဒါန်း	n
+တွင်	ppm
+စေ	part
+ဖွယ်	part
+မြန်မာ	n
+သူရဲကောင်း	n
+အပေါင်း	n
+တွေ	part
+ရယ်	part
+။	punc
+
+
+
+
+သံပြိုင်	n
+။	punc
+။	punc
+(	punc
+ရာဇဝင်	n
+အတ္ထုပ္ပတ္တိ	n
+လဲ	part
+ရှိ	v
+ရ	part
+မယ်	ppm
+...	sb
+...	sb
+ဗိုလ်အောင်ဆန်း	n
+ရယ်	part
+)	punc
+၂	num
+တိုင်းပြည်	n
+အကျိုး	n
+...	sb
+...	sb
+မျှော်	v
+ကြ	part
+ရှာ	v
+လို့	part
+ပေါ်	n
+လာ	part
+တယ်	ppm
+။	punc
+
+
+
+
+က	n
+။	punc
+ကတွတ်ပေါက်	n
+၅	num
+၇	num
+။	punc
+ကာပြန်	n
+၅	num
+၇	num
+။	punc
+ကန်တော့	v
+၆	num
+၁	num
+။	punc
+ကျူးရင့်	n
+၆	num
+။	punc
+ကျေးဇူး	n
+၆	num
+၁	num
+။	punc
+
+
+
+
+ခ	n
+။	punc
+ခရီးဦး	n
+ကြို	adv
+၆	num
+
+
+
+
+ဂ	n
+။	punc
+ဂုဏ်သိက္ခာ	n
+၅၇	num
+
+
+
+
+စ	n
+။	punc
+စီးတော်မြင်း	n
+၆	num
+။	punc
+စေတနာ	n
+၆	num
+
+
+
+
+ဆ	part
+။	punc
+ဆား	n
+ပေါက်	v
+သော	part
+မြေ	n
+၁၃	num
+။	punc
+ဆုလာဘ်	n
+၅	num
+၇	num
+။	punc
+ဆည်းဆာ	n
+၄၀	num
+
+
+
+
+ဇ	n
+။	punc
+ဇာတ်နိပါတ်	n
+၃၂	num
+
+
+
+
+တ	n
+။	punc
+တာဝတိံသာ	n
+၆	num
+၁	num
+။	punc
+တောကစား	n
+၆	num
+။	punc
+တစ်	tn
+ဖို့	part
+တည်း	part
+၆	num
+။	punc
+တန်ဆေးလွန်ဘေး	n
+၁၃	num
+
+
+
+
+ထ	n
+။	punc
+ထိုးဇာတ်	n
+၃၂	num
+
+
+
+
+န	n
+။	punc
+နံရံဆေးရေး	n
+ပန်းချီ	n
+၄၀	num
+။	punc
+နောင်လာနောက်သား	n
+၆	num
+
+
+
+
+ပ	n
+။	punc
+ပ	n
+လို့	part
+၃	num
+၂	num
+။	punc
+ပူဇော်	v
+၆၁	num
+
+
+
+
+ဗ	n
+။	punc
+ဗိသုကာ	n
+လက်ရာ	n
+၄၀	num
+။	punc
+ဗုဒ္ဓဝင်	n
+၃၂	num
+
+
+
+
+ဘ	n
+။	punc
+ဘိုးဘေး	n
+၆	num
+
+
+
+
+မ	n
+။	punc
+မြေဝိုင်းဇာတ်	n
+၃	num
+၂	num
+။	punc
+မြို့ရိုး	n
+၄၀	num
+။	punc
+မြိန်ရှက်	n
+စွာ	part
+၆	num
+။	punc
+မှတ်သား	v
+ထိုက်ပေစွ	n
+၆	num
+။	punc
+မျှော်လင့်	v
+၆	num
+
+
+
+
+ယ	n
+။	punc
+ယိမ်းအက	n
+၃၂	num
+
+
+
+
+ရ	n
+။	punc
+ရေနံမီးတိုင်	n
+၃	num
+၂	num
+။	punc
+ရည်စူး	v
+၆၁	num
+
+
+
+
+လ	n
+။	punc
+လုလင်၅၇	n
+
+
+
+
+သန်လျက်	n
+။	punc
+သမိုင်းဝင်	n
+၄၀	num
+။	punc
+သလော	part
+၆	num
+။	punc
+သာမန်	adj
+၁၃	num
+။	punc
+သုတေသန	n
+၄၀	num
+။	punc
+သင့်မြတ်	v
+၆	num
+။	punc
+သန်လျက်	n
+၅	num
+၇	num
+။	punc
+သုံး	v
+ဆောင်	v
+၆	num
+
+
+
+
+ဟ n
+။	punc
+ဟန်အက	n
+၃၂	num
+
+
+
+
+အ	v
+။	punc
+အရသာ	n
+ပေါ့ပြက်ပြက်	adv
+၁၃	num
+။	punc
+အရှင့်သား	n
+၆	num
+။	punc
+အောက်လင်းဓာတ်မီး	n
+၃၂	num
+
+
+
+
+ဩ	n
+။	punc
+ဩဝါဒ	n
+၄၀	num
