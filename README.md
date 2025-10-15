@@ -9,5 +9,5 @@ This project focuses on **Myanmar text readability assessment**, including datas
 - **Top results:** Random Forest Classifier ≈ 82.4% accuracy; Random Forest Regressor baseline R² ≈ 0.80.
 
 ## Notes & next steps
-- The current dataset is imbalanced across grades — expanding lower-grade samples is recommended. For more information, please refer to the ReadabilityReport.pdf.
+- The current dataset is imbalanced across grades — expanding lower-grade samples is recommended. For more information, please refer to the [ReadabilityReport.pdf](https://github.com/Seng-Pan/myReadability/blob/main/ReadabilityReport.pdf).
 - Future work: richer Burmese-specific linguistic features and transformer-based models (BERT-like) for better semantic modeling.
